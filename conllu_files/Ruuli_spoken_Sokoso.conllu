@@ -1,0 +1,664 @@
+# newdoc id = spokenTale_Sokoso
+# sent_id = spokenTale_Sokoso_1
+# text = maka gange.
+# english = In my home.
+1	maka	maka	NOUN	_	NounClass=Bantu6	0	root	0:root	Gloss=6.home|MSeg=maka
+2	gange	ange	PRON	ASSOC	NounClass=Bantu6|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	1	nmod:poss	1:nmod:poss	Gloss=6-1sgPOSS|MSeg=ga-ange|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_2
+# text = Wabula kola ki?
+# english = Instead do what…
+1	Wabula	wabula	CCONJ	_	_	2	advmod	2:advmod	Gloss=instead|MSeg=wabula
+2	kola	kola	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=do-FV|MSeg=kol-a
+3	ki	ki	PRON	_	PronType=Int	2	obj	2:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_3
+# text = Ira waanywei.
+# english = Go back to your home.
+1	Ira	ita	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=go-FV|MSeg=it-a
+2	waanywei	anywe	PRON	ASSOC	NounClass=Bantu16|Number=Sing|Person[psed]=3|Person[psor]=2|Poss=Yes|PronType=Prs	1	obl	1:obl	Gloss=16-2sgPOSS|MSeg=wa-anywe|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_4
+# text = Oba nimwo,
+# english = Maybe that is,
+1	Oba	oba	ADV	_	_	2	advmod	2:advmod	Gloss=maybe|MSeg=oba
+2	nimwo	nimwo	INTJ	_	_	0	root	0:root	Gloss=indeed|MSeg=nimwo|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_5
+# text = baakubuuliriire, umhu!
+# english = when they will advise you, umhu!
+1	baakubuuliriire	buuliira	VERB	_	Mood=Sub|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=2|Tense=Past|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=2S-PST-2sgO-counsel-APPL-SBJV|MSeg=ba-a-ku-buuliir-iir-e|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	3:punct	_
+3	umhu	uhu	INTJ	_	_	1	discourse	1:discourse	Gloss=INTERJ|MSeg=uhu|SpaceAfter=No
+4	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_6
+# text = Nalekere,
+# english = I left,
+1	Nalekere	leka	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-leave-PFV|MSeg=n-a-lek-ere|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_7
+# text = omusaiza asigaire na oma wamwei, ng’omukali akoore ki?
+# english = when the man stayed with his mother, while the wife he had done what?
+1	omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.man|MSeg=o-musaiza
+2	asigaire	siga	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-remain-PFV|MSeg=a-siga-ire
+3	na	na	ADP	COM	_	4	case	4:case	Gloss=COM|MSeg=na
+4	oma	ma	NOUN	_	NounClass=Bantu1|Referent=Yes	2	obl	2:obl	Gloss=AUG-1.mother|MSeg=o-ma
+5	wamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Gloss=1-1POSS|MSeg=wa-amwei|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+7-8	ng’omukali	_	_	_	_	_	_	_	_
+7	ng’	nga	SCONJ	_	_	9	mark	9:mark	Gloss=while|MSeg=nga
+8	omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	9	nsubj	9:nsubj	Gloss=AUG-1.wife|MSeg=o-mukali
+9	akoore	kola	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	Gloss=1S-do:PFV|MSeg=a-koore
+10	ki	ki	PRON	_	PronType=Int	9	obj	9:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+11	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_8
+# text = Amugobere.
+# english = Sent her away.
+1	Amugobere	goba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-send_away-PFV|MSeg=a-mu-gob-ere|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_9
+# text = Ninzwayo, nyize nkole ki?
+# english = I left, [so that] I come to do what…
+1-2	Ninzwayo	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ninzwa	zwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-leave-FV|MSeg=ni-n-zw-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+4	nyize	iza	VERB	_	Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	1	advcl	1:advcl	Gloss=1sgS-come-SBJV|MSeg=n-iz-e
+5	nkole	kola	VERB	_	Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	4	advcl	4:advcl	Gloss=1sgS-do-SBJV|MSeg=n-kol-e
+6	ki	ki	PRON	_	PronType=Int	5	obj	5:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_10
+# text = Nkunyumize bye naboine.
+# english = I tell you what I saw.
+1	Nkunyumize	nyumiza	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|VerbForm=Fin	0	root	0:root	_
+2	bye	e	PRON	_	NounClass=Bantu8|PronType=Rel	1	obj	1:obj|3:obj	_
+3	naboine	bona	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	2:acl:relcl	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_11
+# text = Nga akoba, “Otaka okulya?”
+# english = She asked, "Do you want to eat?"
+1	Nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	akoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-say-FV|MSeg=a-kob-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	5:punct	_
+4	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+5	Otaka	taka	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Gloss=2sgS-want-FV|MSeg=o-tak-a
+6	okulya	lya	VERB	_	Referent=Yes|VerbForm=Inf	5	xcomp	5:xcomp	Gloss=AUG-INF-eat-FV|MSeg=o-ku-ly-a|SpaceAfter=No
+7	?	?	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+8	”	”	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_12
+# text = “hmmm, ntaka okulya.”
+# english = "Hmmm (Yes), I want to eat."
+1	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+2	hmmm	hmm	INTJ	_	_	4	discourse	4:discourse	Gloss=INTERJ|MSeg=hmm|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	ntaka	taka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-want-FV|MSeg=n-tak-a
+5	okulya	lya	VERB	_	Referent=Yes|VerbForm=Inf	4	xcomp	4:xcomp	Gloss=AUG-INF-eat-FV|MSeg=o-ku-ly-a|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+7	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_13
+# text = “Uhu…
+# english = “Uhu …
+1	“	“	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Uhu	uhu	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=uhu|SpaceAfter=No
+3	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_14
+# text = …Eeeh!…
+# english = …Eeeh!…
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Eeeh	eeh	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_15
+# text = Nikaimuka bambi,
+# english = She stood up.
+1	Nikaimuka	imuka	VERB	_	Mood=Ind|NounClass=Bantu12|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-12S-stand_up-FV|MSeg=ni-ka-imuk-a
+2	bambi	bambi	INTJ	_	_	1	discourse	1:discourse	Gloss=gosh|MSeg=bambi|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_16
+# text = nikaimuka.
+# english = She stood up.
+1	nikaimuka	imuka	VERB	_	Mood=Ind|NounClass=Bantu12|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-12S-stand_up-FV|MSeg=ni-ka-imuk-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_17
+# text = Nti amabeere ganu nje g'ogadya, ngo gayoncerye onaani?
+# english = That "these breasts of mine you disturb, are the ones which breast fed who..."
+1	Nti	nti	SCONJ	QUOT	_	4	mark	4:mark	Gloss=QUOT|MSeg=nti
+2	amabeere	ibeere	NOUN	_	NounClass=Bantu6|Referent=Yes	9	nsubj:outer	6:obj|9:nsubj:outer	Gloss=AUG-6.breast|MSeg=a-mabeere
+3	ganu	ni	DET	_	Deixis=Prox|NounClass=Bantu6|PronType=Dem	2	det	2:det	Gloss=6.PROX|MSeg=ganu
+4	nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Gloss=1sg|MSeg=nje
+5-6	g'ogadya	_	_	_	_	_	_	_	SpaceAfter=No
+5	g'	e	PRON	_	NounClass=Bantu6|PronType=Rel	6	obj	2:ref	Gloss=6.REL|MSeg=ge
+6	ogadya	gadya	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=2sgS-disturb-FV|MSeg=o-gadya-a
+7	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+8	ngo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu6|Person=3|Tense=Pres	9	cop	9:cop	Gloss=COP-6|MSeg=ni-go
+9	gayoncerye	onca	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu6|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=6S-breastfeed:PFV|MSeg=ga-oncerye
+10	onaani	naani	PRON	_	PronType=Int|Referent=Yes	9	obj	9:obj	Gloss=AUG-who|MSeg=o-naani|SpaceAfter=No
+11	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_18
+# text = Nakuleetere kola ki?
+# english = I brought you to do what…
+1	Nakuleetere	leeta	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-2sgO-bring-PFV|MSeg=n-a-ku-leet-ere
+2	kola	kola	VERB	_	VerbForm=Inf	1	xcomp	1:xcomp	Gloss=do-FV|MSeg=kol-a
+3	ki	ki	PRON	_	PronType=Int	1	obj	1:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_19
+# text = Namulekere ng'akwaba.
+# english = I left her leaving.
+1	Namulekere	leka	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=1|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-1O-leave-PFV|MSeg=n-a-mu-lek-ere
+2-3	ng'akwaba	_	_	_	_	_	_	_	SpaceAfter=No
+2	ng'	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+3	akwaba	aba	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	Gloss=1S-PROG-go-FV|MSeg=a-ku-ab-a
+4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_20
+# text = Akwaba akunga, ng'omusaiza amaliriire,
+# english = Leaving as wept, but the man was firmly,
+1	Akwaba	aba	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-go-FV|MSeg=a-ku-ab-a
+2	akunga	kunga	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	1	conj	1:conj	Gloss=1S-cry-FV|MSeg=a-kung-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+4-5	ng'omusaiza	_	_	_	_	_	_	_	_
+4	ng'	nga	SCONJ	_	_	6	mark	6:mark	Gloss=while|MSeg=nga
+5	omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-1.man|MSeg=o-musaiza
+6	amaliriire	malira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	Gloss=1S-be_determined-PFV|MSeg=a-malir-ire|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_21
+# text = nakoba, nti ntakutaka mu kiki?
+# english = and said "I no longer need you in what…
+1	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	nti	nti	SCONJ	QUOT	_	4	mark	4:mark	Gloss=QUOT|MSeg=nti
+4	ntakutaka	taka	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-NEG-2sgO-want-FV|MSeg=n-ta-ku-tak-a
+5	mu	mu	ADP	LOC	NounClass=Bantu18	6	case	6:case	Gloss=18.LOC|MSeg=mu
+6	kiki	kiki	PRON	_	PronType=Int	4	obl	4:obl	Gloss=what|MSeg=kiki|SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_22
+# text = Gayoncerye oibaamu.
+# english = Breast-fed your husband.
+1	Gayoncerye	onca	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu6|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=6S-breastfeed:PFV|MSeg=ga-oncerye
+2	oibaamu	iba	NOUN	_	NounClass=Bantu1|Number=Sing|Person=2|Poss=Yes|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.husband-2sgPOSS|MSeg=o-iba-amu|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_23
+# text = Oibaamu.
+# english = Your husband.
+1	Oibaamu	iba	NOUN	_	NounClass=Bantu1|Number=Sing|Person=2|Poss=Yes|Referent=Yes	0	root	0:root	Gloss=AUG-1.husband-2sgPOSS|MSeg=o-iba-amu|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_24
+# text = Ati oibaamwei nazwayo,
+# english = Now her husband came out,
+1	Ati	ati	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=ati
+2	oibaamwei	iba	NOUN	_	NounClass=Bantu1|NounClass[psor]=Bantu1|Person=3|Poss=Yes|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.husband-1POSS|MSeg=o-iba-amwe
+3-4	nazwayo	_	_	_	_	_	_	_	SpaceAfter=No
+3	nazwa	zwa	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=n-a-zw-a
+4	yo	yo	ADV	LOC	NounClass=Bantu23	3	advmod:loc	3:advmod:loc	Gloss=23.LOC|MSeg=yo
+5	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_25
+# text = nga aswakiire, omutaani ni yaboine, nga bakugadya omamwei, nazwayo nga aswakiire.
+# english = when he is furious, when the son saw, his mother being disturbed, he came out furious.
+1	nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	aswakiire	swakira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	Gloss=1S-be_angry:PFV|MSeg=a-swakiire|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+4	omutaani	mutaani	NOUN	_	NounClass=Bantu1|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-1.son|MSeg=o-mutaani
+5	ni	ni	SCONJ	_	_	6	mark	6:mark	Gloss=when|MSeg=ni
+6	yaboine	bona	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	12	advcl	12:advcl	Gloss=1S-PST-see:PFV|MSeg=a-a-boine|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+8	nga	nga	SCONJ	_	_	9	mark	9:mark	Gloss=while|MSeg=nga
+9	bakugadya	gadya	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	6:ccomp	Gloss=2S-PROG-disturb-FV|MSeg=ba-ku-gady-a
+10	omamwei	ma	NOUN	_	NounClass=Bantu1|NounClass[psor]=Bantu1|Person=3|Poss=Yes|Referent=Yes	9	obj	9:obj	Gloss=AUG-1.mother-1POSS|MSeg=o-ma-amwei|SpaceAfter=No
+11	,	,	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+12-13	nazwayo	_	_	_	_	_	_	_	_
+12	nazwa	zwa	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=n-a-zw-a
+13	yo	yo	ADV	LOC	NounClass=Bantu23	12	advmod:loc	12:advmod:loc	Gloss=23.LOC|MSeg=yo
+14	nga	nga	SCONJ	_	_	15	mark	15:mark	Gloss=while|MSeg=nga
+15	aswakiire	swakira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	Gloss=1S-be_angry:PFV|MSeg=a-swakiire|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	15:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_26
+# text = Omusaiza tiyasookere kukinyonyoka.
+# english = The man didn’t understand it first.
+1	Omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj|3:nsubj:xsubj	Gloss=AUG-1.man|MSeg=o-musaiza
+2	tiyasookere	sooka	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=NEG-1S-PST-do_first-PFV|MSeg=ti-a-a-sook-ere
+3	kukinyonyoka	nyonyoka	VERB	_	NounClass=Bantu7|Person=3|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=INF-7O-understand-FV|MSeg=ku-ki-nyonyok-a|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_27
+# text = Nakoba "ndimala kweboneraku…
+# english = And he said "I will see for myself first…
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=n-a-kob-a|SpacesAfter=\n
+2	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+3	ndimala	mala	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-FUT-finish-FV|MSeg=n-li-mal-a
+4-5	kweboneraku	_	_	_	_	_	_	_	SpaceAfter=No
+4	kwebonera	bona	VERB	_	VerbForm=Inf|Voice=Appl|Voice[add]=Rfl	3	xcomp	3:xcomp	Gloss=INF-REFL-see-APPL-FV|MSeg=ku-ee-bon-er-a
+5	ku	ku	ADV	LOC	NounClass=Bantu17	4	advmod:loc	4:advmod:loc	Gloss=17.LOC|MSeg=ku
+6	…	…	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_28
+# text = …Tinawure bankobeire…
+# english = …I will not listen to rumours…
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Tinawure	wura	VERB	_	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin	0	root	0:root	Gloss=NEG-1sgS-FUT-listen-SBJV|MSeg=ti-n-a-wur-e
+3	bankobeire	koba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin|Voice=Appl	2	ccomp	2:ccomp	Gloss=2S-1sgO-say-APPL:PFV|MSeg=ba-n-kob-eire|SpaceAfter=No
+4	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_29
+# text = …ndisooka kola ki?…
+# english = …I will first do what?…
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	ndisooka	sooka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	0:root	Gloss=1sgS-FUT-do_first-FV|MSeg=n-di-sook-a
+3	kola	kola	VERB	_	VerbForm=Inf	2	xcomp	2:xcomp	Gloss=do-FV|MSeg=kol-a
+4	ki	ki	PRON	_	PronType=Int	3	obj	3:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_30
+# text = …Kwebonera."
+# english = …See for myself."
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Kwebonera	bona	VERB	_	VerbForm=Inf|Voice=Appl|Voice[add]=Rfl	0	root	0:root	Gloss=INF-REFL-see-APPL-FV|MSeg=ku-ee-bon-er-a|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_31
+# text = Omusaiza ni yamaare... lwali olwo,
+# english = After the man finished … one day
+1	Omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.man|MSeg=o-musaiza
+2	ni	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+3	yamaare	mala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-finish:PFV|MSeg=a-a-maare|SpaceAfter=No
+4	...	...	PUNCT	_	_	3	punct	3:punct	_
+5	lwali	lwali	NOUN	_	NounClass=Bantu11	3	obl	3:obl	Gloss=11.day|MSeg=lwali
+6	olwo	o	DET	_	Deixis=Med|NounClass=Bantu11|PronType=Dem	5	det	5:det	Gloss=11.MED|MSeg=olwo|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_32
+# text = Iyii.
+# english = Iyii!
+1	Iyii	iyii	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=iyii|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_33
+# text = Omukali nasumba,
+# english = The wife cooked food,
+1	Omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.wife|MSeg=o-mukali
+2	nasumba	sumba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-cook-FV|MSeg=n-a-sumb-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_34
+# text = emere neya,
+# english = the food got ready.
+1	emere	mere	NOUN	_	NounClass=Bantu9|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-9.food|MSeg=e-mere
+2	neya	iya	VERB	_	Mood=Ind|NounClass=Bantu9|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=9S-get_ready-FV|MSeg=n-iy-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_35
+# text = naika okwibula, ni yayikire okwiwula, yete ekintu yali yakimanyiriire,
+# english = it came time to serve the food, When it was time for serving (the food), as a routine, The wife (lit. the thing) cooked food and it was ready.
+1	naika	ika	VERB	_	Mood=Ind|NounClass=Bantu9|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=ni-a-ik-a
+2	okwibula	ibula	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-serve_food-FV|MSeg=o-ku-ibul-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+4	ni	ni	SCONJ	_	_	5	mark	5:mark	Gloss=when|MSeg=ni
+5	yayikire	ika	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu9|Person=3|Tense=Past|VerbForm=Fin	11	advcl	11:advcl	Gloss=9S-PST-come-PFV|MSeg=e-a-ik-ire
+6	okwiwula	iwula	VERB	_	Referent=Yes|VerbForm=Inf	5	xcomp	5:xcomp	Gloss=AUG-INF-prepare_food-FV|MSeg=o-ku-iwul-a|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+8	yete	yete	CCONJ	_	_	11	cc	11:cc	Gloss=how_about|MSeg=yete
+9	ekintu	kintu	NOUN	_	NounClass=Bantu7|Referent=Yes	11	obj	11:obj	Gloss=AUG-7.thing|MSeg=e-kintu
+10	yali	li	AUX	_	NounClass=Bantu1|Person=3|Tense=Past	11	aux	11:aux	Gloss=1S-PST-AUX|MSeg=a-a-li
+11	yakimanyiriire	manyiira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu7|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	1	parataxis	1:parataxis	Gloss=1S-PST-7O-do_habitually:PFV|MSeg=a-a-ki-manyiriire|SpaceAfter=No
+12	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_36
+# text = Obinisya omaama.
+# english = You make my mother dance.
+1	Obinisya	bina	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=2sgS-dance-CAUS-FV|MSeg=o-bin-isy-a
+2	omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj:caus	1:obj:caus	Gloss=AUG-1.mother|MSeg=o-maama|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_37
+# text = Omaama emere gy'alya,
+# english = The food that my mother eats,
+1	Omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.mother|MSeg=o-maama
+2	emere	mere	NOUN	_	NounClass=Bantu9|Referent=Yes	0	root	0:root|4:obj	Gloss=AUG-9.food|MSeg=e-mere
+3-4	gy'alya	_	_	_	_	_	_	_	SpaceAfter=No
+3	gy'	e	PRON	_	NounClass=Bantu9|PronType=Rel	4	obj	2:ref	Gloss=9.REL|MSeg=gye
+4	alya	lya	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=1S-eat-FV|MSeg=a-ly-a
+5	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_38
+# text = amala jipakasa?
+# english = she first works for it.
+1	amala	mala	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-finish-FV|MSeg=a-mal-a
+2	jipakasa	pakasa	VERB	_	NounClass=Bantu9|Person=3|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=9O-work_for_wage-FV|MSeg=ji-pakas-a|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_39
+# text = oireyo je baakubyaire,
+# english = to go where you were born,
+1-2	oireyo	_	_	_	_	_	_	_	_
+1	oire	ira	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-go:PFV|MSeg=o-ire
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	je	e	PRON	_	NounClass=Bantu23|PronType=Rel	1	obl	1:obl	Gloss=23.REL|MSeg=gye
+4	baakubyaire	byala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=2|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=2S-PST-2sgO-give_birth:PFV|MSeg=ba-a-ku-byayire|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_40
+# text = okole ki?
+# english = and they do what...
+1	okole	kola	VERB	_	Mood=Sub|NounClass=Bantu2|Person=3|VerbForm=Fin	0	root	0:root	Gloss=2S-do-SBJV|MSeg=o-kol-e
+2	ki	ki	PRON	_	PronType=Int	1	obj	1:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_41
+# text = Bakubuuliire.
+# english = And they advise you.
+1	Bakubuuliire	buuliira	VERB	_	Mood=Sub|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=2|VerbForm=Fin	0	root	0:root	Gloss=2S-2sgO-advise-SBJV|MSeg=ba-ku-buuliir-e|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_43
+# text = Nakoba, "Mwojo wotobba."
+# english = One of them said, "Son, in your absence,
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=n-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	Mwojo	mwojo	NOUN	_	NounClass=Bantu1	5	vocative	5:vocative	Gloss=1.son|MSeg=mwojo
+5	wotobba	bba	VERB	COP	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=2sgS-NEG-COP|MSeg=o-ti-bba|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+7	"	"	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_44
+# text = "Eeh."
+# english = "Eeh."
+1	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Eeh	eeh	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_45
+# text = "Omukali wamwei oyo", "eeh".
+# english = "That wife of yours", "eeh".
+1	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root	Gloss=AUG-1.wife|MSeg=o-mukali
+3	wamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Gloss=1-1POSS|MSeg=wa-amwei
+4	oyo	o	DET	_	Deixis=Med|NounClass=Bantu1|PronType=Dem	2	det	2:det	Gloss=1.MED|MSeg=oyo|SpaceAfter=No
+5	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	8:punct	_
+7	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+8	eeh	eeh	INTJ	_	_	2	parataxis	2:parataxis	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_46
+# text = Naika okuwa omaawo emere…
+# english = "She gives your mother food…
+1	Naika	ika	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=n-a-ik-a
+2	okuwa	wa	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-give-FV|MSeg=o-ku-w-a
+3	omaawo	ma	NOUN	_	NounClass=Bantu1|Number=Sing|Person=2|Poss=Yes|Referent=Yes	2	iobj	2:iobj	Gloss=AUG-1.mother-2sgPOSS|MSeg=o-ma-awo
+4	emere	mere	NOUN	_	NounClass=Bantu9|Referent=Yes	2	obj	2:obj	Gloss=AUG-9.food|MSeg=e-mere|SpaceAfter=No
+5	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_47
+# text = …asooka kumubinishya."
+# english = …after she has made her dance."
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	asooka	sooka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-do_first-FV|MSeg=a-sook-a
+3	kumubinishya	bina	VERB	_	NounClass=Bantu1|Person=3|VerbForm=Inf|Voice=Cau	2	xcomp	2:xcomp	Gloss=INF-1O-dance-CAUS-FV|MSeg=ku-mu-bin-isy-a|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_48
+# text = Ati ni yabbaire n'ako awo, Odi omweryana waako ng'akaakalya kubbi.
+# english = As he lived with her, Her daughter-in-law used to mistreat her.
+1	Ati	ati	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=ati
+2	ni	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+3	yabbaire	bba	VERB	COP	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	12	advcl	12:advcl	Gloss=1S-PST-COP-PFV|MSeg=a-a-bba-ire
+4-5	n'ako	_	_	_	_	_	_	_	_
+4	n'	na	ADP	COM	_	5	case	5:case	Gloss=COM|MSeg=na
+5	ako	ko	PRON	_	NounClass=Bantu12|Person=3|PronType=Prs|Referent=Yes	3	obl	3:obl	Gloss=AUG-12|MSeg=a-ko
+6	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	3	advmod	3:advmod	Gloss=16.MED|MSeg=awo|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+8	Odi	di	DET	_	Deixis=Remt|NounClass=Bantu1|PronType=Dem	9	det	9:det	Gloss=1.DIST|MSeg=odi
+9	omweryana	mweryana	NOUN	_	NounClass=Bantu1|Referent=Yes	12	nsubj	12:nsubj	Gloss=AUG-1.daughter_in_law|MSeg=o-mweryana
+10	waako	ako	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu12|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Gloss=1-12.POSS|MSeg=wa-ako
+11-12	ng'akaakalya	_	_	_	_	_	_	_	_
+11	ng'	nga	SCONJ	_	_	12	mark	12:mark	Gloss=while|MSeg=nga
+12	akaakalya	akalya	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu12|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-12O-treat-FV|MSeg=a-ka-akaly-a
+13	kubbi	kubbi	ADV	_	_	12	advmod	12:advmod	Gloss=badly|MSeg=kubbi|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_49
+# text = Ni yasumbanga emere, ng'omutaani taalowo, ng'akakoba, nti "sooka ombiniremu."
+# english = Whenever she cooked food, when her son was absent she used to tell her, "Dance for me first."
+1	Ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2	yasumbanga	sumba	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	11	advcl	11:advcl	Gloss=1S-PST-cook-HAB-FV|MSeg=a-a-sumb-nga-a
+3	emere	mere	NOUN	_	NounClass=Bantu9|Referent=Yes	2	obj	2:obj	Gloss=AUG-9.food|MSeg=e-mere|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+5-6	ng'omutaani	_	_	_	_	_	_	_	_
+5	ng'	nga	SCONJ	_	_	8	mark	8:mark	Gloss=while|MSeg=nga
+6	omutaani	mutaani	NOUN	_	NounClass=Bantu1|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-1.son|MSeg=o-mutaani
+7-8	taalowo	_	_	_	_	_	_	_	SpaceAfter=No
+7	taalo	li	AUX	COP	NounClass=Bantu1|Person=3|Polarity=Neg|Tense=Past	8	cop	8:cop	Gloss=NEG-1S-PST-COP|MSeg=ti-a-a-li
+8	wo	wo	ADV	LOC	NounClass=Bantu16	11	advcl	11:advcl	Gloss=16.LOC|MSeg=wo
+9	,	,	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+10-11	ng'akakoba	_	_	_	_	_	_	_	SpaceAfter=No
+10	ng'	nga	SCONJ	_	_	11	mark	11:mark	Gloss=while|MSeg=nga
+11	akakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu12|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-12O-say-FV|MSeg=a-ka-kob-a
+12	,	,	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+13	nti	nti	SCONJ	QUOT	_	16	mark	16:mark	Gloss=QUOT|MSeg=nti
+14	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+15	sooka	sooka	ADV	_	_	16	advmod	16:advmod	Gloss=first|MSeg=sooka
+16-17	ombiniremu	_	_	_	_	_	_	_	SpaceAfter=No
+16	ombinire	bina	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|VerbForm=Fin|Voice=Appl	11	ccomp	11:ccomp	Gloss=2sgS-1sgO-dance-APPL-SBJV|MSeg=o-n-bin-ir-e
+17	mu	mu	ADV	LOC	NounClass=Bantu18	16	advmod:loc	16:advmod:loc	Gloss=18.LOC|MSeg=mu
+18	.	.	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+19	"	"	PUNCT	_	_	16	punct	16:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_50
+# text = kayimukanga, ne kabina.
+# english = she would stand up and dance.
+1	kayimukanga	imuka	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu12|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=12S-stand_up-HAB-FV|MSeg=ka-imuk-ang-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+3	ne	na	CCONJ	_	_	4	cc	4:cc	Gloss=and|MSeg=ne
+4	kabina	bina	VERB	_	Mood=Ind|NounClass=Bantu12|Person=3|Tense=Pres|VerbForm=Fin	1	conj	1:conj	Gloss=12S-dance-FV|MSeg=ka-bin-a|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_51
+# text = Odi nasanyuka muno,
+# english = The other one was very amused,
+1	Odi	di	PRON	_	Deixis=Remt|NounClass=Bantu1|Person=3|PronType=Dem	2	nsubj	2:nsubj	Gloss=1.DIST|MSeg=odi
+2	nasanyuka	sanyuka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-be_happy-FV|MSeg=n-a-sanyuk-a
+3	muno	muno	ADV	_	_	2	advmod	2:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_52
+# text = naseka,
+# english = and laughed,
+1	naseka	seka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-laugh-FV|MSeg=ni-a-sek-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_53
+# text = nakoba, "ale nkole ki?…
+# english = and said: "and I do what?…
+1	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+3	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	ale	ale	ADV	_	_	5	advmod	5:advmod	Gloss=then|MSeg=ale
+5	nkole	kola	VERB	_	Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-do-SBJV|MSeg=n-kol-e
+6	ki	ki	PRON	_	PronType=Int	5	obj	5:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+7	?	?	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+8	…	…	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_54
+# text = …Nkuwe emere.”
+# english = …I give you food."
+1	…	…	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Nkuwe	wa	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|VerbForm=Fin	0	root	0:root	Gloss=1sgS-2sgO-give-SBJV|MSeg=n-ku-w-e
+3	emere	mere	NOUN	_	NounClass=Bantu9|Referent=Yes	2	obj	2:obj	Gloss=AUG-9.food|MSeg=e-mere|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+5	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_55
+# text = Iyii!
+# english = Iyii!
+1	Iyii	iyii	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=iyii|SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_56
+# text = Abaliraanwa baabwe ni baboine ekintu ekyo, nikibaluma.
+# english = When their neighbours saw such a thing, it hurt them.
+1	Abaliraanwa	muliraanwa	NOUN	_	NounClass=Bantu2|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-2.neighbour|MSeg=a-baliranwa
+2	baabwe	abwe	PRON	ASSOC	NounClass[psed]=Bantu2|NounClass[psor]=Bantu2|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	1	nmod:poss	1:nmod:poss	Gloss=2-2.POSS|MSeg=ba-abwe
+3	ni	ni	SCONJ	_	_	4	mark	4:mark	Gloss=when|MSeg=ni
+4	baboine	bona	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	8:advcl	Gloss=2S-see:PFV|MSeg=ba-boine
+5	ekintu	kintu	NOUN	_	NounClass=Bantu7|Referent=Yes	4	obj	4:obj	Gloss=AUG-7.thing|MSeg=e-kintu
+6	ekyo	o	DET	_	Deixis=Med|NounClass=Bantu7|PronType=Dem	5	det	5:det	Gloss=7.MED|MSeg=ekyo|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+8	nikibaluma	luma	VERB	_	Mood=Ind|NounClass=Bantu7|NounClass[obj]=Bantu2|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-7S-2O-hurt-FV|MSeg=ni-ki-ba-lum-a|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_57
+# text = Oma wawo.
+# english = Your mother.
+1	Oma	ma	NOUN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root	Gloss=AUG-1.mother|MSeg=o-ma
+2	wawo	awo	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=2|Poss=Yes|PronType=Prs	1	nmod:poss	1:nmod:poss	Gloss=1-2sgPOSS|MSeg=wa-awo|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_58
+# text = Kanu akabina kanu k'okubona, niko kaabyayire kiki?
+# english = These buttocks that you see, are the ones that gave birth to what?
+1	Kanu	ni	PRON	_	Deixis=Prox|NounClass=Bantu12|Person=3|PronType=Dem	2	det	2:det	Gloss=12.PROX|MSeg=kanu
+2	akabina	kabina	NOUN	_	NounClass=Bantu12|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-12.buttocks|MSeg=a-kabina
+3	kanu	ni	PRON	_	Deixis=Prox|NounClass=Bantu12|Person=3|PronType=Dem	2	appos	2:appos|5:obj	Gloss=12.PROX|MSeg=kanu
+4-5	k'okubona	_	_	_	_	_	_	_	SpaceAfter=No
+4	k'	e	PRON	_	NounClass=Bantu12|PronType=Rel	5	obj	3:ref	Gloss=12.REL|MSeg=ke
+5	okubona	bona	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=2sgS-PROG-see-FV|MSeg=o-ku-bon-a
+6	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+7	niko	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu12|Person=3|Tense=Pres	8	cop	8:cop	Gloss=COP-12|MSeg=ni-ko
+8	kaabyayire	byala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu12|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=12S-PST-give_birth:PFV|MSeg=ka-a-byayire
+9	kiki	kiki	PRON	_	PronType=Int	8	obj	8:obj	Gloss=what|MSeg=kiki|SpaceAfter=No
+10	?	?	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_59
+# text = Oma waawo…
+# english = Your mother…
+1	Oma	ma	NOUN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root	Gloss=AUG-1.mother|MSeg=o-ma
+2	waawo	awo	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=2|Poss=Yes|PronType=Prs	1	nmod:poss	1:nmod:poss	Gloss=1-2sgPOSS|MSeg=wa-awo|SpaceAfter=No
+3	…	…	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_60
+# text = Onanka oiba waamu.
+# english = I mean your husband.
+1	Onanka	nanka	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nmod:desc	2:nmod:desc	Gloss=AUG-1.whats_his_name|MSeg=o-nanka
+2	oiba	iba	NOUN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root	Gloss=AUG-1.husband|MSeg=o-iba
+3	waamu	amu	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Gloss=1.GEN-2sgPOSS|MSeg=wa-amu|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_61
+# text = Ganu amabeere ganu g'okubona ganu agafuukure obusapatu, nigo gaakoore ki?
+# english = These breasts that you see that has become like slippers, are the ones that did what?
+1	Ganu	ni	DET	_	Deixis=Prox|NounClass=Bantu6|PronType=Dem	2	det	2:det	Gloss=6.PROX|MSeg=ganu
+2	amabeere	ibeere	NOUN	_	NounClass=Bantu6|Referent=Yes	11	nsubj	11:nsubj	Gloss=AUG-6.breast|MSeg=a-mabeere
+3	ganu	ni	PRON	_	Deixis=Prox|NounClass=Bantu6|Person=3|PronType=Dem	2	appos	2:appos|5:obj	Gloss=6.PROX|MSeg=ganu
+4-5	g'okubona	_	_	_	_	_	_	_	_
+4	g'	e	PRON	_	NounClass=Bantu6|PronType=Rel	5	obj	2:ref	Gloss=6.REL|MSeg=ge
+5	okubona	bona	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=2sgS-PROG-see-FV|MSeg=o-ku-bon-a
+6	ganu	ni	DET	_	Deixis=Prox|NounClass=Bantu6|PronType=Dem	2	det	2:det	Gloss=6.PROX|MSeg=ganu
+7	agafuukure	fuuka	VERB	REL	Aspect=Perf|Mood=Ind|NounClass=Bantu6|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=S.REL-6S-turn_into-PFV|MSeg=a-ga-fuuk-ire
+8	obusapatu	kasapatu	NOUN	_	NounClass=Bantu14|Referent=Yes	7	obj	7:obj	Gloss=AUG-14.slipper|MSeg=o-busapatu|SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+10	nigo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu6|Person=3|Tense=Pres	11	cop	11:cop	Gloss=COP-6|MSeg=ni-go
+11	gaakoore	kola	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu6|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=6S-PST-do:PFV|MSeg=ga-a-koore
+12	ki	ki	PRON	_	PronType=Int	11	obj	11:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+13	?	?	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_62
+# text = Awo olwaikire
+# english = Once upon a time,
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	2	advmod	2:advmod	Gloss=16.MED|MSeg=awo
+2	olwaikire	lwaikire	ADV	_	Referent=Yes	0	root	0:root	Gloss=AUG-once|MSeg=o-lwaikire|SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_63
+# text = niwabbawo omusaiza,
+# english = there was a man
+1-2	niwabbawo	_	_	_	_	_	_	_	_
+1	niwabba	bba	VERB	COP	Mood=Ind|NounClass=Bantu16|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-16S-COP|MSeg=ni-wa-bba
+2	wo	wo	ADV	LOC	NounClass=Bantu16	1	advmod	1:advmod	Gloss=16.LOC|MSeg=wo
+3	omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	1	nsubj	1:nsubj	Gloss=AUG-1.man|MSeg=o-musaiza|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_64
+# text = nawasa omukazi.
+# english = who married a wife.
+1	nawasa	wasa	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-marry-FV|MSeg=ni-a-was-a
+2	omukazi	mukazi	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.woman|MSeg=o-mukazi|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_65
+# text = Ni yawasire omukali waamwei ng'alina akama wamwei kakaire
+# english = When he married his wife, he had his old mother,
+1	Ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2	yawasire	wasa	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	6	advcl	6:advcl	Gloss=1S-PST-marry-PFV|MSeg=a-a-was-ire
+3	omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	2	obj	2:obj	Gloss=AUG-1.wife|MSeg=o-mukali
+4	waamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=1.GEN-1POSS|MSeg=wa-amwei|SpacesAfter=\n
+5-6	ng'alina	_	_	_	_	_	_	_	_
+5	ng'	nga	SCONJ	_	_	6	mark	6:mark	Gloss=while|MSeg=nga
+6	alina	lina	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-have-FV|MSeg=a-lin-a
+7	akama	kama	NOUN	_	NounClass=Bantu12|Referent=Yes	6	obj	6:obj	Gloss=AUG-12.mother|MSeg=a-kama
+8	wamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=1-1.POSS|MSeg=wa-amwei
+9	kakaire	kaire	ADJ	_	NounClass=Bantu12	8	amod	8:amod	Gloss=12-old|MSeg=ka-kaire|SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_66
+# text = Nalekere,
+# english = I left,
+1	Nalekere	leka	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-leave-PFV|MSeg=n-a-lek-ere|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_67
+# text = omukali akwaba akunga, ng'aswaire.
+# english = the wife leaving while crying, when she was ashamed.
+1	omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.wife|MSeg=o-mukali
+2	akwaba	aba	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-go-FV|MSeg=a-ku-ab-a
+3	akunga	kunga	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj	Gloss=1S-cry-FV|MSeg=a-kung-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+5-6	ng'aswaire	_	_	_	_	_	_	_	SpaceAfter=No
+5	ng'	nga	SCONJ	_	_	6	mark	6:mark	Gloss=while|MSeg=nga
+6	aswaire	swala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	Gloss=1S-be_ashamed-PFV|MSeg=a-swal-ire
+7	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Sokoso_68
+# text = Nakoba, "ka nsigale n’omaama, okusinga ni wabonyaabonya omaama.
+# english = The husband said, "let me remain with my mother, instead of you mistreating her.
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	ka	ka	PART	_	Hort=Yes	5	discourse	5:discourse	Gloss=HORT|MSeg=ka
+5	nsigale	sigala	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-remain-SBJV|MSeg=n-sigal-e
+6-7	n’omaama	_	_	_	_	_	_	_	SpaceAfter=No
+6	n’	na	ADP	COM	_	7	case	7:case	Gloss=COM|MSeg=na
+7	omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	5	obl	5:obl	Gloss=AUG-1.mother|MSeg=o-maama
+8	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+9	okusinga	okusinga	SCONJ	_	_	11	mark	11:mark	Gloss=instead_of|MSeg=okusinga
+10	ni	ni	SCONJ	_	_	11	mark	11:mark	Gloss=NAR|MSeg=ni
+11	wabonyaabonya	bonyaabonya	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	5	advcl	5:advcl	Gloss=2sgS-FUT-mistreat-FV|MSeg=o-a-bonyaabonya-a
+12	omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	11	obj	11:obj	Gloss=AUG-1.mother|MSeg=o-maama|SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+

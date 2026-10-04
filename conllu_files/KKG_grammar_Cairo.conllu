@@ -1,0 +1,309 @@
+# newdoc id = grammar_Cairo
+# sent_id = grammar_Cairo_1
+# text = Axas ge ǁîs ǀhōsa ǃoa sîǂkhanisa go xoa.
+# english = The girl wrote a letter to her friend.
+1	Axas	axa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	ǀhōsa	ǀhō	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
+5	ǃoa	ǃoa	ADP	_	_	4	case	4:case	_
+6	sîǂkhanisa	sîǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
+7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+8	xoa	xoa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_2
+# text = Tita ge "ǀawi i ge ra" ti ra ǂâi.
+# english = I think that it is raining.
+1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+3	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	ǀawi	ǀawi	VERB	_	Voice=Act	11	ccomp	11:ccomp	_
+5	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	SpaceAfter=No
+8	"	"	PUNCT	_	_	4	punct	4:punct	_
+9	ti	ti	PART	QUOT	_	4	mark	4:mark	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	ǂâi	ǂâi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_3
+# text = ǁîb ge ǂgaes tsî ās tsîna ǀûsa ge dītsâ.
+# english = He tried to stop smoking and drinking.
+1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	3:nsubj:xsubj|6:nsubj:xsubj|10:nsubj:xsubj|13:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
+3-4	ǂgaes	_	_	_	_	_	_	_	_
+3	ǂgae	ǂgae	VERB	_	Voice=Act	10	xcomp	10:xcomp	_
+4	s	s	SCONJ	NMLZ	Case=Nom	3	mark	3:mark	_
+5	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
+6-7	ās	_	_	_	_	_	_	_	_
+6	ā	ā	VERB	_	Voice=Act	3	conj	3:conj|10:xcomp	_
+7	s	s	SCONJ	NMLZ	Case=Nom	6	mark	6:mark	_
+8-9	tsîna	_	_	_	_	_	_	_	_
+8	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
+9	na	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	3	conj	3:conj	_
+10-11	ǀûsa	_	_	_	_	_	_	_	_
+10	ǀû	ǀû	VERB	_	Voice=Act	13	xcomp	13:xcomp	_
+11	sa	s	SCONJ	NMLZ	Case=Acc	10	mark	10:mark	_
+12	ge	ge	AUX	_	Tense=Past	13	aux	13:aux	_
+13	dītsâ	dītsâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	13:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_4
+# text = Ī ǂgaos ra?
+# english = Do you want to go?
+1	Ī	ī	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
+2-3	ǂgaos	_	_	_	_	_	_	_	_
+2	ǂgao	ǂgao	VERB	_	Voice=Act	0	root	0:root	_
+3	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	2	nsubj	1:nsubj:xsubj|2:nsubj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_5
+# text = Sam, mûǂuidaosa ǁkhowa-am re
+# english = Sam, open the window!
+1	Sam	Sam	PROPN	_	_	4	vocative	4:vocative	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	mûǂuidaosa	mûǂuidao	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǁkhowa-am	ǁkhowa-am	VERB	_	Voice=Act	0	root	0:root	_
+5	re	re	AUX	PDIR	Mood=Imp	4	aux	4:aux	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_6
+# text = ǁîs ge ǁîs aoba audosa go ǁā kai.
+# english = She made her husband wash the car.
+1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	aoba	ao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	7:nsubj:xsubj|8:obj	_
+5	audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
+6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+7	ǁā	ǁā	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
+8	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_7
+# text = Peteri di ǁanǁare-aob ge daraba ǀawase go ǂkhau.
+# english = Peter’s neighbor painted the fence red.
+1	Peteri	Peter	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
+2	di	di	ADP	POSS	_	1	case	1:case	_
+3	ǁanǁare-aob	ǁanǁare-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+5	daraba	dara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
+6	ǀawase	ǀawase	ADV	_	_	8	advmod	8:advmod	_
+7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+8	ǂkhau	ǂkhau	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_8
+# text = Ti dadab ge sab xa a ǃgâise.
+# english = My dad is cooler than yours.
+1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	dadab	dada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+4-5	sab	_	_	_	_	_	_	_	_
+4	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	_
+6	xa	xa	ADP	_	_	5	case	5:case	_
+7	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
+8	ǃgâise	ǃgâise	ADV	_	_	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_9
+# text = Marys ge bronze-e go dan, Petera ǀhaiǀuriba, tsî Janesa ǃhuniǀuriba.
+# english = Mary won bronze, Peter silver, and Jane gold
+1	Marys	Mary	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	bronze-e	bronze	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	OrigLang=en
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	dan	dan	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	7:punct	_
+7	Petera	Petera	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	conj	5:conj	_
+8	ǀhaiǀuriba	ǀhaiǀuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	orphan	7:orphan	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	11:punct	_
+10	tsî	tsî	CCONJ	_	_	11	cc	11:cc	_
+11	Janesa	Janesa	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	conj	5:conj	_
+12	ǃhuniǀuriba	ǃhuniǀuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	orphan	11:orphan	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_10
+# text = Iguazuba kai tamas ka i o ǂkhari ǃhūba?
+# english = Is Iguazu a big or a small country?
+1	Iguazuba	Iguazu	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nsubj	9:nsubj	_
+2	kai	kai	VERB	_	Voice=Act	9	amod	9:amod	_
+3-4	tamas	_	_	_	_	_	_	_	_
+3	tama	tama	PART	NEG	ExtPos=CCONJ|Polarity=Neg	8	cc	8:cc	_
+4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	3	fixed	3:fixed	_
+5	ka	ka	AUX	POT	Mood=Pot	3	fixed	3:fixed	_
+6	i	i	AUX	COP.NPRS	Tense=Fut,Past,RecPast	3	fixed	3:fixed	_
+7	o	o	SCONJ	_	_	3	fixed	3:fixed	_
+8	ǂkhari	ǂkhari	ADJ	_	_	2	conj	2:conj|9:amod	_
+9	ǃhūba	ǃhū	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
+10	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_11
+# text = Peter Smithi tamas ka i o Mary Browns ge ǁhûihe ǁkhā tite.
+# english = Neither Peter Smith nor Mary Brown could be selected.
+1	Peter	Peter	PROPN	_	_	12	nsubj	11:nsubj:pass:xsubj|12:nsubj	_
+2	Smithi	Smith	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	flat:name	1:flat:name	_
+3-4	tamas	_	_	_	_	_	_	_	_
+3	tama	tama	PART	NEG	ExtPos=CCONJ|Polarity=Neg	8	cc	8:cc	_
+4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	3	fixed	3:fixed	_
+5	ka	ka	AUX	POT	Mood=Pot	3	fixed	3:fixed	_
+6	i	i	AUX	COP.NPRS	Tense=Fut,Past,RecPast	3	fixed	3:fixed	_
+7	o	o	SCONJ	_	_	3	fixed	3:fixed	_
+8	Mary	Mary	PROPN	_	_	1	conj	1:conj|11:nsubj:pass:xsubj|12:nsubj	_
+9	Browns	Brown	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	flat:name	8:flat:name	_
+10	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
+11	ǁhûihe	ǁhûi	VERB	_	Voice=Pass	12	xcomp	12:xcomp	_
+12	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
+13	tite	tite	AUX	FUT.NEG	Polarity=Neg|Tense=Fut	12	aux	12:aux	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_12
+# text = ǁîn ge ǂâi-e ūhâ tama tari-i go xoa ǃkhaisa.
+# english = They have no idea who wrote it.
+1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	ǂâi-e	ǂâi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	_
+4	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	_
+5	tama	tama	PART	NEG	Polarity=Neg	4	advmod	4:advmod	_
+6	tari-i	tari	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	8	nsubj	8:nsubj	_
+7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+8	xoa	xoa	VERB	_	Voice=Act	3	acl	3:acl	_
+9	ǃkhaisa	ǃkhais	SCONJ	COMPL	Case=Acc	8	mark	8:mark	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_13
+# text = Tare-ets ra kō?
+# english = What are you looking at?
+1-2	Tare-ets	_	_	_	_	_	_	_	_
+1	Tare-e	tare	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	4	obj	4:obj	_
+2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
+4	kō	kō	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_14
+# text = "Mâ ǁaets hā ǁkhā" tits ra ǂâi?
+# english = When do you think you can come?
+1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+2	Mâ	mâ	DET	_	PronType=Int	3	det	3:det	_
+3-4	ǁaets	_	_	_	_	_	_	_	_
+3	ǁae	ǁae	NOUN	_	_	5	obl	5:obl	_
+4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
+5	hā	hā	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
+6	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	11	ccomp	11:ccomp	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	6:punct	_
+8-9	tits	_	_	_	_	_	_	_	_
+8	ti	ti	PART	QUOT	_	6	mark	6:mark	_
+9	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	ǂâi	ǂâi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	?	?	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_15
+# text = ǁîb ge audosa go ǁamabasen xawe ǁîb ǃgâba ǀurihāb ǀguiba.
+# english = He bought a car but his brother just a bike.
+1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǁamabasen	ǁama	VERB	_	Voice=ApplRfl	0	root	0:root	_
+6	xawe	xawe	CCONJ	_	_	8	cc	8:cc	_
+7	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+8	ǃgâba	ǃgâba	NOUN	_	_	5	conj	5:conj	_
+9	ǀurihāb	ǀurihā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	orphan	8:orphan	_
+10	ǀguiba	ǀgui	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	amod	9:amod	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_16
+# text = Peteri tsî Marys tsîra ge ǁnamgu tsî ǃnā-omsa xu go ī.
+# english = Peter and Mary hugged each other and then left the room.
+1	Peteri	Peter	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj|12:nsubj	_
+2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
+3	Marys	Mary	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	1:conj|7:nsubj|12:nsubj	_
+4-5	tsîra	_	_	_	_	_	_	_	_
+4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
+5	ra	_	PRON	_	Case=Nom|Gender=Fem|Number=Dual|Person=3|PronType=Prs	1	conj	1:conj|7:nsubj|12:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+7	ǁnamgu	ǁnam	VERB	_	Voice=Rcp	0	root	0:root	_
+8	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
+9	ǃnā-omsa	ǃnā-om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obl	12:obl	_
+10	xu	xu	ADP	_	_	9	case	9:case	_
+11	go	go	AUX	_	Tense=RecPast	12	aux	12:aux	_
+12	ī	ī	VERB	_	Voice=Act	7	conj	7:conj	SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_17
+# text = ǁîs ge ǁîs ǀûna ga dī hâ xawe ǀnî ǃaromas ai go dī ǁoa i ǁnātsē.
+# english = She should have been doing her hair but for some reason she wouldn’t that day.
+1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|13:nsubj:xsubj|14:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	ǀûna	ǀû	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	_
+5	ga	ga	AUX	POT	Mood=Pot	6	aux	6:aux	_
+6	dī	dī	VERB	_	Voice=Act	0	root	0:root	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	_
+8	xawe	xawe	CCONJ	_	_	14	cc	14:cc	_
+9	ǀnî	ǀnî	DET	_	PronType=Ind	10	det	10:det	_
+10	ǃaromas	ǃaroma	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	obl	14:obl	_
+11	ai	ai	ADP	_	_	10	case	10:case	_
+12	go	go	AUX	_	Tense=RecPast	14	aux	14:aux	_
+13	dī	dī	VERB	_	Voice=Act	14	xcomp	14:xcomp	_
+14	ǁoa	ǁoa	VERB	STAT	Voice=Act	6	conj	6:conj	_
+15	i	i	AUX	INTi	Mood=Int	14	aux	14:aux	_
+16	ǁnātsē	ǁnātsē	ADV	_	_	14	advmod	14:advmod	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_18
+# text = Tita ge go ǃkhoesaohō tama hâ i, ǁîb go ǃhaese goro ǃkhoe amaga.
+# english = I wasn’t able to keep up, because he ran too fast.
+1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	go	go	AUX	_	Tense=RecPast	4	aux	4:aux	_
+4	ǃkhoesaohō	ǃkhoesaohō	VERB	_	Voice=Act	0	root	0:root	_
+5	tama	tama	PART	NEG	Polarity=Neg	4	advmod	4:advmod	_
+6	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	_
+7	i	i	AUX	NEG.AUX	_	4	aux	4:aux	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	13:punct	_
+9	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+10	go	go	AUX	_	Tense=RecPast	13	aux	13:aux	_
+11	ǃhaese	ǃhaese	ADV	_	_	13	advmod	13:advmod	_
+12	goro	goro	AUX	RPST.IPFV	Aspect=Imp|Tense=RecPast	13	aux	13:aux	_
+13	ǃkhoe	ǃkhoe	VERB	_	Voice=Act	4	advcl	4:advcl	_
+14	amaga	amaga	SCONJ	_	_	13	mark	13:mark	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_19
+# text = Nē sîǂkhanis ge Petera xu ra ǀkhī tsî ǁari go ǀkhī-ūhe.
+# english = This letter is from Peter and it was delivered yesterday.
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+2	sîǂkhanis	sîǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj|11:nsubj:pass	_
+3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+4	Petera	Peter	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
+5	xu	xu	ADP	_	_	4	case	4:case	_
+6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+7	ǀkhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	_
+8	tsî	tsî	CCONJ	_	_	11	cc	11:cc	_
+9	ǁari	ǁari	ADV	_	_	11	advmod	11:advmod	_
+10	go	go	AUX	_	Tense=RecPast	11	aux	11:aux	_
+11	ǀkhī-ūhe	ǀkhī-ū	VERB	_	Voice=Pass	7	conj	7:conj	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = grammar_Cairo_20
+# text = ǁîs ge Paris-i ǃnâ ge kai, France-i di danakaiǃāsa.
+# english = She grew up in Paris, the capital of France.
+1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Paris-i	Paris	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	10:punct	_
+8	France-i	France	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nmod:poss	10:nmod:poss	_
+9	di	di	ADP	POSS	_	8	case	8:case	_
+10	danakaiǃāsa	danakaiǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	appos	3:appos	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+

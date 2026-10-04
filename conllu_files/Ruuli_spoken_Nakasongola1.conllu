@@ -1,0 +1,1410 @@
+# newdoc id = graphy_Nakasongola1
+# sent_id = graphy_Nakasongola1_1
+# text = nga tuloleera oku bwomi bwa mwoyo,
+# english = we look at the spiritual life,
+1	nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	tuloleera	loleera	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1plS-look_at-FV|MSeg=tu-loleer-a
+3	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	4	case	4:case	Gloss=AUG-17.LOC|MSeg=o-ku
+4	bwomi	bwomi	NOUN	_	NounClass=Bantu14	2	obl	2:obl	Gloss=14.life|MSeg=bwomi
+5	bwa	a	PART	GEN	NounClass=Bantu14	6	case	6:case	Gloss=14.GEN|MSeg=bwa
+6	mwoyo	mwoyo	NOUN	_	NounClass=Bantu3	4	nmod	4:nmod	Gloss=3.heart|MSeg=mwoyo|SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_2
+# text = okubakubiriza okwaba omu maiso n'okuluma
+# english = to mobilize them continue cultivating
+1	okubakubiriza	kubiriza	VERB	_	NounClass=Bantu2|Person=3|Referent=Yes|VerbForm=Inf	0	root	0:root	Gloss=AUG-INF-2O-encourage-FV|MSeg=o-ku-ba-kubiriz-a
+2	okwaba	aba	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-go-FV|MSeg=o-ku-ab-a
+3	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	4	case	4:case	Gloss=AUG-18.LOC|MSeg=o-mu
+4	maiso	riiso	NOUN	_	NounClass=Bantu6	1	obl	1:obl	Gloss=6.eye|MSeg=maiso
+5-6	n'okuluma	_	_	_	_	_	_	_	SpacesAfter=\n
+5	n'	na	CCONJ	_	_	6	cc	6:cc	Gloss=COM|MSeg=na
+6	okuluma	luma	VERB	_	Referent=Yes|VerbForm=Inf	2	conj	1:xcomp|2:conj	Gloss=AUG-INF-cultivate-FV|MSeg=o-ku-lum-a
+
+# sent_id =graphy_Nakasongola1_3
+# text = ate era n'okwongera okuteekamu amaani omu bya buliisya.
+# english = and to add more efforts in cattle rearing.
+1	ate	ate	CCONJ	_	ExtPos=CCONJ	4	cc	4:cc	Gloss=and|MSeg=ate
+2	era	era	CCONJ	_	_	1	fixed	1:fixed	Gloss=and|MSeg=era
+3-4	n'okwongera	_	_	_	_	_	_	_	_
+3	n'	na	CCONJ	COM	_	4	cc	4:cc	Gloss=COM|MSeg=na
+4	okwongera	ongera	VERB	_	Referent=Yes|VerbForm=Inf	0	root	0:root	Gloss=AUG-INF-continue-FV|MSeg=o-ku-onger-a
+5-6	okuteekamu	_	_	_	_	_	_	_	_
+5	okuteeka	teeka	VERB	_	Referent=Yes|VerbForm=Inf	4	xcomp	4:xcomp	Gloss=AUG-INF-place-FV|MSeg=o-ku-teek-a
+6	mu	mu	ADV	LOC	NounClass=Bantu18	5	advmod:loc	5:advmod:loc	Gloss=18.LOC|MSeg=mu
+7	amaani	maani	NOUN	_	NounClass=Bantu6|Referent=Yes	5	obj	5:obj	Gloss=AUG-6.effort|MSeg=a-maani
+8	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	10	case	10:case	Gloss=AUG-18.LOC|MSeg=o-mu
+9	bya	a	PART	GEN	NounClass=Bantu8	10	case	10:case	Gloss=8.GEN|MSeg=bya
+10	buliisya	buliisya	NOUN	_	NounClass=Bantu14	5	obl	5:obl	Gloss=14.hearding|MSeg=buliisya|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_4
+# text = nayabate omu bindi,
+# english = he went to do other things,
+1-2	nayabate	_	_	_	_	_	_	_	_
+1	nayaba	aba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-go-FV|MSeg=ni-a-ab-a
+2	te	te	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=te
+3	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	4	case	4:case	Gloss=AUG-18.LOC|MSeg=o-mu
+4	bindi	ndi	PRON	_	NounClass=Bantu8|PronType=Ind	1	obl	1:obl	Gloss=8-other|MSeg=bi-ndi|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_5
+# text = Yeena naiza nakolawo awo, nitubba naye
+# english = and he came and stayed there with him
+1-2	Yeena	_	_	_	_	_	_	_	_
+1	Yee	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	3	nsubj	3:nsubj	Gloss=1|MSeg=ye
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	naiza	iza	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=ni-a-iz-a
+4-5	nakolawo	_	_	_	_	_	_	_	_
+4	nakola	kola	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	3	conj	3:conj	Gloss=NAR-1S-do-FV|MSeg=ni-a-kol-a
+5	wo	wo	ADV	LOC	NounClass=Bantu16	4	advmod:loc	4:advmod:loc	Gloss=16.LOC|MSeg=wo
+6	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	4	advmod	4:advmod	Gloss=16.MED|MSeg=awo|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	nitubba	bba	VERB	COP	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	3	conj	3:conj	Gloss=NAR-1plS-COP|MSeg=ni-tu-bba
+9	naye	naye	CCONJ	_	_	3	conj	3:conj	Gloss=but|MSeg=naye|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_6
+# text = omwaka nka gulamba,
+# english = like for a year
+1	omwaka	mwaka	NOUN	_	NounClass=Bantu3|Referent=Yes	0	root	0:root	Gloss=AUG-3.year|MSeg=o-mwaka
+2	nka	nka	ADP	_	_	1	case	1:case	Gloss=like|MSeg=nka
+3	gulamba	lamba	ADJ	_	NounClass=Bantu3	1	amod	1:amod	Gloss=3-whole|MSeg=gu-lamba|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_7
+# text = Ninyaba omu maiso,
+# english = I went ahead,
+1	Ninyaba	aba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-go-FV|MSeg=ni-n-ab-a
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	maiso	riiso	NOUN	_	NounClass=Bantu6	1	obl	1:obl	Gloss=6.eye|MSeg=maiso|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_8
+# text = nibampeerya omulimu okutandika
+# english = and they gave me a job to start
+1	nibampeerya	weerya	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1sgO-give-FV|MSeg=ni-ba-n-weery-a
+2	omulimu	mulimu	NOUN	_	NounClass=Bantu3|Referent=Yes	1	nsubj	1:nsubj	Gloss=AUG-3.job|MSeg=o-mulimu
+3	okutandika	tandika	VERB	_	Referent=Yes|VerbForm=Inf	2	acl	2:acl	Gloss=AUG-INF-start-FV|MSeg=o-ku-tandik-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_9
+# text = natandikire okwega
+# english = I started to learn,
+1	natandikire	tandika	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-start-PFV|MSeg=n-a-tandik-ire
+2	okwega	ega	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-learn-FV|MSeg=o-ku-eg-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_10
+# text = Eyo nga nigyo nasomeire epuraimare,
+# english = That is where I studied primary form,
+1	Eyo	eyo	ADV	_	Deixis=Med|NounClass=Bantu23|PronType=Dem	4	advmod	4:advmod	Gloss=23.MED|MSeg=eyo
+2	nga	nga	SCONJ	_	_	4	mark	4:mark	Gloss=while|MSeg=nga
+3	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	4	cop	4:cop	Gloss=COP-23|MSeg=ni-gyo
+4	nasomeire	soma	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1sgS-PST-study:APPL:PFV|MSeg=n-a-someire
+5	epuraimare	puraimare	NOUN	_	NounClass=Bantu9|Referent=Yes	4	obj	4:obj	Gloss=AUG-9.primary|MSeg=e-puraimare|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_11
+# text = nigyo nasomeire eidaala elikusoka omu byanyegesya byani bya Uganda.
+# english = that is where I studied from the first level in this education of Uganda.
+1	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-23|MSeg=ni-gyo
+2	nasomeire	soma	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1sgS-PST-study:APPL:PFV|MSeg=n-a-someire
+3	eidaala	idaala	NOUN	_	NounClass=Bantu5|Referent=Yes	2	obj	2:obj|4:nsubj	Gloss=AUG-5.level|MSeg=e-idaala
+4	elikusoka	soka	VERB	REL	Aspect=Prog|Mood=Ind|NounClass=Bantu5|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=S.REL-5S-PROG-be_first-FV|MSeg=e-li-ku-sok-a
+5	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	6	case	6:case	Gloss=AUG-18.LOC|MSeg=o-mu
+6	byanyegesya	byanyegesya	NOUN	_	NounClass=Bantu8	4	obl	4:obl	Gloss=8.education|MSeg=byanyegesya
+7	byani	ni	DET	_	Deixis=Prox|NounClass=Bantu8|PronType=Dem	6	det	6:det	Gloss=8.PROX|MSeg=byani
+8	bya	a	PART	GEN	NounClass=Bantu8	9	case	9:case	Gloss=8.GEN|MSeg=bya
+9	Uganda	Uganda	PROPN	_	NounClass=Bantu9	6	nmod	6:nmod	Gloss=9.Uganda|MSeg=Uganda|SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_12
+# text = ninyaba okusoma,
+# english = when I went to study,
+1	ninyaba	aba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-go-FV|MSeg=n-ab-a
+2	okusoma	soma	VERB	_	Referent=Yes|VerbForm=Inf	1	advcl	1:advcl	Gloss=AUG-INF-study-FV|MSeg=o-ku-som-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_13
+# text = ninkiramu.
+# english = I repeated it.
+1	ninkiramu	iramu	VERB	_	Mood=Ind|NounClass=Bantu7|Number=Sing|Person=1|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-7O-repeat:FV|MSeg=ni-n-ki-iramu|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_14
+# text = Twakiremu awo kubanga okubulungutana okwa lutalo okwaliwo.
+# english = We repeated it because of the disorganisation of the war which existed.
+1	Twakiremu	iremu	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu7|Number=Plur|Person=1|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1plS-PST-7O-repeat:PFV|MSeg=tu-a-ki-iremu
+2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	1	advmod	1:advmod	Gloss=16.MED|MSeg=awo
+3	kubanga	kubanga	SCONJ	_	_	4	mark	4:mark	Gloss=because|MSeg=kubanga
+4	okubulungutana	bulungutana	VERB	_	Referent=Yes|VerbForm=Inf	1	advcl	1:advcl	Gloss=AUG-INF-be_disorganised-FV|MSeg=o-ku-bulungutan-a
+5	okwa	a	PART	GEN	NounClass=Bantu15|Referent=Yes	6	case	6:case	Gloss=AUG-15.GEN|MSeg=o-kwa
+6	lutalo	lutalo	NOUN	_	NounClass=Bantu11	4	obl	4:obl	Gloss=11.war|MSeg=lutalo
+7-8	okwaliwo	_	_	_	_	_	_	_	SpaceAfter=No
+7	okwali	li	AUX	REL-COP	NounClass=Bantu15|Person=3|Referent=Yes|Tense=Past	8	cop	8:cop	Gloss=S.REL-15S-PST-COP|MSeg=o-ku-a-li
+8	wo	wo	ADV	LOC	NounClass=Bantu16	6	acl:relcl	6:acl:relcl	Gloss=16.LOC|MSeg=wo
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_15
+# text = Nisomerayo ekya kataanu kya mukaaga
+# english = I studied from there primary five and six
+1-2	Nisomerayo	_	_	_	_	_	_	_	_
+1	Nisomera	soma	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=NAR-1sgS-study-APPL-FV|MSeg=ni-n-som-er-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	ekya	a	PART	GEN	NounClass=Bantu7|Referent=Yes	4	case	4:case	Gloss=AUG-7.GEN|MSeg=e-kya
+4	kataanu	kataanu	NUM	_	NumForm=Word|NumType=Card	1	obl	1:obl	Gloss=five|MSeg=kataanu
+5	kya	a	PART	GEN	NounClass=Bantu7	6	case	6:case	Gloss=7.GEN|MSeg=kya
+6	mukaaga	mukaaga	NUM	_	NumForm=Word|NumType=Card	4	conj	1:obl|4:conj	Gloss=six|MSeg=mukaaga|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_16
+# text = nimwo nagingiire.
+# english = that's when I joined it.
+1	nimwo	nimwo	INTJ	_	_	2	discourse	2:discourse	Gloss=indeed|MSeg=nimwo
+2	nagingiire	ingira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu9|Number=Sing|Person=1|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-9O-enter:PFV|MSeg=n-a-gi-ingiire|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_17
+# text = Awo negeirewo paka omu seniya eya kanai,
+# english = I learnt from there up to senior four,
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	2	advmod	2:advmod	Gloss=16.MED|MSeg=awo
+2-3	negeirewo	_	_	_	_	_	_	_	_
+2	negeire	ega	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1sgS-learn:APPL:PFV|MSeg=n-egeire
+3	wo	wo	ADV	LOC	NounClass=Bantu16	2	advmod:loc	2:advmod:loc	Gloss=16.LOC|MSeg=wo
+4	paka	paka	ADP	_	_	6	case	6:case	Gloss=until|MSeg=paka
+5	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	6	case	6:case	Gloss=AUG-18.LOC|MSeg=o-mu
+6	seniya	siniya	NOUN	_	NounClass=Bantu9	2	obl	2:obl	Gloss=9.senior|MSeg=siniya
+7	eya	a	PART	GEN	NounClass=Bantu9|Referent=Yes	8	case	8:case	Gloss=AUG-9.GEN|MSeg=e-ya
+8	kanai	kanai	NUM	_	NumForm=Word|NumType=Card	6	nmod	6:nmod	Gloss=four|MSeg=kanai|SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_18
+# text = ni maliirya esiniya ya kanai
+# english = after completing senior four,
+1	ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2	maliirya	maliirya	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-complete-FV|MSeg=n-maliiry-a
+3	esiniya	siniya	NOUN	_	NounClass=Bantu9|Referent=Yes	2	obj	2:obj	Gloss=AUG-9.senior|MSeg=e-siniya
+4	ya	a	PART	GEN	NounClass=Bantu9	5	case	5:case	Gloss=9.GEN|MSeg=ya
+5	kanai	kanai	NUM	_	NumForm=Word|NumType=Card	2	nmod	2:nmod	Gloss=four|MSeg=kanai|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_19
+# text = omu mwaka gwali gwa inkumi ibiri
+# english = in the year was of 2000,
+1	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	2	case	2:case	Gloss=AUG-18.LOC|MSeg=o-mu
+2	mwaka	mwaka	NOUN	_	NounClass=Bantu3	5	nsubj	5:nsubj	Gloss=3.year|MSeg=mwaka
+3	gwali	li	AUX	COP	NounClass=Bantu3|Person=3|Tense=Past	5	cop	5:cop	Gloss=3S-PST-COP|MSeg=gu-a-li
+4	gwa	a	PART	GEN	NounClass=Bantu3	5	case	5:case	Gloss=3.GEN|MSeg=gwa
+5	inkumi	inkumi	NUM	_	NumForm=Word|NumType=Card	0	root	0:root	Gloss=thousand|MSeg=inkumi
+6	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	5	nummod	5:nummod	Gloss=two|MSeg=ibiri|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_20
+# text = Era awo nitutandika
+# english = There we started,
+1	Era	era	CCONJ	_	_	3	cc	3:cc	Gloss=and|MSeg=era
+2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	3	advmod	3:advmod	Gloss=16.MED|MSeg=awo
+3	nitutandika	tandika	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-start-FV|MSeg=ni-tu-tandik-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_21
+# text = Eyo... ntwaba omu maiso okuluga omu mwaka gwa ibiri ikumi,
+# english = There... We went ahead from the year of 2010,
+1	Eyo	eyo	ADV	_	Deixis=Med|NounClass=Bantu23|PronType=Dem	3	reparandum	3:reparandum	Gloss=23.MED|MSeg=eyo|SpaceAfter=No
+2	...	...	PUNCT	_	_	1	punct	1:punct	_
+3	ntwaba	aba	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-go-FV|MSeg=ni-tu-ab-a
+4	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	5	case	5:case	Gloss=AUG-18.LOC|MSeg=o-mu
+5	maiso	riiso	NOUN	_	NounClass=Bantu6	3	obl	3:obl	Gloss=6.eye|MSeg=maiso
+6	okuluga	luga	VERB	_	Referent=Yes|VerbForm=Inf	3	advcl	3:advcl	Gloss=AUG-INF-come_from-FV|MSeg=o-ku-lug-a
+7	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	8	case	8:case	Gloss=AUG-18.LOC|MSeg=o-mu
+8	mwaka	mwaka	NOUN	_	NounClass=Bantu3	6	obl	6:obl	Gloss=3.year|MSeg=mwaka
+9	gwa	a	PART	GEN	NounClass=Bantu3	10	case	10:case	Gloss=3.GEN|MSeg=gwa
+10	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	8	nmod	8:nmod	Gloss=two|MSeg=ibiri
+11	ikumi	ikumi	NUM	_	NumForm=Word|NumType=Card	10	flat:num	10:flat:num	Gloss=ten|MSeg=ikumi|SpaceAfter=No
+12	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_22
+# text = Nitwika omu mwaka gwa nkumi ibiri n'einai.
+# english = We reached the year 2014.
+1	Nitwika	ika	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-come-FV|MSeg=ni-tu-ik-a
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	mwaka	mwaka	NOUN	_	NounClass=Bantu3	1	obl	1:obl	Gloss=3.year|MSeg=mwaka
+4	gwa	a	PART	GEN	NounClass=Bantu3	5	case	5:case	Gloss=3.GEN|MSeg=gwa
+5	nkumi	nkumi	NUM	_	NumForm=Word|NumType=Card	3	nmod	3:nmod	Gloss=thousand|MSeg=nkumi
+6	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	5	nummod	5:nummod	Gloss=two|MSeg=ibiri
+7-8	n'einai	_	_	_	_	_	_	_	SpaceAfter=No
+7	n'	na	CCONJ	COM	_	8	cc	8:cc	Gloss=COM|MSeg=na
+8	einai	inai	NUM	_	NumForm=Word|NumType=Card	5	conj	5:conj	Gloss=four|MSeg=inai
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_23
+# text = nankola kusai
+# english = he blessed me (lit. He made me well)
+1	nankola	kola	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-do-FV|MSeg=ni-a-n-kol-a
+2	kusai	kusai	ADV	_	_	1	advmod	1:advmod	Gloss=well|MSeg=kusai|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_24
+# text = era nga ati nigyo tukwikara n'omukali wange amwei n'omwana wange.
+# english = still it's where we stay with my wife together with my child.
+1	era	era	CCONJ	_	_	5	cc	5:cc	Gloss=and|MSeg=era
+2	nga	nga	SCONJ	_	_	5	mark	5:mark	Gloss=while|MSeg=nga
+3	ati	ati	ADV	_	_	5	advmod	5:advmod	Gloss=now|MSeg=ati
+4	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	5	cop	5:cop	Gloss=COP-23|MSeg=ni-gyo
+5	tukwikara	ikara	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1plS-PROG-live-FV|MSeg=tu-ku-ikar-a
+6-7	n'omukali	_	_	_	_	_	_	_	_
+6	n'	na	ADP	COM	_	7	case	7:case	Gloss=COM|MSeg=na
+7	omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	5	obl	5:obl	Gloss=AUG-1.wife|MSeg=o-mukali
+8	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange
+9	amwei	amwei	ADV	_	_	11	advmod	11:advmod	Gloss=together|MSeg=amwei
+10-11	n'omwana	_	_	_	_	_	_	_	_
+10	n'	na	CCONJ	COM	_	11	cc	11:cc	Gloss=COM|MSeg=na
+11	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	7	conj	5:obl|7:conj	Gloss=AUG-1.child|MSeg=o-mwana
+12	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_25
+# text = omuntu ngeri gy'ayinza okukulaakulanamu,
+# english = how a person can develop,
+1	omuntu	muntu	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj|5:nsubj:xsubj	Gloss=AUG-1.person|MSeg=o-muntu
+2	ngeri	ngeri	NOUN	_	NounClass=Bantu9	0	root	0:root	Gloss=9.way|MSeg=ngeri
+3-4	gy'ayinza	_	_	_	_	_	_	_	_
+3	gy'	e	PRON	_	NounClass=Bantu9|PronType=Rel	4	obl	4:obl	Gloss=9.REL|MSeg=gye
+4	ayinza	inza	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	acl	2:acl	Gloss=1S-can-FV|MSeg=a-inz-a
+5-6	okukulaakulanamu	_	_	_	_	_	_	_	SpaceAfter=No
+5	okukulaakulana	kulaakulana	VERB	_	Referent=Yes|VerbForm=Inf	4	xcomp	4:xcomp	Gloss=AUG-INF-develop-FV|MSeg=o-ku-kulaakulan-a
+6	mu	mu	ADV	LOC	NounClass=Bantu18	5	advmod:loc	5:advmod:loc	Gloss=18.LOC|MSeg=mu
+7	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_26
+# text = akutambula.
+# english = and now she is walking.
+1	akutambula	tambula	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-walk-FV|MSeg=a-ku-tambul-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_27
+# text = nga nigyo nkulugiraanga okwaba okukola emirimu.
+# english = that is where I would come from to go and work.
+1	nga	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+2	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	3	cop	3:cop	Gloss=COP-23|MSeg=ni-gyo
+3	nkulugiraanga	luga	VERB	_	Aspect=Prog|Aspect[add]=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1sgS-PROG-come_from-APPL-HAB-FV|MSeg=n-ku-lug-ir-ang-a
+4	okwaba	aba	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-go-FV|MSeg=o-ku-ab-a
+5	okukola	kola	VERB	_	Referent=Yes|VerbForm=Inf	4	conj	4:conj	Gloss=AUG-INF-do-FV|MSeg=o-ku-kol-a
+6	emirimu	mirimu	NOUN	_	NounClass=Bantu4|Referent=Yes	5	obj	5:obj	Gloss=AUG-4.job|MSeg=e-mirimu|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_28
+# text = Naye oluvanyuma lwa kubandula
+# english = But after marrying,
+1	Naye	naye	CCONJ	_	_	4	cc	4:cc	Gloss=but|MSeg=naye
+2	oluvanyuma	luvanyuma	ADV	_	Referent=Yes	4	advmod	4:advmod	Gloss=AUG-afterwards|MSeg=o-luvanyuma
+3	lwa	a	PART	GEN	NounClass=Bantu11	4	case	4:case	Gloss=11.GEN|MSeg=lwa
+4	kubandula	bandula	NOUN	_	NounClass=Bantu15|VerbForm=Vnoun	0	root	0:root	Gloss=INF-marry-FV|MSeg=ku-bandul-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_29
+# text = OKanca nanjuna,
+# english = God helped me
+1	OKanca	Kanca	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.god|MSeg=o-Kanca
+2	nanjuna	juna	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-help-FV|MSeg=ni-a-n-jun-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_30
+# text = Era nga nkwendya okwebalya oKanca
+# english = And I want to thank God,
+1	Era	era	CCONJ	_	_	3	cc	3:cc	Gloss=and|MSeg=era
+2	nga	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+3	nkwendya	endya	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-want-FV|MSeg=n-ku-endy-a
+4	okwebalya	ebalya	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-thank-FV|MSeg=o-ku-ebaly-a
+5	oKanca	kanca	NOUN	_	NounClass=Bantu1|Referent=Yes	4	obj	4:obj	Gloss=AUG-1.god|MSeg=o-kanca|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_31
+# text = nti oluvanyuma lwa kubyalibwa
+# english = that after being born,
+1	nti	nti	SCONJ	COMPL	_	4	mark	4:mark	Gloss=COMPL|MSeg=nti
+2	oluvanyuma	luvanyuma	ADV	_	Referent=Yes	4	advmod	4:advmod	Gloss=AUG-afterwards|MSeg=o-luvanyuma
+3	lwa	a	PART	GEN	NounClass=Bantu11	4	case	4:case	Gloss=11.GEN|MSeg=lwa
+4	kubyalibwa	byala	NOUN	_	NounClass=Bantu15|VerbForm=Vnoun|Voice=Pass	0	root	0:root	Gloss=INF-give_birth_to-PASS-FV|MSeg=ku-byal-ibw-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_32
+# text = era nintandika okwega okusoma,
+# english = and I started studying,
+1	era	era	CCONJ	_	_	2	cc	2:cc	Gloss=and|MSeg=era
+2	nintandika	tandika	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-start-FV|MSeg=ni-n-tandik-a
+3	okwega	ega	VERB	_	Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-learn-FV|MSeg=o-ku-eg-a
+4	okusoma	soma	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-study-FV|MSeg=o-ku-som-a|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_33
+# text = Omwana ni natandikire okusoma,
+# english = As a child, when I started studying,
+1	Omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	3	obl	3:obl	Gloss=AUG-1.child|MSeg=o-mwana
+2	ni	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+3	natandikire	tandika	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-start-PFV|MSeg=n-a-tandik-ire
+4	okusoma	soma	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-study-FV|MSeg=o-ku-som-a|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_34
+# text = oMwandaala ogwalemere ontale okugusyatukiraku, oisebalongo,
+# english = a plateau that defeated a lion to tresspass on, the multiple twin father
+1	oMwandaala	Mwandaala	PROPN	_	NounClass=Bantu3|Referent=Yes	0	root	0:root|2:nsubj	Gloss=AUG-3.plateau|MSeg=o-Mwandaala
+2	ogwalemere	lema	VERB	REL	Aspect=Perf|Mood=Ind|NounClass=Bantu3|Person=3|Referent=Yes|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Gloss=S.REL-3S-PST-defeat:PFV|MSeg=o-gu-a-lemere
+3	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	2	obj	2:obj	Gloss=AUG-1.lion|MSeg=o-ntale
+4-5	okugusyatukiraku	_	_	_	_	_	_	_	SpaceAfter=No
+4	okugusyatukira	syatuka	VERB	_	NounClass=Bantu3|Person=3|Referent=Yes|VerbForm=Inf|Voice=Appl	2	advcl	2:advcl	Gloss=AUG-INF-3O-tresspass-APPL-FV|MSeg=o-ku-gu-syatuk-ir-a
+5	ku	ku	ADV	LOC	NounClass=Bantu17	4	advmod:loc	4:advmod:loc	Gloss=17.LOC|MSeg=ku
+6	,	,	PUNCT	_	_	7	punct	7:punct	_
+7	oisebalongo	isebalongo	NOUN	_	NounClass=Bantu1|Referent=Yes	1	parataxis	1:parataxis	Gloss=AUG-1.farther_of_twins|MSeg=o-isebalongo|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_35
+# text = oMubiijwa eyabandwize okujumuula engoma ya bukama bwa Buduuli,
+# english = A Mubiijwa who first restored the throne of Buruuli (lit. okujuumura engoma means to return a drum to its previous state)
+1	oMubiijwa	Mubiijwa	PROPN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root|2:nsubj	Gloss=AUG-1.Mubiijwa|MSeg=o-Mubiijwa
+2	eyabandwize	banduza	VERB	REL	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Referent=Yes|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Gloss=S.REL-1S-PST-restore:PFV|MSeg=e-a-a-bandwize
+3	okujumuula	jumuula	VERB	_	Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-turn_upright-FV|MSeg=o-ku-jumuul-a
+4	engoma	ngoma	NOUN	_	NounClass=Bantu9|Referent=Yes	3	obj	3:obj	Gloss=AUG-9.drum|MSeg=e-ngoma
+5	ya	a	PART	GEN	NounClass=Bantu9	6	case	6:case	Gloss=9.GEN|MSeg=ya
+6	bukama	bukama	NOUN	_	NounClass=Bantu14	4	nmod	4:nmod	Gloss=14.kingdom|MSeg=bukama
+7	bwa	a	PART	GEN	NounClass=Bantu14	8	case	8:case	Gloss=14.GEN|MSeg=bwa
+8	Buduuli	Buduuli	PROPN	_	NounClass=Bantu14	6	nmod	6:nmod	Gloss=14.Buruuli_land|MSeg=buduuli|SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_36
+# text = tukwiza okufuna we twaba.
+# english = we shall get where to stay.
+1	tukwiza	iza	AUX	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	2:aux	Gloss=1plS-PROG-come-FV|MSeg=tu-ku-iz-a
+2	okufuna	funa	VERB	_	Referent=Yes|VerbForm=Inf	0	root	0:root	Gloss=AUG-INF-get-FV|MSeg=o-ku-fun-a
+3	we	e	PRON	_	NounClass=Bantu16|PronType=Rel	2	obj	2:obj	Gloss=16.REL|MSeg=we
+4	twaba	aba	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=1plS-go-FV|MSeg=tu-ab-a|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_37
+# text = nigyo nali awo
+# english = that is where I was
+1	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	3	cop	3:cop	Gloss=COP-23|MSeg=ni-gyo
+2	nali	li	AUX	COP	Number=Sing|Person=1|Tense=Past	3	cop	3:cop	Gloss=1sgS-PST-COP|MSeg=n-a-li
+3	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	0	root	0:root	Gloss=16.MED|MSeg=awo|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_38
+# text = Ate era nineyongerayo ninsoma
+# english = and still I continued and studied
+1	Ate	ate	CCONJ	_	ExtPos=CCONJ	3	cc	3:cc	Gloss=and|MSeg=ate
+2	era	era	CCONJ	_	_	1	fixed	1:fixed	Gloss=and|MSeg=era
+3-4	nineyongerayo	_	_	_	_	_	_	_	_
+3	nineyongera	eyongera	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-continue-FV|MSeg=ni-n-eyonger-a
+4	yo	yo	ADV	LOC	NounClass=Bantu23	3	advmod:loc	3:advmod:loc	Gloss=23.LOC|MSeg=yo
+5	ninsoma	soma	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	3	conj	3:conj	Gloss=NAR-1sgS-study-FV|MSeg=ni-n-som-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_39
+# text = ninfuna n'edipulooma eyasookere.
+# english = and got the first diploma.
+1	ninfuna	funa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-get-FV|MSeg=ni-n-fun-a
+2-3	n'edipulooma	_	_	_	_	_	_	_	_
+2	n'	na	ADP	COM	_	3	case	3:case	Gloss=COM|MSeg=na
+3	edipulooma	dipulooma	NOUN	_	NounClass=Bantu9|Referent=Yes	1	obj	1:obj	Gloss=AUG-9.diploma|MSeg=e-dipulooma
+4	eyasookere	sookere	ADJ	_	NounClass=Bantu9|Referent=Yes	3	amod	3:amod	Gloss=AUG-9-first|MSeg=e-ya-sookere|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_40
+# text = Eyo nibampeerya okukoorayo okugezesebwa kwange,
+# english = There they allowed me to do my industrial training (lit. there they gave me to do from there my practice),
+1	Eyo	eyo	ADV	_	Deixis=Med|NounClass=Bantu23|PronType=Dem	2	advmod	2:advmod	Gloss=23.MED|MSeg=eyo
+2	nibampeerya	weerya	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1sgO-give-FV|MSeg=ni-ba-n-weery-a
+3-4	okukoorayo	_	_	_	_	_	_	_	_
+3	okukoora	kola	VERB	_	Referent=Yes|VerbForm=Inf|Voice=Appl	2	xcomp	2:xcomp	Gloss=AUG-INF-do:APPL-FV|MSeg=o-ku-koor-a
+4	yo	yo	ADV	LOC	NounClass=Bantu23	3	advmod:loc	3:advmod:loc	Gloss=23.LOC|MSeg=yo
+5	okugezesebwa	kugezesebwa	NOUN	_	NounClass=Bantu15|Referent=Yes	3	obj	3:obj	Gloss=AUG-15.trial|MSeg=o-kugezesebwa
+6	kwange	ange	PRON	ASSOC	NounClass=Bantu15|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	Gloss=15-1sgPOSS|MSeg=ku-ange|SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_41
+# text = yena nayaba na ye,
+# english = he also went with him,
+1-2	yena	_	_	_	_	_	_	_	_
+1	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	3	nsubj	3:nsubj	Gloss=1|MSeg=ye
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	nayaba	aba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-go-FV|MSeg=ni-a-ab-a
+4	na	na	ADP	COM	_	5	case	5:case	Gloss=COM|MSeg=na
+5	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	3	obl	3:obl	Gloss=1|MSeg=ye|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_42
+# text = nayabanga na ye mpola,
+# english = he always went with him slowly,
+1	nayabanga	aba	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-go-HAB-FV|MSeg=ni-a-ab-ang-a
+2	na	na	ADP	COM	_	3	case	3:case	Gloss=COM|MSeg=na
+3	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	1	obl	1:obl	Gloss=1|MSeg=ye
+4	mpola	mpola	ADV	_	_	1	advmod	1:advmod	Gloss=slowly|MSeg=mpola|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_43
+# text = nairaku n'omaama wamwe n'abakulu bange abamwe
+# english = he took mum next, together with some of my elders
+1-2	nairaku	_	_	_	_	_	_	_	_
+1	naira	ira	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-return-FV|MSeg=ni-a-ir-a
+2	ku	ku	ADV	LOC	NounClass=Bantu17	1	advmod:loc	1:advmod:loc	Gloss=17.LOC|MSeg=ku
+3-4	n'omaama	_	_	_	_	_	_	_	_
+3	n'	na	ADP	COM	_	4	case	4:case	Gloss=COM|MSeg=na
+4	omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obl	1:obl	Gloss=AUG-1.mother|MSeg=o-maama
+5	wamwe	wamwe	ADV	_	_	1	advmod	1:advmod	Gloss=together|MSeg=wamwe
+6-7	n'abakulu	_	_	_	_	_	_	_	_
+6	n'	na	ADP	COM	_	7	case	7:case	Gloss=COM|MSeg=na
+7	abakulu	mukulu	NOUN	_	NounClass=Bantu2|Referent=Yes	1	obl	1:obl	Gloss=AUG-2.elder|MSeg=a-bakulu
+8	bange	ange	PRON	ASSOC	NounClass=Bantu2|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Gloss=2-1sgPOSS|MSeg=ba-ange
+9	abamwe	mwe	DET	_	NounClass=Bantu2|PronType=Ind|Referent=Yes	7	det	7:det	Gloss=AUG-2-some|MSeg=a-ba-mwe|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_44
+# text = Njena awo omu kibiina ekyakataanu nali nkuurekuuremu,
+# english = Also me there in primary five class I had grown up,
+1-2	Njena	_	_	_	_	_	_	_	_
+1	Nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	Gloss=1sg|MSeg=nje
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	8	advmod	8:advmod	Gloss=16.MED|MSeg=awo
+4	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	6	case	6:case	Gloss=AUG-18.LOC|MSeg=o-mu
+5	kibiina	kibiina	NOUN	_	NounClass=Bantu7	6	nmod	6:nmod	Gloss=7.class|MSeg=kibiina
+6	ekyakataanu	kyakataanu	NOUN	_	NounClass=Bantu7|Referent=Yes	8	obl	8:obl	Gloss=AUG-7.primary_five|MSeg=e-kyakataanu
+7	nali	li	AUX	_	Number=Sing|Person=1|Tense=Past	8	aux	8:aux	Gloss=1sgS-PST-AUX|MSeg=n-a-li
+8-9	nkuurekuuremu	_	_	_	_	_	_	_	SpaceAfter=No
+8	nkuurekuure	kula	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Red=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-grow:PFV~grow:PFV|MSeg=n-kuure~kuure
+9	mu	mu	ADV	LOC	NounClass=Bantu18	8	advmod:loc	8:advmod:loc	Gloss=18.LOC|MSeg=mu
+10	,	,	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_45
+# text = omuzeeyi oite wange amwe n'omaama ntwiruka
+# english = my father together with my mother we ran
+1	omuzeeyi	muzeeyi	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nmod	2:nmod	Gloss=AUG-1.elderly_person|MSeg=o-muzeeyi
+2	oite	ite	NOUN	_	NounClass=Bantu1|Referent=Yes	7	nsubj	7:nsubj	Gloss=AUG-1.father|MSeg=o-ite
+3	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange
+4	amwe	amwe	ADV	_	_	7	advmod	7:advmod	Gloss=together|MSeg=amwe
+5-6	n'omaama	_	_	_	_	_	_	_	_
+5	n'	na	CCONJ	COM	_	6	cc	6:cc	Gloss=COM|MSeg=na
+6	omaama	maama	NOUN	_	NounClass=Bantu1|Referent=Yes	1	conj	1:conj	Gloss=AUG-1.mother|MSeg=o-maama
+7	ntwiruka	iruka	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-run-FV|MSeg=ni-tu-iruk-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_46
+# text = Awo oluvanyuma olutalo ni lwaweire,
+# english = There later when the war ended,
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	5	advmod	5:advmod	Gloss=16.MED|MSeg=awo
+2	oluvanyuma	luvanyuma	ADV	_	Referent=Yes	5	advmod	5:advmod	Gloss=AUG-afterwards|MSeg=o-luvanyuma
+3	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	5	nsubj	5:nsubj	Gloss=AUG-11.war|MSeg=o-lutalo
+4	ni	ni	SCONJ	_	_	5	mark	5:mark	Gloss=when|MSeg=ni-lu-a-weire
+5	lwaweire	wa	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu11|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=11S-PST-be_over:PFV|MSeg=ni-lu-a-weire|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_47
+# text = ntandika okusoma
+# english = I started studying
+1	ntandika	tandika	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-start-FV|MSeg=n-tandik-a
+2	okusoma	soma	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-study-FV|MSeg=o-ku-som-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_48
+# text = ninyika emyaka egikwaba oku isomero,
+# english = and I approached the school-going age,
+1	ninyika	ika	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-come-FV|MSeg=ni-n-ik-a
+2	emyaka	mwaka	NOUN	_	NounClass=Bantu4|Referent=Yes	1	obj	1:obj|3:nsubj	Gloss=AUG-4.year|MSeg=e-myaka
+3	egikwaba	aba	VERB	REL	Aspect=Prog|Mood=Ind|NounClass=Bantu4|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Gloss=S.REL-4S-PROG-go-FV|MSeg=e-gi-ku-ab-a
+4	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	5	case	5:case	Gloss=AUG-17.LOC|MSeg=o-ku
+5	isomero	isomero	NOUN	_	NounClass=Bantu5	3	obl	3:obl	Gloss=5.school|MSeg=isomero|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_49
+# text = Kale ammambyamambya esaawa zini eza mmambyammambya
+# english = So in the morning, this morning time,
+1	Kale	Kale	INTJ	_	_	2	discourse	2:discourse	Gloss=well|MSeg=kale
+2	ammambyamambya	mmambya	NOUN	_	NounClass=Bantu9|Red=Yes|Referent=Yes	0	root	0:root	Gloss=AUG-9.morning|MSeg=a-mmambya
+3	esaawa	saawa	NOUN	_	NounClass=Bantu10|Referent=Yes	2	parataxis	2:parataxis	Gloss=AUG-10.time|MSeg=e-saawa
+4	zini	ni	DET	_	Deixis=Prox|NounClass=Bantu10|PronType=Dem	3	det	3:det	Gloss=10.PROX|MSeg=zini
+5	eza	a	PART	GEN	NounClass=Bantu10|Referent=Yes	6	case	6:case	Gloss=AUG-10.GEN|MSeg=e-za
+6	mmambyammambya	mmambya	NOUN	_	NounClass=Bantu9|Red=Yes	3	nmod	3:nmod	Gloss=9.morning~9.morning|MSeg=mmambya~mmambya|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_50
+# text = kubanga twasomanga lwaigolo,
+# english = because we studied in the evening,
+1	kubanga	kubanga	SCONJ	_	_	2	mark	2:mark	Gloss=because|MSeg=kubanga
+2	twasomanga	soma	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1plS-PST-study-HAB-FV|MSeg=tu-a-som-ang-a
+3	lwaigolo	lwaigolo	NOUN	_	NounClass=Bantu11	2	obl	2:obl	Gloss=11.evening|MSeg=lwaigolo|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_51
+# text = esaawa ezo nisombanga amaizi
+# english = during those hours I would collect water
+1	esaawa	saawa	NOUN	_	NounClass=Bantu10|Referent=Yes	3	obl	3:obl	Gloss=AUG-10.time|MSeg=e-saawa
+2	ezo	o	DET	_	Deixis=Med|NounClass=Bantu10|PronType=Dem	1	det	1:det	Gloss=10.MED|MSeg=ezo
+3	nisombanga	somba	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-collect-HAB-FV|MSeg=ni-n-somb-ang-a
+4	amaizi	maizi	NOUN	_	NounClass=Bantu6|Referent=Yes	3	obj	3:obj	Gloss=AUG-6.water|MSeg=a-maizi|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_52
+# text = ninsyomanga amaizi nigagulisya abantu,
+# english = I could collect water and sell it to the people,
+1	ninsyomanga	syoma	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-collect-HAB-FV|MSeg=ni-n-syom-ang-a
+2	amaizi	maizi	NOUN	_	NounClass=Bantu6|Referent=Yes	1	obj	1:obj	Gloss=AUG-6.water|MSeg=a-maizi
+3	nigagulisya	gula	VERB	_	Mood=Ind|NounClass=Bantu6|Number=Sing|Person=1|Person[obj]=3|Tense=Nar|VerbForm=Fin|Voice=Cau	1	conj	1:conj	Gloss=NAR-1sgS-6O-buy-CAUS-FV|MSeg=ni-n-ga-gul-isy-a
+4	abantu	muntu	NOUN	_	NounClass=Bantu2|Referent=Yes	3	obj:caus	3:obj:caus	Gloss=AUG-2.man|MSeg=a-bantu|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_53
+# text = okwaba okwika sawa mukaaga
+# english = to approach noon
+1	okwaba	aba	VERB	_	Referent=Yes|VerbForm=Inf	0	root	0:root	Gloss=AUG-INF-go-FV|MSeg=o-ku-ab-a
+2	okwika	ika	VERB	_	Referent=Yes|VerbForm=Inf	1	conj	1:conj	Gloss=AUG-INF-come-FV|MSeg=o-ku-ik-a
+3	sawa	saawa	NOUN	_	NounClass=Bantu9	2	obj	2:obj	Gloss=9.time|MSeg=saawa
+4	mukaaga	mukaaga	NUM	_	NumForm=Word|NumType=Card	3	nummod	3:nummod	Gloss=six|MSeg=mukaaga|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_54
+# text = nga maliriirye
+# english = when I have finished
+1	nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	maliriirye	maliirya	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-complete:PFV|MSeg=n-malirirye|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_55
+# text = ninetegeka ninfuna akukulia
+# english = I prepared myself and have something for myself (to eat)
+1	ninetegeka	tegeka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=NAR-1sgS-REFL-prepare-FV|MSeg=ni-n-ee-tegek-a
+2	ninfuna	funa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	1	conj	1:conj	Gloss=NAR-1sgS-get-FV|MSeg=ni-n-fun-a
+3	akukulia	kukulia	NOUN	_	NounClass=Bantu15|Referent=Yes	2	obj	2:obj	Gloss=AUG-15.food|MSeg=a-kukulia|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_56
+# text = Okwikya ni namukobere taata nkwiza okwabanga
+# english = Until I told him that dad, I will always go
+1	Okwikya	okwikya	SCONJ	_	_	3	mark	3:mark	Gloss=until|MSeg=okwikya
+2	ni	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+3	namukobere	koba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=1|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-1O-say-PFV|MSeg=n-a-mu-kob-ere
+4	taata	taata	NOUN	_	NounClass=Bantu1	6	vocative	6:vocative	Gloss=1.father|MSeg=taata
+5	nkwiza	iza	AUX	_	Aspect=Prog|Number=Sing|Person=1|Tense=Pres	6	aux	6:aux	Gloss=1sgS-PROG-come-FV|MSeg=n-ku-iz-a
+6	okwabanga	aba	VERB	_	Aspect=Hab|Referent=Yes|VerbForm=Inf	3	ccomp	3:ccomp	Gloss=AUG-INF-go-HAB-FV|MSeg=o-ku-ab-ang-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_57
+# text = akasente akaligangamu nikasasulisya ennyumba.
+# english = the money that will be obtained I use it to pay the house rent.
+1	akasente	kasente	NOUN	_	NounClass=Bantu12|Referent=Yes	4	obj:caus	4:obj:caus	Gloss=AUG-12.money|MSeg=a-kasente
+2-3	akaligangamu	_	_	_	_	_	_	_	_
+2	akaliganga	liga	VERB	REL	Aspect=Hab|Mood=Ind|NounClass=Bantu12|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Gloss=S.REL-12S-come_from-HAB-FV|MSeg=a-ka-lig-ang-a
+3	mu	mu	ADV	LOC	NounClass=Bantu18	2	advmod:loc	2:advmod:loc	Gloss=18.LOC|MSeg=mu
+4	nikasasulisya	sasula	VERB	_	Mood=Ind|NounClass=Bantu12|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=1sgS-12O-pay-CAUS-FV|MSeg=n-ka-sasul-isy-a
+5	ennyumba	nnyumba	NOUN	_	NounClass=Bantu9|Referent=Yes	4	iobj	4:iobj	Gloss=AUG-9.house|MSeg=e-nnyumba|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_58
+# text = Otaata tiyali mubi,
+# english = Dad was not bad,
+1	Otaata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.father|MSeg=o-taata
+2	tiyali	li	AUX	COP	NounClass=Bantu1|Person=3|Polarity=Neg|Tense=Past	3	cop	3:cop	Gloss=NEG-1S-PST-COP|MSeg=ti-a-a-li
+3	mubi	bbi	ADJ	_	NounClass=Bantu1	0	root	0:root	Gloss=1-bad|MSeg=mu-bbi|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_59
+# text = naligirewo
+# english = I left there
+1-2	naligirewo	_	_	_	_	_	_	_	SpacesAfter=\n
+1	naligire	liga	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-leave-PFV|MSeg=n-a-lig-ire
+2	wo	wo	ADV	LOC	NounClass=Bantu16	1	advmod:loc	1:advmod:loc	Gloss=16.LOC|MSeg=wo
+
+# sent_id =graphy_Nakasongola1_60
+# text = nga ndi mu kibiina kyakataanu,
+# english = when I was in primary five,
+1	nga	nga	SCONJ	_	_	4	mark	4:mark	Gloss=while|MSeg=nga
+2	ndi	li	AUX	COP	Number=Sing|Person=1|Tense=Pres	4	cop	4:cop	Gloss=1sgS-COP|MSeg=n-li
+3	mu	mu	ADP	LOC	NounClass=Bantu18	4	case	4:case	Gloss=18.LOC|MSeg=mu
+4	kibiina	kibiina	NOUN	_	NounClass=Bantu7	0	root	0:root	Gloss=7.class|MSeg=kibiina
+5	kyakataanu	kyakataanu	NOUN	_	NounClass=Bantu7	4	nmod	4:nmod	Gloss=7.primary_five|MSeg=kyakataanu|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_61
+# text = nigyo twasookere okubba.
+# english = that is where we first stayed.
+1	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-23|MSeg=ni-gyo
+2	twasookere	sooka	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1plS-PST-do_first-PFV|MSeg=tu-a-sook-ere
+3	okubba	bba	VERB	COP	Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-COP|MSeg=o-ku-bba|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_62
+# text = Naye olutalo olwaliwo akaati nga opurezidenti wa iyanga ojenero Kaguta Museveni,
+# english = But the war which existed when the president of the country general Kaguta Museveni,
+1	Naye	naye	CCONJ	_	_	2	cc	2:cc	Gloss=but|MSeg=naye
+2	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	0	root	0:root|4:nsubj	Gloss=AUG-11.war|MSeg=o-lutalo
+3-4	olwaliwo	_	_	_	_	_	_	_	_
+3	olwali	li	AUX	REL-COP	NounClass=Bantu11|Person=3|Referent=Yes|Tense=Past	4	cop	4:cop	Gloss=S.REL-11S-PST-COP|MSeg=o-lu-a-li
+4	wo	wo	ADV	LOC	NounClass=Bantu16	2	acl:relcl	2:acl:relcl	Gloss=16.LOC|MSeg=wo
+5	akaati	akati	ADV	_	_	4	advmod	4:advmod	Gloss=between|MSeg=akati
+6	nga	nga	SCONJ	_	_	7	mark	7:mark	Gloss=while|MSeg=nga
+7	opurezidenti	purezidenti	NOUN	_	NounClass=Bantu1|Referent=Yes	4	advcl	4:advcl	Gloss=AUG-1.president|MSeg=o-purezidenti
+8	wa	a	PART	GEN	NounClass=Bantu1	9	case	9:case	Gloss=1.GEN|MSeg=wa
+9	iyanga	iyanga	NOUN	_	NounClass=Bantu5	7	nmod	7:nmod	Gloss=5.country|MSeg=iyanga
+10	ojenero	jenero	NOUN	_	NounClass=Bantu1|Referent=Yes	11	nmod:desc	11:nmod:desc	Gloss=AUG-1.general|MSeg=o-jenero
+11	Kaguta	Kaguta	PROPN	_	NounClass=Bantu1	7	appos	7:appos	Gloss=1.Kaguta|MSeg=Kaguta
+12	Museveni	Museveni	PROPN	_	NounClass=Bantu1	11	flat:name	11:flat:name	Gloss=1.Museveni|MSeg=Museveni|SpaceAfter=No
+13	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_63
+# text = nimubandula.
+# english = I married her,
+1	nimubandula	bandula	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=1|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-1O-marry-FV|MSeg=ni-n-mu-bandul-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_64
+# text = Nitugaitibwa omu bufumbo obweru teiteite,
+# english = We were wedded in a holy marriage,
+1	Nitugaitibwa	gaita	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin|Voice=Pass	0	root	0:root	Gloss=NAR-1plS-wed-PASS-FV|MSeg=ni-tu-gait-ibw-a
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	bufumbo	bufumbo	NOUN	_	NounClass=Bantu14	1	obl	1:obl	Gloss=14.marriage|MSeg=bufumbo
+4	obweru	eru	ADJ	_	NounClass=Bantu14|Referent=Yes	3	amod	3:amod	Gloss=AUG-14-white|MSeg=o-bu-eru
+5	teiteite	teiteitei	ADV	_	_	4	advmod	4:advmod	Gloss=spotless_white|MSeg=teiteitei|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_65
+# text = Omu mwaka gwa ibiri ikumi na itanu.
+# english = In the year of 2015,
+1	Omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	2	case	2:case	Gloss=AUG-18.LOC|MSeg=o-mu
+2	mwaka	mwaka	NOUN	_	NounClass=Bantu3	0	root	0:root	Gloss=3.year|MSeg=mwaka
+3	gwa	a	PART	GEN	NounClass=Bantu3	4	case	4:case	Gloss=3.GEN|MSeg=gwa
+4	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	2	nmod	2:nmod	Gloss=thousand|MSeg=ibiri
+5	ikumi	ikumi	NUM	_	NumForm=Word|NumType=Card	4	flat:num	4:flat:num	Gloss=ten|MSeg=ikumi
+6	na	na	CCONJ	COM	_	7	cc	7:cc	Gloss=COM|MSeg=na
+7	itanu	itanu	NUM	_	NumForm=Word|NumType=Card	4	conj	4:conj	Gloss=five|MSeg=itanu|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_66
+# text = Namumbyaara era ati
+# english = She produced her her for me and now
+1	Namumbyaara	mbyaara	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Number=Sing|Person=3|Person[iobj]=1|Person[obj]=3|Tense=Nar|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=NAR-1S-1O-1sgO-give_birth:APPL-FV|MSeg=ni-a-mu-n-byaar-a
+2	era	era	CCONJ	_	_	3	cc	3:cc	Gloss=and|MSeg=era
+3	ati	ati	ADV	_	_	1	conj	1:conj	Gloss=now|MSeg=ati|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_67
+# text = nanyikiriza,
+# english = he accepted me,
+1	nanyikiriza	ikiriza	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-accept-FV|MSeg=ni-a-n-ikiriz-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_68
+# text = namperya egaali
+# english = he gave me a bicycle,
+1	namperya	perya	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-give-FV|MSeg=ni-a-n-pery-a
+2	egaali	gaali	NOUN	_	NounClass=Bantu9|Referent=Yes	1	obj	1:obj	Gloss=AUG-9.bicycle|MSeg=e-gaali|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_69
+# text = gini ginasomerangaku
+# english = this one I was using for studying,
+1	gini	ni	PRON	_	Deixis=Prox|NounClass=Bantu9|Person=3|PronType=Dem	2	nsubj	2:nsubj	Gloss=9.PROX|MSeg=gini
+2-3	ginasomerangaku	_	_	_	_	_	_	_	SpacesAfter=\n
+2	ginasomeranga	soma	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu9|Number=Sing|Person=3|Person[obj]=1|Tense=Past|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=9S-1sgO-PST-study-APPL-HAB-FV|MSeg=gi-n-a-som-er-ang-a
+3	ku	ku	ADV	LOC	NounClass=Bantu17	2	advmod:loc	2:advmod:loc	Gloss=17.LOC|MSeg=ku
+
+# sent_id =graphy_Nakasongola1_70
+# text = nimpagisyayo akayumba,
+# english = I rented there a house,
+1-2	nimpagisyayo	_	_	_	_	_	_	_	_
+1	nimpagisya	pagisya	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-rent-FV|MSeg=ni-n-pagisy-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	akayumba	kayumba	NOUN	_	NounClass=Bantu12|Referent=Yes	1	obj	1:obj	Gloss=AUG-12.house|MSeg=a-kayumba|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_71
+# text = akayumba ako nakasasulanga emitwalo inai okwezi.
+# english = I used to pay forty thousand for house for a month.
+1	akayumba	kayumba	NOUN	_	NounClass=Bantu12|Referent=Yes	3	iobj	3:iobj	Gloss=AUG-12.house|MSeg=a-kayumba
+2	ako	o	DET	_	Deixis=Med|NounClass=Bantu12|PronType=Dem	1	det	1:det	Gloss=12.MED|MSeg=ako
+3	nakasasulanga	sasula	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu12|Number=Sing|Person=1|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-12O-pay-HAB-FV|MSeg=n-a-ka-sasul-ang-a
+4	emitwalo	mitwalo	NUM	_	NumForm=Word|NumType=Card|Referent=Yes	3	obj	3:obj	Gloss=AUG-thousand|MSeg=e-mitwalo
+5	inai	inai	NUM	_	NumForm=Word|NumType=Card	4	nummod	4:nummod	Gloss=four|MSeg=inai
+6	okwezi	kwezi	NOUN	_	NounClass=Bantu15|Referent=Yes	3	obl	3:obl	Gloss=AUG-15.month|MSeg=o-kwezi|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_72
+# text = ndi mulokole,
+# english = I am a Christian, I am born again,
+1	ndi	li	AUX	COP	Number=Sing|Person=1|Tense=Pres	2	cop	2:cop	Gloss=1sgS-COP|MSeg=n-li
+2	mulokole	mulokole	NOUN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.born_again|MSeg=mulokole|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_73
+# text = ankooremu omulimu gukooto muno
+# english = he has done great job in me
+1-2	ankooremu	_	_	_	_	_	_	_	_
+1	ankoore	kola	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1sgO-do:PFV|MSeg=a-n-koore
+2	mu	mu	ADV	LOC	NounClass=Bantu18	1	advmod:loc	1:advmod:loc	Gloss=18.LOC|MSeg=mu
+3	omulimu	mulimu	NOUN	_	NounClass=Bantu3|Referent=Yes	1	obj	1:obj	Gloss=AUG-3.job|MSeg=o-mulimu
+4	gukooto	kooto	ADJ	_	NounClass=Bantu3	3	amod	3:amod	Gloss=3-big|MSeg=gu-kooto
+5	muno	muno	ADV	_	_	1	advmod	1:advmod	Gloss=much|MSeg=muno|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_74
+# text = Ni namalirirye ekya musanju,
+# english = When I completed primary seven,
+1	Ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=COP|MSeg=ni
+2	namalirirye	maliirya	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-complete:PFV|MSeg=n-a-malirirye
+3	ekya	a	PART	GEN	NounClass=Bantu7|Referent=Yes	4	case	4:case	Gloss=AUG-7.GEN|MSeg=e-kya
+4	musanju	musanju	NUM	_	NumForm=Word|NumType=Card	2	obj	2:obj	Gloss=seven|MSeg=musanju|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_75
+# text = ninyaba omu siniya ekusooka,
+# english = I went to senior one,
+1	ninyaba	aba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-go-FV|MSeg=ni-n-ab-a
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	siniya	siniya	NOUN	_	NounClass=Bantu9	1	obl	1:obl	Gloss=9.senior|MSeg=siniya
+4	ekusooka	kusooka	ADV	_	Referent=Yes	1	advmod	1:advmod	Gloss=AUG-first|MSeg=e-kusooka|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_76
+# text = omu siniya ekusooka ntugisoma omwaka lukumi lwenda kyendai na musanju
+# english = we studied senior one in the year 1997,
+1	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	2	case	2:case	Gloss=AUG-18.LOC|MSeg=o-mu
+2	siniya	siniya	NOUN	_	NounClass=Bantu9	4	obl	4:obl	Gloss=9.senior|MSeg=siniya
+3	ekusooka	kusooka	ADV	_	Referent=Yes	4	advmod	4:advmod	Gloss=AUG-first|MSeg=e-kusooka
+4	ntugisoma	soma	VERB	_	Mood=Ind|NounClass=Bantu9|Number=Plur|Person=1|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-9O-study-FV|MSeg=ni-tu-gi-som-a
+5	omwaka	mwaka	NOUN	_	NounClass=Bantu3|Referent=Yes	4	obl	4:obl	Gloss=AUG-3.year|MSeg=o-mwaka
+6	lukumi	lukumi	NUM	_	NumForm=Word|NumType=Card	5	nummod	5:nummod	Gloss=thousand|MSeg=lukumi
+7	lwenda	lwenda	NUM	_	NumForm=Word|NumType=Card	6	flat:num	6:flat:num	Gloss=nine_hundred|MSeg=lwenda
+8	kyendai	kyendai	NUM	_	NumForm=Word|NumType=Card	6	flat:num	6:flat:num	Gloss=ninety|MSeg=kyendai
+9	na	na	CCONJ	COM	_	10	cc	10:cc	Gloss=COM|MSeg=na
+10	musanju	musanju	NUM	_	NumForm=Word|NumType=Card	6	conj	6:conj	Gloss=seven|MSeg=musanju|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_77
+# text = omwimulaku,
+# english = you awake him,
+1-2	omwimulaku	_	_	_	_	_	_	_	SpaceAfter=No
+1	omwimula	imula	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=2|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-1O-wake_up-FV|MSeg=o-mu-imul-a
+2	ku	ku	ADV	LOC	NounClass=Bantu17	1	advmod:loc	1:advmod:loc	Gloss=17.LOC|MSeg=ku
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_78
+# text = nituloleera oku bya...
+# english = We look at...
+1	nituloleera	loleera	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-look_at-FV|MSeg=ni-tu-loleer-a
+2	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	3	case	3:case	Gloss=AUG-17.LOC|MSeg=o-ku
+3	bya	a	PART	GEN	NounClass=Bantu8	1	obl	1:obl	Gloss=8.GEN|MSeg=bya|SpaceAfter=No
+4	...	...	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_79
+# text = Okwiza kwefaaku,
+# english = You will care about yourself,
+1	Okwiza	iza	AUX	_	Aspect=Prog|Number=Sing|Person=2|Tense=Pres	2	aux	2:aux	Gloss=2sgS-PROG-AUX-FV|MSeg=o-ku-iz-a
+2	kwefaaku	faaku	VERB	_	VerbForm=Inf|Voice=Rfl	0	root	0:root	Gloss=INF-REFL-take_care:FV|MSeg=ku-ee-faaku|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_80
+# text = nituloleera ku bya ntambula,
+# english = we look at transport,
+1	nituloleera	loleera	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-look_at-FV|MSeg=ni-tu-loleer-a
+2	ku	ku	ADP	LOC	NounClass=Bantu17	4	case	4:case	Gloss=17.LOC|MSeg=ku
+3	bya	a	PART	GEN	NounClass=Bantu8	4	case	4:case	Gloss=8.GEN|MSeg=bya
+4	ntambula	ntambula	NOUN	_	NounClass=Bantu9	1	obl	1:obl	Gloss=9.transport|MSeg=ntambula|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_81
+# text = nituloleera oku mulaka ogubba gubairewo, amwei n'ensonga ezindi zinyamwingi muno.
+# english = We also look at any day's topic which is existing together with other issues which are very many.
+1	nituloleera	loleera	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-look_at-FV|MSeg=ni-tu-loleer-a
+2	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	3	case	3:case	Gloss=AUG-17.LOC|MSeg=o-ku
+3	mulaka	mulaka	NOUN	_	NounClass=Bantu3	1	obl	1:obl|5:nsubj	Gloss=3.topic|MSeg=mulaka
+4	ogubba	bba	AUX	_	NounClass=Bantu3|Person=3|Referent=Yes|Tense=Pres	5	aux	5:aux	Gloss=AUG-3S-AUX|MSeg=o-gu-bba
+5-6	gubairewo	_	_	_	_	_	_	_	SpaceAfter=No
+5	gubaire	bba	VERB	COP	Aspect=Perf|Mood=Ind|NounClass=Bantu3|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=3S-COP-PFV|MSeg=gu-bba-ire
+6	wo	wo	ADV	LOC	NounClass=Bantu16	5	advmod:loc	5:advmod:loc	Gloss=16.LOC|MSeg=wo
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	amwei	amwei	ADV	_	_	5	advmod	5:advmod	Gloss=together|MSeg=amwei
+9-10	n'ensonga	_	_	_	_	_	_	_	_
+9	n'	na	ADP	COM	_	10	case	10:case	Gloss=COM|MSeg=na
+10	ensonga	nsonga	NOUN	_	NounClass=Bantu10|Referent=Yes	5	obl	5:obl	Gloss=AUG-10.issue|MSeg=e-nsonga
+11	ezindi	ndi	DET	_	NounClass=Bantu10|PronType=Ind|Referent=Yes	10	amod	10:amod	Gloss=AUG-10-other|MSeg=e-zi-ndi
+12	zinyamwingi	nyamwingi	ADJ	_	NounClass=Bantu10	10	amod	10:amod	Gloss=10-numerous|MSeg=zi-nyamwingi
+13	muno	muno	ADV	_	_	12	advmod	12:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_82
+# text = ntwaba ntusoma.
+# english = and we went to study.
+1	ntwaba	aba	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-go-FV|MSeg=ni-tu-ab-a
+2	ntusoma	soma	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	1	conj	1:conj	Gloss=NAR-1plS-study-FV|MSeg=ni-tu-som-a|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_83
+# text = kale abakulu abaleetere eisomero elyo nibatukoba "aahaah,
+# english = so the people who brought that school said, "No,
+1	kale	kale	INTJ	_	_	6	discourse	6:discourse	Gloss=well|MSeg=kale
+2	abakulu	mukulu	NOUN	_	NounClass=Bantu2|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-2.elder|MSeg=a-bakulu
+3	abaleetere	leeta	VERB	REL	Aspect=Perf|Mood=Ind|NounClass=Bantu2|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=S.REL-2S-bring-PFV|MSeg=a-ba-leet-ere
+4	eisomero	isomero	NOUN	_	NounClass=Bantu5|Referent=Yes	3	obl	3:obl	Gloss=AUG-5.school|MSeg=e-isomero
+5	elyo	lyo	PRON	_	NounClass=Bantu5|Person=3|PronType=Prs|Referent=Yes	3	obj	3:obj	Gloss=AUG-5|MSeg=e-lyo
+6	nibatukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Plur|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1plO-say-FV|MSeg=ni-ba-tu-kob-a
+7	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+8	aahaah	aahaah	INTJ	_	_	3	ccomp	3:ccomp	Gloss=INTERJ|MSeg=aahaah|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_84
+# text = Nibibbiiyamuku awo
+# english = they became somehow bitter (lit. they (words)became a little bit ugly),
+1-3	Nibibbiiyamuku	_	_	_	_	_	_	_	_
+1	Nibibbiiya	bbiiya	VERB	_	Mood=Ind|NounClass=Bantu8|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-8S-be_ugly-FV|MSeg=ni-bi-bbiiy-a
+2	mu	mu	ADV	LOC	NounClass=Bantu18	1	advmod:loc	1:advmod:loc	Gloss=18.LOC|MSeg=mu
+3	ku	ku	ADV	LOC	NounClass=Bantu17	1	advmod:loc	1:advmod:loc	Gloss=17.LOC|MSeg=ku
+4	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	1	advmod	1:advmod	Gloss=16.MED|MSeg=awo|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_85
+# text = eeh, nebitusobera muno.
+# english = eeh, we were so confused.
+1	eeh	eeh	INTJ	_	_	3	discourse	3:discourse	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	nebitusobera	sobera	VERB	_	Mood=Ind|NounClass=Bantu8|Number=Plur|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-8S-1plO-confuse-FV|MSeg=ni-bi-tu-sober-a
+4	muno	muno	ADV	_	_	1	advmod	1:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_86
+# text = nimpuura nga njeena nkuure,
+# english = I felt when I had also grown old
+1	nimpuura	wuura	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-feel-FV|MSeg=ni-n-wuur-a
+2	nga	nga	SCONJ	_	_	5	mark	5:mark	Gloss=while|MSeg=nga
+3-4	njeena	_	_	_	_	_	_	_	_
+3	njee	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	Gloss=1sg|MSeg=nje
+4	na	na	PART	ADD.FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=ADD.FOC|MSeg=na
+5	nkuure	kula	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-grow:PFV|MSeg=n-kuure|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_87
+# text = nga nkwendya okuswera omukali.
+# english = that I wanted to marry a woman.
+1	nga	nga	SCONJ	COMPL	_	2	mark	2:mark	Gloss=COMPL|MSeg=nga
+2	nkwendya	endya	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-want-FV|MSeg=n-ku-endy-a
+3	okuswera	swera	VERB	_	Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-marry-FV|MSeg=o-ku-swer-a
+4	omukali	mukali	NOUN	_	NounClass=Bantu1|Referent=Yes	3	obj	3:obj	Gloss=AUG-1.woman|MSeg=o-mukali|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_88
+# text = Era awo oKanca nanjuna ibiri ikumi na inai,
+# english = And there God helped me in 2014,
+1	Era	era	CCONJ	_	_	4	cc	4:cc	Gloss=and|MSeg=era
+2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	4	advmod	4:advmod	Gloss=16.MED|MSeg=awo
+3	oKanca	Kanca	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.god|MSeg=o-Kanca
+4	nanjuna	juna	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-help-FV|MSeg=ni-a-jun-a
+5	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	4	obl	4:obl	Gloss=two|MSeg=ibiri
+6	ikumi	ikumi	NUM	_	NumForm=Word|NumType=Card	5	flat:num	5:flat:num	Gloss=ten|MSeg=ikumi
+7	na	na	CCONJ	COM	_	8	cc	8:cc	Gloss=COM|MSeg=na
+8	inai	inai	NUM	_	NumForm=Word|NumType=Card	5	conj	5:conj	Gloss=four|MSeg=inai|SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_89
+# text = nanyanjula ewaabwe
+# english = he/she introduce to me their one,
+1	nanyanjula	anjula	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-introduce-FV|MSeg=ni-a-n-anjul-a
+2	ewaabwe	abwe	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu2|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-1-2POSS|MSeg=e-wa-abwe|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_90
+# text = ninkoba ni "taata, olugendo lukikirye",
+# english = I told him that dad the journey is too long,
+1	ninkoba	koba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-say-FV|MSeg=ni-n-kob-a
+2	ni	ni	SCONJ	QUOT	_	7	mark	7:mark	Gloss=QUOT|MSeg=ni
+3	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+4	taata	taata	NOUN	_	NounClass=Bantu1	7	vocative	7:vocative	Gloss=1.father|MSeg=taata|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
+6	olugendo	lugendo	NOUN	_	NounClass=Bantu11|Referent=Yes	7	nsubj	7:nsubj	Gloss=AUG-11.journey|MSeg=o-lugendo
+7	lukikirye	kikira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu11|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=11S-?:PFV|MSeg=lu-kikirye|SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_91
+# text = era awo ataata nakoba "ngyena esente tindina zo,
+# english = from there dad said, I also don't have the money
+1	era	era	CCONJ	_	_	4	cc	4:cc	Gloss=and|MSeg=era
+2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	4	advmod	4:advmod	Gloss=16.MED|MSeg=awo
+3	ataata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.father|MSeg=a-taata
+4	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a
+5	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+6-7	ngyena	_	_	_	_	_	_	_	_
+6	ngye	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Gloss=1sg|MSeg=nje
+7	na	na	PART	ADD.FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=ADD.FOC|MSeg=na
+8	esente	sente	NOUN	_	NounClass=Bantu10|Referent=Yes	9	obj	9:obj	Gloss=AUG-10.money|MSeg=e-sente
+9	tindina	lina	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	Gloss=NEG-1sgS-have-FV|MSeg=ti-n-lin-a
+10	zo	zo	PRON	_	NounClass=Bantu10|Person=3|PronType=Prs	9	dislocated	9:dislocated	Gloss=10|MSeg=zo|SpaceAfter=No
+11	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_92
+# text = tukole tutyai mwana wange.
+# english = what should we do my child.
+1	tukole	kola	VERB	_	Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	0	root	0:root	Gloss=1plS-do-SBJV|MSeg=tu-kol-e
+2	tutyai	tyai	ADV	_	Number=Plur|Person=1|PronType=Int	1	advmod	1:advmod	Gloss=1pl-how|MSeg=tu-tyai
+3	mwana	mwana	NOUN	_	NounClass=Bantu1	1	vocative	1:vocative	Gloss=1.child|MSeg=mwana
+4	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_93
+# text = Omu bumpimpi nimwo nyemereire ntyo oku bwomi bwange, ngeri ki gye nkutambulamu ati.
+# english = In short that is how I stand in my life, how I move on now
+1	Omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	2	case	2:case	Gloss=AUG-18.LOC|MSeg=o-mu
+2	bumpimpi	bumpimpi	NOUN	_	NounClass=Bantu14	4	obl	4:obl	Gloss=14.shortness|MSeg=bumpimpi
+3	nimwo	nimwo	INTJ	_	_	4	discourse	4:discourse	Gloss=indeed|MSeg=nimwo
+4	nyemereire	emeera	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-stand:PFV|MSeg=n-emereire
+5	ntyo	tyo	ADV	_	Number=Sing|Person=1	4	advmod	4:advmod	Gloss=1sg-like_that|MSeg=n-tyo
+6	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	7	case	7:case	Gloss=AUG-17.LOC|MSeg=o-ku
+7	bwomi	bwomi	NOUN	_	NounClass=Bantu14	4	obl	4:obl	Gloss=14.life|MSeg=bwomi
+8	bwange	ange	PRON	ASSOC	NounClass=Bantu14|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Gloss=14-1sgPOSS|MSeg=bu-ange|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	10:punct	_
+10	ngeri	ngeri	NOUN	_	NounClass=Bantu9	4	conj	4:conj	Gloss=9.way|MSeg=ngeri
+11	ki	ki	DET	_	PronType=Int	10	det	10:det	Gloss=what|MSeg=ki
+12	gye	e	PRON	_	NounClass=Bantu9|PronType=Rel	13	obl	13:obl	Gloss=9.REL|MSeg=gye
+13-14	nkutambulamu	_	_	_	_	_	_	_	_
+13	nkutambula	tambula	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Gloss=1sgS-RPOG-walk-FV|MSeg=n-ku-tambul-a
+14	mu	mu	ADV	LOC	NounClass=Bantu18	13	advmod:loc	13:advmod:loc	Gloss=18.LOC|MSeg=mu
+15	ati	ati	ADV	_	_	13	advmod	13:advmod	Gloss=now|MSeg=ati|SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_94
+# text = era nga ndi musaiza mukrisitayo,
+# english = and I am a Christian,
+1	era	era	CCONJ	_	_	5	cc	5:cc	Gloss=and|MSeg=era
+2	nga	nga	SCONJ	_	_	5	mark	5:mark	Gloss=while|MSeg=nga
+3	ndi	li	AUX	COP	Number=Sing|Person=1|Tense=Pres	5	cop	5:cop	Gloss=1sgS-COP|MSeg=n-li
+4	musaiza	musaiza	NOUN	_	NounClass=Bantu1	5	nmod	5:nmod	Gloss=1.man|MSeg=musaiza
+5	mukrisitayo	mukrisitaayo	NOUN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.Christian|MSeg=mukrisitaayo|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_95
+# text = Ebiro ebyo waalowo okusalaku kwa bakozi,
+# english = At that time, there was retrenchment of workers,
+1	Ebiro	kiro	NOUN	_	NounClass=Bantu8|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-8.day|MSeg=e-biro
+2	ebyo	o	DET	_	Deixis=Med|NounClass=Bantu8|PronType=Dem	1	det	1:det	Gloss=8.MED|MSeg=ebyo
+3-4	waalowo	_	_	_	_	_	_	_	_
+3	waalo	li	AUX	COP	NounClass=Bantu16|Person=3|Tense=Pres	4	cop	4:cop	Gloss=16S-COP|MSeg=wa-li
+4	wo	wo	ADV	LOC	NounClass=Bantu16	5	advcl	5:advcl	Gloss=16.LOC|MSeg=wo
+5-6	okusalaku	_	_	_	_	_	_	_	_
+5	okusala	sala	VERB	_	Referent=Yes|VerbForm=Inf	0	root	0:root	Gloss=AUG-INF-cut-FV|MSeg=o-ku-sal-a
+6	ku	ku	ADV	LOC	NounClass=Bantu17	5	advmod:loc	5:advmod:loc	Gloss=17.LOC|MSeg=ku
+7	kwa	a	PART	GEN	NounClass=Bantu15	8	case	8:case	Gloss=15.GEN|MSeg=kwa
+8	bakozi	mukozi	NOUN	_	NounClass=Bantu2	5	obj	5:obj	Gloss=worker|MSeg=bakozi|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_96
+# text = abakozi baingi abasalibweku omu biro ebyo
+# english = many workeers were cut off during that period
+1	abakozi	mukozi	NOUN	_	NounClass=Bantu2|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-worker|MSeg=a-bakozi
+2	baingi	ingi	ADJ	_	NounClass=Bantu2	1	amod	1:amod	Gloss=2-numerous|MSeg=ba-ingi
+3-4	abasalibweku	_	_	_	_	_	_	_	_
+3	abasalibwe	sala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu2|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	Gloss=1S-2O-cut-PASS:PFV|MSeg=a-ba-sal-ibwe
+4	ku	ku	ADV	LOC	NounClass=Bantu17	3	advmod:loc	3:advmod:loc	Gloss=17.LOC|MSeg=ku
+5	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	6	case	6:case	Gloss=AUG-18.LOC|MSeg=o-mu
+6	biro	kiro	NOUN	_	NounClass=Bantu8	3	obl	3:obl	Gloss=8.day|MSeg=biro
+7	ebyo	o	DET	_	Deixis=Med|NounClass=Bantu8|PronType=Dem	6	det	6:det	Gloss=8.MED|MSeg=ebyo|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_97
+# text = nga tetwina purogulamu olwa nsonga eza njawulo,
+# english = when we didn't have a program (on the radio) because of different reasons,
+1	nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	tetwina	lina	VERB	_	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=NEG-1plS-have-FV|MSeg=ti-tu-lin-a
+3	purogulamu	purogulamu	NOUN	_	NounClass=Bantu9	2	obj	2:obj	Gloss=9.program|MSeg=purogulamu
+4	olwa	olwa	ADP	_	_	5	case	5:case	Gloss=because_of|MSeg=olwa
+5	nsonga	nsonga	NOUN	_	NounClass=Bantu10	2	obl	2:obl	Gloss=10.issue|MSeg=nsonga
+6	eza	a	PART	GEN	NounClass=Bantu10|Referent=Yes	7	case	7:case	Gloss=AUG-10.GEN|MSeg=e-za
+7	njawulo	njawulo	NOUN	_	NounClass=Bantu9	5	nmod	5:nmod	Gloss=9.difference|MSeg=njawulo|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_98
+# text = nga olutalo lukendeire,
+# english = when the war had reduced,
+1	nga	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+2	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-11.war|MSeg=o-lutalo
+3	lukendeire	kendeera	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu11|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=11S-reduce:PFV|MSeg=lu-kendeire|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_99
+# text = nga abantu batandikire okwira.
+# english = when people had started coming back.
+1	nga	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+2	abantu	muntu	NOUN	_	NounClass=Bantu2|Referent=Yes	3	nsubj	3:nsubj|4:nsubj:xsubj	Gloss=AUG-2.man|MSeg=a-bantu
+3	batandikire	tandika	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2S-start-PFV|MSeg=ba-tandik-ire
+4	okwira	ira	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-return-FV|MSeg=o-ku-ir-a|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_100
+# text = Otaata niye yasookere nairayo,
+# english = It was dad who first went back,
+1	Otaata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.father|MSeg=o-taata
+2	niye	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu1|Person=3|Tense=Pres	1	cop	1:cop	Gloss=COP-1|MSeg=ni-ye
+3	yasookere	sooka	VERB	REL	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=S.REL-1S-do_first-PFV|MSeg=a-a-sook-ere
+4-5	nairayo	_	_	_	_	_	_	_	SpaceAfter=No
+4	naira	ira	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	3	parataxis	3:parataxis	Gloss=NAR-1S-return-FV|MSeg=ni-a-ir-a
+5	yo	yo	ADV	LOC	NounClass=Bantu23	4	advmod:loc	4:advmod:loc	Gloss=23.LOC|MSeg=yo
+6	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_101
+# text = ni yaireyo
+# english = when he went back,
+1	ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2-3	yaireyo	_	_	_	_	_	_	_	SpacesAfter=\n
+2	yaire	ira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-return:PFV|MSeg=a-ire
+3	yo	yo	ADV	LOC	NounClass=Bantu23	2	advmod:loc	2:advmod:loc	Gloss=23.LOC|MSeg=yo
+
+# sent_id =graphy_Nakasongola1_102
+# text = natandika okwabanga atusyoma mpola,
+# english = he begun collecting us slowly (lit. he started to go, he collected us slowly)
+1	natandika	tandika	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-start-FV|MSeg=ni-a-tandik-a
+2	okwabanga	aba	VERB	_	Aspect=Hab|Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-go-HAB-FV|MSeg=o-ku-ab-ang-a
+3	atusyoma	syoma	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Plur|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	Gloss=1S-1plO-fetch-FV|MSeg=a-tu-syom-a
+4	mpola	mpola	ADV	_	_	3	advmod	3:advmod	Gloss=slowly|MSeg=mpola|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_103
+# text = Nabire okubona nga olugendo, amananu gali nti lukunyenda,
+# english = I realised that the journey, the fact was that it was stressing me,
+1	Nabire	aba	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-go-PFV|MSeg=n-ab-ire
+2	okubona	bona	VERB	_	Referent=Yes|VerbForm=Inf	1	advcl	1:advcl	Gloss=AUG-INF-see-FV|MSeg=o-ku-bon-a
+3	nga	nga	SCONJ	COMPL	_	4	mark	4:mark	Gloss=COMPL|MSeg=nga
+4	olugendo	lugendo	NOUN	_	NounClass=Bantu11|Referent=Yes	9	reparandum	9:reparandum	Gloss=AUG-11.journey|MSeg=o-lugendo|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	9:punct	_
+6	amananu	mananu	NOUN	_	NounClass=Bantu6|Referent=Yes	9	nsubj:outer	9:nsubj:outer	Gloss=AUG-6.fact|MSeg=a-mananu
+7	gali	li	AUX	COP	NounClass=Bantu6|Person=3|Tense=Pres	9	cop	9:cop	Gloss=6S-COP|MSeg=ga-li
+8	nti	nti	SCONJ	COMPL	_	9	mark	9:mark	Gloss=COMPL|MSeg=nti
+9	lukunyenda	lukunyenda	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu11|Number=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Gloss=11S-PROG-1sgS-break-FV|MSeg=lu-ku-n-end-a|SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_104
+# text = okwikya ni naire ninkobereku omuzeeyi otaata,
+# english = until I returned and I told dad,
+1	okwikya	okwikya	SCONJ	_	_	3	mark	3:mark	Gloss=until|MSeg=okwikya
+2	ni	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+3	naire	ira	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-return:PFV|MSeg=n-a-ire
+4-5	ninkobereku	_	_	_	_	_	_	_	_
+4	ninkobere	koba	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	3	conj	3:conj	Gloss=NAR-1sgS-say-PFV|MSeg=ni-n-kob-ere
+5	ku	ku	ADV	LOC	NounClass=Bantu17	4	advmod:loc	4:advmod:loc	Gloss=17.LOC|MSeg=ku
+6	omuzeeyi	muzeeyi	NOUN	_	NounClass=Bantu1|Referent=Yes	7	nmod	7:nmod	Gloss=AUG-1.elderly_person|MSeg=o-muzeeyi
+7	otaata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	4	iobj	4:iobj	Gloss=AUG-1.father|MSeg=o-taata|SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_105
+# text = ninyabaangayo, nanyegesyanga,
+# english = would go there and he trains/teaches me
+1-2	ninyabaangayo	_	_	_	_	_	_	_	SpaceAfter=No
+1	ninyabaanga	aba	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-go-HAB-FV|MSeg=ni-n-ab-ang-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	nanyegesyanga	egesya	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	1	conj	1:conj	Gloss=NAR-1S-1sgO-teach-HAB-FV|MSeg=ni-a-n-egesy-ang-a|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_106
+# text = nanyegesyanga mpolampola.
+# english = and he teaches me slowly.
+1	nanyegesyanga	egesya	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-teach-HAB-FV|MSeg=ni-a-n-egesy-ang-a
+2	mpolampola	mpola	ADV	_	Red=Yes	1	advmod	1:advmod	Gloss=slowly~slowly|MSeg=mpola~mpola|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_107
+# text = Awote nintandika okwira oku isomero,
+# english = There, I started returning back to school,
+1-2	Awote	_	_	_	_	_	_	_	_
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	3	advmod	3:advmod	Gloss=16.MED|MSeg=awo
+2	te	te	PART	TOP	InfStruct=Top	3	advmod:emph	3:advmod:emph	Gloss=TOP|MSeg=te
+3	nintandika	tandika	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-start-FV|MSeg=ni-n-tandik-a
+4	okwira	ira	VERB	_	Referent=Yes|VerbForm=Inf	3	xcomp	3:xcomp	Gloss=AUG-INF-return-FV|MSeg=o-ku-ir-a
+5	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	6	case	6:case	Gloss=AUG-17.LOC|MSeg=o-ku
+6	isomero	isomero	NOUN	_	NounClass=Bantu5	4	obl	4:obl	Gloss=5.school|MSeg=isomero|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_108
+# text = nabaangayo okugezesebwa ngate eni nimwo nkusoma.
+# english = I used to go there for practice at same time studying.
+1-2	nabaangayo	_	_	_	_	_	_	_	_
+1	nabaanga	aba	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-go-HAB-FV|MSeg=n-ab-ang-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	okugezesebwa	gezesya	VERB	_	Referent=Yes|VerbForm=Inf|Voice=Pass	1	advcl	1:advcl	Gloss=AUG-INF-test-PASS-FV|MSeg=o-ku-gezesy-ebw-a
+4-5	ngate	_	_	_	_	_	_	_	_
+4	nga	nga	SCONJ	_	_	8	mark	8:mark	Gloss=while|MSeg=nga
+5	te	te	PART	TOP	InfStruct=Top	4	advmod:emph	4:advmod:emph	Gloss=TOP|MSeg=te
+6	eni	eni	ADV	_	Deixis=Prox|NounClass=Bantu23|PronType=Dem	8	advmod	8:advmod	Gloss=23.PROX|MSeg=eni
+7	nimwo	nimwo	INTJ	_	_	8	discourse	8:discourse	Gloss=indeed|MSeg=nimwo
+8	nkusoma	soma	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	Gloss=1sgS-PROG-study-FV|MSeg=n-ku-som-a|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_109
+# text = nigyo twatandikire
+# english = that is where we started from,
+1	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-23|MSeg=ni-gyo
+2	twatandikire	tandika	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1plS-PST-start-PFV|MSeg=tu-a-tandik-ire|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_110
+# text = nga twali tukwega enaku isatu omu sabiiti,
+# english = when we were learning three days in a week,
+1	nga	nga	SCONJ	_	_	3	mark	3:mark	Gloss=while|MSeg=nga
+2	twali	li	AUX	_	Number=Plur|Person=1|Tense=Past	3	aux	3:aux	Gloss=1plS-PST-AUX|MSeg=tu-a-li
+3	tukwega	ega	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1plS-PROG-learn-FV|MSeg=tu-ku-eg-a
+4	enaku	naku	NOUN	_	NounClass=Bantu10|Referent=Yes	3	obl	3:obl	Gloss=AUG-10.day|MSeg=e-naku
+5	isatu	isatu	NUM	_	NumForm=Word|NumType=Card	4	nummod	4:nummod	Gloss=three|MSeg=isatu
+6	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	7	case	7:case	Gloss=AUG-18.LOC|MSeg=o-mu
+7	sabiiti	sabiiti	NOUN	_	NounClass=Bantu9	4	nmod	4:nmod	Gloss=9.week|MSeg=sabiiti|SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_111
+# text = twayeganga oLwabalaza, oLwakasatu amwei n'oLwakataanu.
+# english = we studied on Monday, Wednesday and Friday.
+1	twayeganga	ega	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1plS-PST-learn-HAB-FV|MSeg=tu-a-eg-ang-a
+2	oLwabalaza	Lwabalaza	NOUN	_	NounClass=Bantu11|Referent=Yes	1	obl	1:obl	Gloss=AUG-11.Monday|MSeg=o-Lwabalaza|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	oLwakasatu	Lwakasatu	NOUN	_	NounClass=Bantu11|Referent=Yes	2	conj	1:obl|2:conj	Gloss=AUG-11.Wednesday|MSeg=o-Lwakasatu
+5	amwei	amwei	ADV	_	_	1	advmod	1:advmod	Gloss=together|MSeg=amwei
+6-7	n'oLwakataanu	_	_	_	_	_	_	_	SpaceAfter=No
+6	n'	na	CCONJ	COM	_	7	cc	7:cc	Gloss=COM|MSeg=na
+7	oLwakataanu	Lwakataanu	NOUN	_	NounClass=Bantu11|Referent=Yes	2	conj	1:obl|2:conj	Gloss=AUG-11.Friday|MSeg=o-Lwakataanu
+8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_112
+# text = era nimbaayo yoona,
+# english = and I also stayed there,
+1	era	era	CCONJ	_	_	2	cc	2:cc	Gloss=and|MSeg=era
+2-3	nimbaayo	_	_	_	_	_	_	_	_
+2	nimbaa	bba	VERB	COP	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-COP|MSeg=ni-n-bba
+3	yo	yo	ADV	LOC	NounClass=Bantu23	2	advmod:loc	2:advmod:loc	Gloss=23.LOC|MSeg=yo
+4-5	yoona	_	_	_	_	_	_	_	SpaceAfter=No
+4	yoo	yo	PRON	_	NounClass=Bantu23|Person=3|PronType=Prs	2	obl	2:obl	Gloss=23|MSeg=yo
+5	na	na	PART	ADD.FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD.FOC|MSeg=na
+6	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_113
+# text = ni namaliriirye
+# english = when I completed,
+1	ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2	namaliriirye	maliirya	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-complete:PFV|MSeg=n-a-malirirye|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_114
+# text = Yoona ninyaba
+# english = I also went there
+1-2	Yoona	_	_	_	_	_	_	_	_
+1	Yoo	yo	PRON	_	NounClass=Bantu23|Person=3|PronType=Prs	3	obl	3:obl	Gloss=23|MSeg=yo
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	ninyaba	aba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-go-FV|MSeg=ni-n-ab-a|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_115
+# text = Era nibantangira muno,
+# english = Still they controlled me so much,
+1	Era	era	CCONJ	_	_	2	cc	2:cc	Gloss=and|MSeg=era
+2	nibantangira	tangira	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1sgO-control-FV|MSeg=ni-ba-n-tangir-a
+3	muno	muno	ADV	_	_	2	advmod	2:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_116
+# text = nimbazaamu n'omubigiza,
+# english = I talked with the moderator,
+1-2	nimbazaamu	_	_	_	_	_	_	_	_
+1	nimbazaa	baza	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-talk-FV|MSeg=ni-n-baz-a
+2	mu	mu	ADV	LOC	NounClass=Bantu18	1	advmod:emph	1:advmod:emph	Gloss=18.LOC|MSeg=mu
+3-4	n'omubigiza	_	_	_	_	_	_	_	SpaceAfter=No
+3	n'	na	ADP	COM	_	4	case	4:case	Gloss=COM|MSeg=na
+4	omubigiza	mubigiza	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obl	1:obl	Gloss=AUG-1.moderator|MSeg=o-mubigiza
+5	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_117
+# text = Nintandika okwega,
+# english = I started learning...
+1	Nintandika	tandika	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-start-FV|MSeg=ni-n-tandik-a
+2	okwega	ega	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-learn-FV|MSeg=o-ku-eg-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id =graphy_Nakasongola1_118
+# text = Naye nkwendya okwebalya oKanca nti omu mwaka ogwa kyendai n'omusanju,
+# english = But I would like to thank God that in that year of nineteen ninety seven,
+1	Naye	naye	CCONJ	_	_	2	cc	2:cc	Gloss=but|MSeg=naye
+2	nkwendya	endya	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-want-FV|MSeg=n-ku-endy-a
+3	okwebalya	ebalya	VERB	_	Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-thank-FV|MSeg=o-ku-ebaly-a
+4	oKanca	Kanca	NOUN	_	NounClass=Bantu1|Referent=Yes	3	obj	3:obj	Gloss=AUG-1.god|MSeg=o-Kanca
+5	nti	nti	SCONJ	COMPL	_	7	mark	7:mark	Gloss=COMPL|MSeg=nti
+6	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	7	case	7:case	Gloss=AUG-18.LOC|MSeg=o-mu
+7	mwaka	mwaka	NOUN	_	NounClass=Bantu3	3	ccomp	3:ccomp	Gloss=3.year|MSeg=mwaka
+8	ogwa	a	PART	GEN	NounClass=Bantu3|Referent=Yes	9	case	9:case	Gloss=AUG-3.GEN|MSeg=o-gwa
+9	kyendai	kyendai	NUM	_	NumForm=Word|NumType=Card	7	nmod	7:nmod	Gloss=ninety|MSeg=kyendai
+10-11	n'omusanju	_	_	_	_	_	_	_	SpaceAfter=No
+10	n'	na	CCONJ	COM	_	11	cc	11:cc	Gloss=COM|MSeg=na
+11	omusanju	musanju	NUM	_	NumForm=Word|NumType=Card|Referent=Yes	9	conj	9:conj	Gloss=AUG-seven|MSeg=o-musanju
+12	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_119
+# text = nidokoka,
+# english = I became saved,
+1	nidokoka	lokoka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-be_born_again-FV|MSeg=ni-n-lokok-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_120
+# text = Ati olwakubba nti naalina oYesu omu mwoyo gwange
+# english = Now, because I had Jesus Christ in my heart
+1	Ati	ati	ADV	_	_	4	advmod	4:advmod	Gloss=now|MSeg=ati
+2	olwakubba	olwakubba	SCONJ	_	_	4	mark	4:mark	Gloss=because_of|MSeg=olwakubba
+3	nti	nti	SCONJ	QUOT	_	4	mark	4:mark	Gloss=QUOT|MSeg=nti
+4	naalina	lina	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PST-have-FV|MSeg=n-a-lin-a
+5	oYesu	Yesu	PROPN	_	NounClass=Bantu1|Referent=Yes	4	obj	4:obj	Gloss=AUG-1.Yesu|MSeg=o-Yesu
+6	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	7	case	7:case	Gloss=AUG-18.LOC|MSeg=o-mu
+7	mwoyo	mwoyo	NOUN	_	NounClass=Bantu3	4	obl	4:obl	Gloss=3.heart|MSeg=mwoyo
+8	gwange	ange	PRON	ASSOC	NounClass=Bantu3|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Gloss=3-1sgPOSS|MSeg=gu-ange|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_121
+# text = njena ntwaba n'otaata
+# english = I also went with dad
+1-2	njena	_	_	_	_	_	_	_	_
+1	nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1sg|MSeg=nje
+2	na	na	PART	ADD.FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	ntwaba	aba	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-go-FV|MSeg=ni-tu-ab-a
+4-5	n'otaata	_	_	_	_	_	_	_	SpacesAfter=\n
+4	n'	na	ADP	COM	_	5	case	5:case	Gloss=COM|MSeg=na
+5	otaata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	3	obl	3:obl	Gloss=AUG-1.father|MSeg=o-taata
+
+# sent_id =graphy_Nakasongola1_122
+# text = ntwongera okwikara omu kibanja kyaiswe ekikulu
+# english = we continued to stay in our older land
+1	ntwongera	ongera	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-continue-FV|MSeg=ni-tu-onger-a
+2	okwikara	ikara	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-live-FV|MSeg=o-ku-ikar-a
+3	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	4	case	4:case	Gloss=AUG-18.LOC|MSeg=o-mu
+4	kibanja	kibanja	NOUN	_	NounClass=Bantu7	2	obl	2:obl	Gloss=7.plot|MSeg=kibanja
+5	kyaiswe	aiswe	PRON	ASSOC	NounClass=Bantu7|Number=Plur|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Gloss=7-1plPOSS|MSeg=ki-aiswe
+6	ekikulu	kulu	ADJ	_	NounClass=Bantu7|Referent=Yes	4	amod	4:amod	Gloss=AUG-7-old|MSeg=e-ki-kulu|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_123
+# text = Ni ndiga eni, mu kibiina ekya kataanu,
+# english = When I left here, the primary five class,
+1	Ni	ni	SCONJ	_	_	2	mark	2:mark	Gloss=when|MSeg=ni
+2	ndiga	liga	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-leave-FV|MSeg=n-lig-a
+3	eni	eni	ADV	_	Deixis=Prox|NounClass=Bantu23|PronType=Dem	2	advmod	2:advmod	Gloss=23.PROX|MSeg=eni|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	_
+5	mu	mu	ADP	LOC	NounClass=Bantu18	6	case	6:case	Gloss=18.LOC|MSeg=mu
+6	kibiina	kibiina	NOUN	_	NounClass=Bantu7	2	parataxis	2:parataxis	Gloss=7.class|MSeg=kibiina
+7	ekya	a	PART	GEN	NounClass=Bantu7|Referent=Yes	8	case	8:case	Gloss=AUG-7.GEN|MSeg=e-kya
+8	kataanu	kataanu	NUM	_	NumForm=Word|NumType=Card	6	nmod	6:nmod	Gloss=five|MSeg=kataanu|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_124
+# text = ate nga n'opurinsipo yeena yaali musaiza mulokole,
+# english = and yet the principle was also a born-again man,
+1	ate	ate	CCONJ	_	_	8	cc	8:cc	Gloss=and|MSeg=ate
+2	nga	nga	SCONJ	_	_	8	mark	8:mark	Gloss=while|MSeg=nga
+3-4	n'opurinsipo	_	_	_	_	_	_	_	_
+3	n'	na	PART	ADD.FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD.FOC|MSeg=na
+4	opurinsipo	purinsipo	NOUN	_	NounClass=Bantu1|Referent=Yes	8	dislocated	8:dislocated	Gloss=AUG-1.principle|MSeg=o-purinsipo
+5-6	yeena	_	_	_	_	_	_	_	_
+5	yee	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	8	nsubj	8:nsubj	Gloss=1|MSeg=ye
+6	na	na	PART	ADD.FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=ADD.FOC|MSeg=na
+7	yaali	li	AUX	COP	NounClass=Bantu1|Person=3|Tense=Past	8	cop	8:cop	Gloss=1S-PST-COP|MSeg=a-a-li
+8	musaiza	musaiza	NOUN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.man|MSeg=musaiza
+9	mulokole	mulokole	NOUN	_	NounClass=Bantu1	8	nmod	8:nmod	Gloss=1.born_again|MSeg=mulokole|SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_125
+# text = yambonanga ani
+# english = he used to see me here
+1	yambonanga	bona	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-1sgO-see-HAB-FV|MSeg=a-a-n-bon-ang-a
+2	ani	ani	ADV	_	Deixis=Prox|NounClass=Bantu16|PronType=Dem	1	advmod	1:advmod	Gloss=here|MSeg=ani|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_126
+# text = nanyendya muno,
+# english = he loved me so much,
+1	nanyendya	endya	VERB	_	Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-like-FV|MSeg=ni-a-n-endy-a
+2	muno	muno	ADV	_	_	1	advmod	1:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_127
+# text = nitukwatagana omu bwomi bwa mwoyo,
+# english = we linked in the spiritual life,
+1	nitukwatagana	kwatagana	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-connect-FV|MSeg=ni-tu-kwatagan-a
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	bwomi	bwomi	NOUN	_	NounClass=Bantu14	1	obl	1:obl	Gloss=14.life|MSeg=bwomi
+4	bwa	a	PART	GEN	NounClass=Bantu14	5	case	5:case	Gloss=14.GEN|MSeg=bwa
+5	mwoyo	mwoyo	NOUN	_	NounClass=Bantu3	3	nmod	3:nmod	Gloss=3.heart|MSeg=mwoyo|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_128
+# text = olutalo mukurwizukira kusai olwaliwo omu kinaanai awo.
+# english = You remember very well the war that was in the eighties.
+1	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	2	obj	2:obj	Gloss=AUG-11.war|MSeg=o-lutalo
+2	mukurwizukira	izukira	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu11|Number=Plur|Person=2|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2plS-PROG-11O-remember-FV|MSeg=mu-ku-lu-izukir-a
+3	kusai	kusai	ADV	_	_	2	advmod	2:advmod	Gloss=well|MSeg=kusai
+4-5	olwaliwo	_	_	_	_	_	_	_	_
+4	olwali	li	AUX	COP	NounClass=Bantu11|Person=3|Referent=Yes|Tense=Past	5	cop	5:cop	Gloss=AUG-11S-PST-COP|MSeg=o-lu-a-li
+5	wo	wo	ADV	LOC	NounClass=Bantu16	2	ccomp	2:ccomp	Gloss=16.LOC|MSeg=wo
+6	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	7	case	7:case	Gloss=AUG-18.LOC|MSeg=o-mu
+7	kinaanai	kinaanai	NUM	_	NumForm=Word|NumType=Card	5	obl	5:obl	Gloss=eighty|MSeg=kinaanai
+8	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	5	advmod	5:advmod	Gloss=16.MED|MSeg=awo|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_129
+# text = Nilutuleetera okusuruka,
+# english = It caused us to migrate,
+1	Nilutuleetera	leeta	VERB	_	Mood=Ind|NounClass=Bantu11|Number=Plur|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=NAR-11S-1plO-bring-APPL-FV|MSeg=ni-lu-tu-leet-er-a
+2	okusuruka	suruka	VERB	_	Referent=Yes|VerbForm=Inf	1	xcomp	1:xcomp	Gloss=AUG-INF-migrate-FV|MSeg=o-ku-suruk-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_130
+# text = Kale omu kwiruka olutalo
+# english = Therefore, while running from the war,
+1	Kale	Kale	INTJ	_	_	3	discourse	3:discourse	Gloss=well|MSeg=kale
+2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
+3	kwiruka	iruka	VERB	_	VerbForm=Inf	0	root	0:root	Gloss=INF-run-FV|MSeg=ku-iruk-a
+4	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	3	obj	3:obj	Gloss=AUG-11.war|MSeg=o-lutalo|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_131
+# text = nimwo twaira oku bugenyi obwa kwelanga omu eka ya ite wamwe.
+# english = that is when we shall come back to feast of showing ourselves in the home of her father.
+1	nimwo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu18|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-18|MSeg=ni-mwo
+2	twaira	ira	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	0:root	Gloss=1plS-FUT-return-FV|MSeg=tu-a-ir-a
+3	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	4	case	4:case	Gloss=AUG-17.LOC|MSeg=o-ku
+4	bugenyi	bugenyi	NOUN	_	NounClass=Bantu14	2	obl	2:obl	Gloss=14.feast|MSeg=bugenyi
+5	obwa	a	PART	GEN	NounClass=Bantu14|Referent=Yes	6	case	6:case	Gloss=AUG-14.GEN|MSeg=o-bwa
+6	kwelanga	langa	NOUN	_	NounClass=Bantu15|VerbForm=Vnoun|Voice=Rfl	4	nmod	4:nmod	Gloss=INF-REFL-show-FV|MSeg=ku-ee-lang-a
+7	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	8	case	8:case	Gloss=AUG-18.LOC|MSeg=o-mu
+8	eka	eka	NOUN	_	NounClass=Bantu9	6	nmod	6:nmod	Gloss=9.home|MSeg=eka
+9	ya	a	PART	GEN	NounClass=Bantu9	10	case	10:case	Gloss=9.GEN|MSeg=ya
+10	ite	ite	NOUN	_	NounClass=Bantu1	8	nmod	8:nmod	Gloss=1.father|MSeg=ite
+11	wamwe	amwe	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Gloss=1-1POSS|MSeg=wa-amwe|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_132
+# text = Era oluvanyuma nibambyala omu eka ejo,
+# english = Still I joined that family (lit.still later, I became born of that home).
+1	Era	era	CCONJ	_	_	3	cc	3:cc	Gloss=and|MSeg=era
+2	oluvanyuma	luvanyuma	ADV	_	Referent=Yes	3	advmod	3:advmod	Gloss=AUG-afterwards|MSeg=o-luvanyuma
+3	nibambyala	byala	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1sgO-give_birth_to-FV|MSeg=ni-ba-n-byal-a
+4	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	5	case	5:case	Gloss=AUG-18.LOC|MSeg=o-mu
+5	eka	eka	NOUN	_	NounClass=Bantu9	3	obl	3:obl	Gloss=9.home|MSeg=eka
+6	ejo	o	DET	_	Deixis=Med|NounClass=Bantu9|PronType=Dem	3	det	3:det	Gloss=9.MED|MSeg=ejo|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_133
+# text = omuzeeyi naikiriza okumbyala amwe n'okutwala omwala wamwe.
+# english = The old man accepted to recieve me (to be part of his family)  together with taking his daughter.  (Lit. the old man accepted to produce me together with taking his daughter.)
+1	omuzeeyi	muzeeyi	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj|3:nsubj:xsubj|6:nsubj:xsubj	Gloss=AUG-1.elderly_person|MSeg=o-muzeeyi
+2	naikiriza	ikiriza	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-accept-FV|MSeg=ni-a-ikiriz-a
+3	okumbyala	byala	VERB	_	Number=Sing|Person=1|Referent=Yes|VerbForm=Inf	2	xcomp	2:xcomp	Gloss=AUG-INF-1sgO-give_birth_to-FV|MSeg=o-ku-n-byal-a
+4	amwe	amwe	ADV	_	_	6	advmod	6:advmod	Gloss=together|MSeg=amwe
+5-6	n'okutwala	_	_	_	_	_	_	_	_
+5	n'	na	CCONJ	COM	_	6	cc	6:cc	Gloss=COM|MSeg=na
+6	okutwala	twala	VERB	_	Referent=Yes|VerbForm=Inf	3	conj	2:xcomp|3:conj	Gloss=AUG-INF-take-FV|MSeg=o-ku-twal-a
+7	omwala	mwala	NOUN	_	NounClass=Bantu1|Referent=Yes	6	obj	6:obj	Gloss=AUG-1.daughter|MSeg=o-mwala
+8	wamwe	amwe	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=1-1POSS|MSeg=wa-amwe|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_134
+# text = Naye okwikya oKanca niyanjunire,
+# english = Until when God helped me,
+1	Naye	naye	CCONJ	_	_	4	cc	4:cc	Gloss=but|MSeg=naye
+2	okwikya	okwikya	SCONJ	_	_	4	mark	4:mark	Gloss=until|MSeg=okwikya
+3	oKanca	Kanca	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.god|MSeg=o-Kanca
+4	niyanjunire	juna	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1sgO-help-PFV|MSeg=ni-a-n-jun-ire|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_135
+# text = Ninsobola...
+# english = I managed...
+1	Ninsobola	sobola	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-manage-FV|MSeg=ni-n-sobol-a|SpaceAfter=No
+2	...	...	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_136
+# text = nga tukuweereza,
+# english = while serving,
+1	nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
+2	tukuweereza	weereza	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1plS-PROG-broadcast-FV|MSeg=tu-ku-weerez-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_137
+# text = ninyikyayo emyaka mukaaga girambiira
+# english = I spent there six full years
+1-2	ninyikyayo	_	_	_	_	_	_	_	_
+1	ninyikya	ikya	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1sgS-spend-FV|MSeg=ni-n-iky-a
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	Gloss=23.LOC|MSeg=yo
+3	emyaka	mwaka	NOUN	_	NounClass=Bantu4|Referent=Yes	1	obj	1:obj	Gloss=AUG-4.year|MSeg=e-myaka
+4	mukaaga	mukaaga	NUM	_	NumForm=Word|NumType=Card	3	nummod	3:nummod	Gloss=six|MSeg=mukaaga
+5	girambiira	lambiira	ADJ	_	NounClass=Bantu4	3	amod	3:amod	Gloss=4-whole|MSeg=gi-lambiira|SpacesAfter=\n
+
+# sent_id =graphy_Nakasongola1_138
+# text = Ati awo nigyo twafuniire omukisa,
+# english = Now it's from there that we got an opportunity,
+1	Ati	ati	ADV	_	_	4	advmod	4:advmod	Gloss=now|MSeg=ati
+2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	4	advmod	4:advmod	Gloss=16.MED|MSeg=awo
+3	nigyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu23|Person=3|Tense=Pres	4	cop	4:cop	Gloss=COP-23|MSeg=ni-gyo
+4	twafuniire	funa	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1plS-PST-get-APPL:PFV|MSeg=tu-a-fun-iire
+5	omukisa	mukisa	NOUN	_	NounClass=Bantu3|Referent=Yes	4	obj	4:obj	Gloss=AUG-3.chance|MSeg=o-mukisa|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+

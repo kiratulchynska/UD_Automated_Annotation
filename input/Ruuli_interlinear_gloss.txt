@@ -1,0 +1,37 @@
+file:///Users/kira.tulchynska/Documents/GitHub/Event_packaging/Ruuli_UD/Source/ll-X-AniinireAiguru-nd-W-1a.eaf
+Wednesday, February 11, 2026, 12:11 PM
+
+ll-X-AniinireAiguru-nd-W-1a.001
+EBIKWEKEERA.
+e-     bi-  ku-   ekeer    -a
+S.REL- 8S-  PROG- be_first -FV
+vpf-   vpf- vpf-  vintr    -vsf
+What is first.
+
+ll-X-AniinireAiguru-nd-W-1a.002
+Ekitabo kini kiwandiikiibwe mu ngeri ya mangumangu okulanga engeso n'emikiirokiiro okwemereire oBunyala.
+e-   kitabo kini   ki-  wandiik -iibwe    mu     ngeri ya    mangumangu o-   ku-  lang -a   e-   ngeso   na   e-   mikiirokiiro           o-     ku-  e-   mereire   o-   Bunyala
+AUG- 7.book 7.PROX 7S-  write   -PASS:PFV 18.LOC 9.way 9.GEN speedy     AUG- INF- show -FV  AUG- 9.value COM  AUG- 4.traditional_practice S.REL- 17S- 9O-  stand:PFV AUG- 14.Bunyala
+npf- n      dem    vpf- vtr     -vsf:vsf  prep   n     ptcl  adj        vpf- vpf- vtr  -vsf npf- n       prep npf- n                      vpf-   vpf- vpf- vintr:vsf npf- nprop
+This book is written in a speedy way to show the characters and the traditions on Bunyala is built on.
+
+ll-X-AniinireAiguru-nd-W-1a.003
+Ekitabo kini kikulanga aBanyala nka ni babbaire
+e-   kitabo kini   ki-  ku-   lang -a   a-   Banyala   nka  ni   ba-  bba -ire
+AUG- 7.book 7.PROX 7S-  PROG- show -FV  AUG- 2.Banyala like when 2S-  COP -PFV
+npf- n      dem    vpf- vpf-  vtr  -vsf npf- nprop     prep conj vpf- cop -vsf
+This book indicates how the Banyala were
+
+ll-X-AniinireAiguru-nd-W-1a.004
+era nka nibali omu biro bini.
+era  nka  ni-  ba-  li  o-   mu     biro   bini
+and  like NAR- 2S-  COP AUG- 18.LOC 8.time 8.PROX
+conj prep vpf- vpf- cop npf- prep   n      dem
+still how there are in these days.
+
+ll-X-AniinireAiguru-nd-W-1a.005
+Tulangire ebizibu na miringo aBaganda je batujujujanga n'okutuharaarya nebatufoola Abagarama/Ababbombola baabwe.
+tu-   langire  e-   bizibu    na   e-   miringo a-   Baganda   gye   ba-  tu-   jujunj   -a   na=      o-   ku-  tu-   araary   -a   ni-  ba-  tu-   fool      -a   a-   bagarama a-   babbombola ba-    abwe
+1plS- show:PFV AUG- 8.problem COM  AUG- 4.ways  AUG- 2.Baganda 4.REL 2S-  1plO- mistreat -FV  ADD.FOC= AUG- INF- 1plO- mistreat -FV  NAR- 2S-  1plO- turn_into -FV  AUG- 2.slaves AUG- 2.slaves   2-     2POSS
+vpf-  vtr:vsf  npf- n         prep npf- n       npf- n         ptcl  vpf- vpf-  vtr      -vsf cl=      vpf- vpf- vpf-  vtr      -vsf vpf- vpf- vpf-  vtr       -vsf npf- n        npf- n          propf- pro
+We have indicated the problems and the ways which the Baganda ….. they made us there slaves.

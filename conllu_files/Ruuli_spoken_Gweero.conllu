@@ -1,0 +1,1060 @@
+# newdoc id = spokenFokltale_Gweero
+# sent_id = spokenTale_Gweero_1
+# text = natandika kweirukira,
+# english = she began to run (lit. begun running for herself),
+1	natandika	tandika	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-start-FV|MSeg=ni-a-tandik-a
+2	kweirukira	iruka	VERB	_	VerbForm=Inf|Voice=Appl|Voice[add]=Rfl	1	xcomp	1:xcomp	Gloss=INF-REFL-run-APPL-FV|MSeg=ku-ee-iruk-ir-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_2
+# text = yaikiire ku wangabi
+# english = she arrived directly at the Bushbuck’s. (Lit. She reached the bushbuck directly)
+1	yaikiire	ikira	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-arrive:PFV|MSeg=a-ikiire
+2	ku	ku	ADP	LOC	NounClass=Bantu17	3	case	3:case	Gloss=17.LOC|MSeg=ku
+3	wangabi	wangabi	NOUN	_	NounClass=Bantu1	1	obj	1:obj	Gloss=1.bushbuck|MSeg=wangabi|SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_3
+# text = Namukoba, "Wangabi nkusaba kunkweka."
+# english = and told him “Bushbuck, I request you to hide me.
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+3	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	Wangabi	wangabi	NOUN	_	NounClass=Bantu1	5	vocative	5:vocative	Gloss=1.bushbuck|MSeg=wangabi
+5	nkusaba	saba	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-2sgO-request-FV|MSeg=n-ku-sab-a
+6	kunkweka	kweka	VERB	_	Number=Sing|Person=1|VerbForm=Inf	5	xcomp	5:xcomp	Gloss=INF-1sgO-hide-FV|MSeg=ku-n-kwek-a|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+8	"	"	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_4
+# text = Nkobere "Ontale yaliire omwana wange,
+# english = The Lion ate my child,
+1	Nkobere	koba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-PFV|MSeg=n-a-kob-ere
+2	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+4	yaliire	lya	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1S-eat:PFV|MSeg=a-liire
+5	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	4	obj	4:obj	Gloss=AUG-1.child|MSeg=o-mwana
+6	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_5
+# text = niye aliire omwana wange."
+# english = she is the one who ate my child.
+1	niye	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu1|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-1|MSeg=ni-ye
+2	aliire	lya	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-eat:PFV|MSeg=a-liire
+3	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	2	obj	2:obj	Gloss=AUG-1.child|MSeg=o-mwana
+4	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_6
+# text = Ontale yeena ni yaabire okuyiiga, Onte yeena nakwata omwana wa Ntale,
+# english = When the Lion also went to hunt, the Cow also got the Lion’s child,
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	5	dislocated	5:dislocated	Gloss=AUG-1.lion|MSeg=o-ntale
+2-3	yeena	_	_	_	_	_	_	_	_
+2	yee	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	5	nsubj	5:nsubj	Gloss=1|MSeg=ye
+3	na	na	PART	ADD.FOC	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD.FOC|MSeg=na
+4	ni	ni	SCONJ	_	_	5	mark	5:mark	Gloss=when|MSeg=ni
+5	yaabire	aba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	11	advcl	11:advcl	Gloss=1S-PST-go-PFV|MSeg=a-a-ab-ire
+6	okuyiiga	yiiga	VERB	_	Referent=Yes|VerbForm=Inf	5	advcl	5:advcl	Gloss=AUG-INF-hunt-FV|MSeg=o-ku-yiig-a|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+8	Onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	11	dislocated	11:dislocated	Gloss=AUG-1.cow|MSeg=o-nte
+9-10	yeena	_	_	_	_	_	_	_	_
+9	yee	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	11	nsubj	11:nsubj	Gloss=1|MSeg=ye
+10	na	na	PART	ADD.FOC	InfStruct=Foc	9	advmod:emph	9:advmod:emph	Gloss=ADD.FOC|MSeg=na
+11	nakwata	kwata	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-catch-FV|MSeg=ni-a-kwat-a
+12	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	11	obj	11:obj	Gloss=AUG-1.child|MSeg=o-mwana
+13	wa	a	PART	GEN	NounClass=Bantu1	14	case	14:case	Gloss=1.GEN|MSeg=wa
+14	Ntale	ntale	NOUN	_	NounClass=Bantu1	12	nmod	12:nmod	Gloss=1.lion|MSeg=ntale|SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_7
+# text = namuzinda
+# english = strangled him
+1	namuzinda	zinda	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-strangle-FV|MSeg=ni-a-mu-zind-a|SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_8
+# text = Ontale nasigala,
+# english = the lion remained,
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	nasigala	sigala	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1O-PST-remain-FV|MSeg=n-a-a-sigal-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_9
+# text = akuwalana onante,
+# english = hating Mrs. cow,
+1	akuwalana	walana	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-hate-FV|MSeg=a-ku-walan-a
+2	onante	nante	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.cow|MSeg=o-nante|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_10
+# text = naye nga owante n’owakaima bamukwano.
+# english = but while Mrs. cow and the hare are friends.
+1	naye	naye	CCONJ	_	_	6	cc	6:cc	Gloss=but|MSeg=naye
+2	nga	nga	SCONJ	_	_	6	mark	6:mark	Gloss=while|MSeg=nga
+3	owante	wante	NOUN	_	NounClass=Bantu1|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-1.cow|MSeg=o-wante
+4-5	n’owakaima	_	_	_	_	_	_	_	_
+4	n’	na	CCONJ	COM	_	5	cc	5:cc	Gloss=COM|MSeg=na
+5	owakaima	wakaima	NOUN	_	NounClass=Bantu1|Referent=Yes	3	conj	3:conj|6:nsubj	Gloss=AUG-1.hare|MSeg=o-wakaima
+6	bamukwano	bamukwano	NOUN	_	NounClass=Bantu3	0	root	0:root	Gloss=3.friendship|MSeg=bamukwano|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_11
+# text = Awo mba nkwimuka nti,
+# english = There on as I stood up like this,
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	3	advmod	3:advmod	Gloss=16.MED|MSeg=awo
+2	mba	bba	AUX	_	Number=Sing|Person=1|Tense=Pres	3	aux	3:aux	Gloss=1sgS-AUX|MSeg=n-bba
+3	nkwimuka	imuka	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-stand-FV|MSeg=n-ku-imuk-a
+4	nti	nti	ADV	_	_	3	advmod	3:advmod	Gloss=like_this|MSeg=nti|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_12
+# text = nibwo buwunga,
+# english = that is flour,
+1	nibwo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu14|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-14|MSeg=ni-bwo
+2	buwunga	buwunga	NOUN	_	NounClass=Bantu14	0	root	0:root	Gloss=14.maize_flour|MSeg=buwunga|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_13
+# text = Amwirukirye,
+# english = He made her run,
+1	Amwirukirye	iruka	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=1S-1O-run-CAUS:PFV|MSeg=a-mu-iruk-irye|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_14
+# text = ayabire,
+# english = she went
+1	ayabire	aba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-go-PFV|MSeg=a-ab-ire|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_15
+# text = asangire onsya,
+# english = and found/met the a duiker,
+1	asangire	sanga	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-meet-PFV|MSeg=a-sang-ire
+2	onsya	nsya	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.duiker|MSeg=o-nsya|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_16
+# text = onsya amubwirye, "nanka nyakite okwiruka ki?
+# english = the duiker asked her, "You cow why are you running?" (Lit. What are you running away from?)
+1	onsya	nsya	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.duiker|MSeg=o-nsya
+2	amubwirye	buulya	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-ask:PFV|MSeg=a-mu-bwirye|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+4	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+5	nanka	nanka	NOUN	_	NounClass=Bantu1	6	nmod:desc	6:nmod:desc	Gloss=1.whats_his_name|MSeg=nanka
+6	nyakite	nyakite	NOUN	_	NounClass=Bantu1	7	vocative	7:vocative	Gloss=1.cow|MSeg=nyakite
+7	okwiruka	iruka	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Gloss=2sgS-PROG-run-FV|MSeg=o-ku-iruk-a
+8	ki	ki	PRON	_	PronType=Int	7	obl	7:obl	Gloss=what|MSeg=ki|SpaceAfter=No
+9	?	?	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_17
+# text = akaita owange,
+# english = she killed mine
+1	akaita	ita	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu12|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-12O-kill-FV|MSeg=a-ka-it-a
+2	owange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-1-1sgPOSS|MSeg=o-wa-ange|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_18
+# text = nkaita owe,
+# english = and I killed her’s,
+1	nkaita	ita	VERB	_	Mood=Ind|NounClass=Bantu12|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-12O-kill-FV|MSeg=n-ka-it-a
+2	owe	we	PRON	_	Number=Sing|Person=2|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-2sg|MSeg=o-we|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_19
+# text = naye wasobola amagezi gange?”
+# english = but will you afford my advice.”
+1	naye	naye	CCONJ	_	_	2	cc	2:cc	Gloss=but|MSeg=naye
+2	wasobola	sobola	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	0:root	Gloss=2sgS-FUT-be_able-FV|MSeg=o-a-sobol-a
+3	amagezi	magezi	NOUN	_	NounClass=Bantu6|Referent=Yes	2	obj	2:obj	Gloss=AUG-6.advice|MSeg=a-magezi
+4	gange	ange	PRON	ASSOC	NounClass=Bantu6|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=6-1sgPOSS|MSeg=ga-ange|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_20
+# text = Nti, “Nagasobola.”
+# english = That “I will afford it.”
+1	Nti	nti	SCONJ	QUOT	_	4	mark	4:mark	Gloss=QUOT|MSeg=nti|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Nagasobola	sobola	VERB	_	Mood=Ind|NounClass=Bantu6|Number=Sing|Person=1|Person[obj]=3|Tense=Fut|VerbForm=Fin	0	root	0:root	Gloss=1sgS-FUT-6O-be_able-FV|MSeg=n-a-ga-sobol-a|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_21
+# text = Ati, “Kiki?”
+# english = That, “What.”
+1	Ati	ati	ADV	_	_	4	advmod	4:advmod	Gloss=now|MSeg=ati|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Kiki	kiki	PRON	_	PronType=Int	0	root	0:root	Gloss=what|MSeg=kiki|SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_22
+# text = Ati, “Nia ebisai"
+# english = “Deficate”,
+1	Ati	ati	ADV	_	_	4	advmod	4:advmod	Gloss=now|MSeg=ati|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Nia	nia	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=defecate-FV|MSeg=ni-a
+5	ebisai	bisai	NOUN	_	NounClass=Bantu8|Referent=Yes	4	vocative	4:vocative	Gloss=AUG-8.dung|MSeg=e-bisai|SpaceAfter=No
+6	"	"	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_23
+# text = naleeta akasi.”
+# english = and he brought a small gourd.
+1	naleeta	leeta	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-bring-FV|MSeg=ni-a-leet-a
+2	akasi	kasi	NOUN	_	NounClass=Bantu12|Referent=Yes	1	obj	1:obj	Gloss=AUG-12.gourd|MSeg=a-kasi|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+4	”	”	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_24
+# text = Namukoba, “Niera muni ebisyai,
+# english = And told her, “Deficate here your dung!”
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Niera	nia	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Appl	1	ccomp	1:ccomp	Gloss=defecate:APPL-FV|MSeg=nier-a
+5	muni	muni	ADV	_	Deixis=Prox|NounClass=Bantu18|PronType=Dem	4	advmod	4:advmod	Gloss=18.PROX|MSeg=muni
+6	ebisyai	bisyai	NOUN	_	NounClass=Bantu8|Referent=Yes	4	vocative	4:vocative	Gloss=AUG-8.dung|MSeg=e-bisyai|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_25
+# text = Onyakite oboine ky'ankoore!”
+# english = Do you see what the Cow has done to me!”
+1	Onyakite	nyakite	NOUN	_	NounClass=Bantu1|Referent=Yes	4	dislocated	4:dislocated	Gloss=AUG-1.cow|MSeg=o-nyakite
+2	oboine	bona	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-see:PFV|MSeg=o-boine
+3-4	ky'ankoore	_	_	_	_	_	_	_	SpaceAfter=No
+3	ky'	e	PRON	_	NounClass=Bantu7|PronType=Rel	2	obj	2:obj|4:obj	Gloss=7.REL|MSeg=kye
+4	ankoore	kola	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=1S-1sgO-do:PFV|MSeg=a-n-koore
+5	!	!	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_26
+# text = Onyakite ye ni yaboine ontale mwandi yembe, ni yamaare okwita omwana odi, yataireku misinde,
+# english = When the Cow saw the Lion angry, for her, after killing the other child, she started to run,
+1	Onyakite	nyakite	NOUN	_	NounClass=Bantu1|Referent=Yes	4	dislocated	4:dislocated	Gloss=AUG-1.cow|MSeg=o-nyakite
+2	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	4	nsubj	4:nsubj	Gloss=1|MSeg=ye
+3	ni	ni	SCONJ	_	_	4	mark	4:mark	Gloss=when|MSeg=ni
+4	yaboine	bona	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	16:advcl	Gloss=1S-see:PFV|MSeg=a-boine
+5	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+6	mwandi	andi	ADJ	_	NounClass=Bantu1	4	ccomp	4:ccomp	Gloss=1-angry|MSeg=mu-andi
+7-8	yembe	_	_	_	_	_	_	_	SpaceAfter=No
+7	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	16	dislocated	16:dislocated	Gloss=1|MSeg=ye
+8	mbe	mbe	PART	FOC	InfStruct=Foc	7	advmod:emph	7:advmod:emph	Gloss=FOC|MSeg=mbe
+9	,	,	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+10	ni	ni	SCONJ	_	_	11	mark	11:mark	Gloss=when|MSeg=ni
+11	yamaare	mala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	Gloss=1S-PST-finish:PFV|MSeg=a-a-maare
+12	okwita	ita	VERB	_	Referent=Yes|VerbForm=Inf	11	xcomp	11:xcomp	Gloss=AUG-INF-kill-FV|MSeg=o-ku-it-a
+13	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	12	obj	12:obj	Gloss=AUG-1.child|MSeg=o-mwana
+14	odi	di	DET	_	Deixis=Remt|NounClass=Bantu1|PronType=Dem	13	det	13:det	Gloss=1.DIST|MSeg=odi|SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+16-17	yataireku	_	_	_	_	_	_	_	_
+16	yataire	ta	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-put:PFV|MSeg=a-a-taire
+17	ku	ku	ADV	LOC	NounClass=Bantu17	16	advmod:loc	16:advmod:loc	Gloss=17.LOC|MSeg=ku
+18	misinde	musinde	NOUN	_	NounClass=Bantu4	16	obj	16:obj	Gloss=4.race|MSeg=misinde|SpaceAfter=No
+19	,	,	PUNCT	_	_	16	punct	16:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_27
+# text = OWakaima ali ku mulyango.”
+# english = The Hare was on the door way.
+1	OWakaima	wakaima	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.hare|MSeg=o-wakaima
+2	ali	li	AUX	COP	NounClass=Bantu1|Person=3|Tense=Pres	4	cop	4:cop	Gloss=1S-COP|MSeg=a-li
+3	ku	ku	ADP	LOC	NounClass=Bantu17	4	case	4:case	Gloss=17.LOC|MSeg=ku
+4	mulyango	mulyango	NOUN	_	NounClass=Bantu3	0	root	0:root	Gloss=3.door|MSeg=mulyango|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_28
+# text = Namukoba, oboine, ni nkujwisirye omusaayi.
+# english = And he told him, "Have you seen, how I have extracted blood from you.
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	3:punct	_
+3	oboine	bona	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=2sgS-see:PFV|MSeg=o-boine|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+5	ni	ni	SCONJ	_	_	6	mark	6:mark	Gloss=as|MSeg=ni
+6	nkujwisirye	jwa	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres|VerbForm=Fin|Voice=Cau|Voice[add]=Appl	3	advcl	3:advcl	Gloss=1sgS-2sgO-bleed-CAUS:APPL:PFV|MSeg=n-ku-jw-isirye
+7	omusaayi	musaayi	NOUN	_	NounClass=Bantu3|Referent=Yes	6	obj:appl	6:obj:appl	Gloss=AUG-3.blood|MSeg=o-musaayi|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_29
+# text = Nakoba "Eeh!"
+# english = And he said, "Eeh!"
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a
+2	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+3	Eeh	eeh	INTJ	_	_	1	ccomp	1:ccomp	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_30
+# text = Omusaiza "Yii!"
+# english = And the man (said) "Yii!"
+1	Omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	0	root	0:root	Gloss=AUG-1.man|MSeg=o-musaiza
+2	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+3	Yii	yii	INTJ	_	_	1	ccomp	1:ccomp	Gloss=INTERJ|MSeg=yii|SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_31
+# text = N'ayaba okwiza, amukubbire ekya matai.
+# english = On his coming he had made for him a mixture of milk. (lit. hit her with a (mixiture) of milk)
+1-2	N'ayaba	_	_	_	_	_	_	_	_
+1	N'	ni	SCONJ	_	_	3	mark	3:mark	Gloss=when|MSeg=ni
+2	ayaba	aba	AUX	_	NounClass=Bantu1|Person=3|Tense=Pres	3	advcl	3:advcl	Gloss=1S-go-FV|MSeg=a-ab-a
+3	okwiza	iza	VERB	_	Referent=Yes|VerbForm=Inf	5	advcl	5:advcl	Gloss=AUG-INF-come-FV|MSeg=o-ku-iz-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+5	amukubbire	kubba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-hit-PFV|MSeg=a-mu-kubb-ire
+6	ekya	a	PART	GEN	NounClass=Bantu7|Referent=Yes	7	case	7:case	Gloss=AUG-7.GEN|MSeg=e-kya
+7	matai	matai	NOUN	_	NounClass=Bantu6	5	obj	5:obj	Gloss=6.milk|MSeg=matai|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_32
+# text = Amusamire omusaayi,
+# english = He drew blood from her,
+1	Amusamire	sama	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-make_an_incision:PFV|MSeg=a-mu-samire
+2	omusaayi	musaayi	NOUN	_	NounClass=Bantu3|Referent=Yes	1	obj	1:obj	Gloss=AUG-3.blood|MSeg=o-musaayi|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_33
+# text = gwona agutaire awo.
+# english = she also put it there.
+1	gwona	ona	PRON	_	NounClass=Bantu3|PronType=Tot	2	obj	2:obj	Gloss=3-all|MSeg=gu-ona
+2	agutaire	ta	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu3|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-3O-put-PFV|MSeg=a-gu-ta-ire
+3	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	2	advmod	2:advmod	Gloss=16.MED|MSeg=awo|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_34
+# text = Iii, Babba balaawo, enzira teri bwereere, ontale taizire!
+# english = Iii, While they were there, While at the same time (Lit. The road is not empty), the lion came (lit. hasn't not the lion come)
+1	Iii	iih	INTJ	_	_	12	discourse	12:discourse	Gloss=INTERJ|MSeg=iih|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	Babba	bba	AUX	_	NounClass=Bantu2|Person=3|Tense=Pres	5	aux	5:aux	Gloss=2S-AUX|MSeg=ba-bba
+4-5	balaawo	_	_	_	_	_	_	_	SpaceAfter=No
+4	balaa	li	AUX	COP	NounClass=Bantu2|Person=3|Tense=Pres	5	cop	5:cop	Gloss=2S-COP|MSeg=ba-li
+5	wo	wo	ADV	LOC	NounClass=Bantu16	12	advcl	12:advcl	Gloss=16.LOC|MSeg=wo
+6	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+7	enzira	nzira	NOUN	_	NounClass=Bantu9|Referent=Yes	9	nsubj	9:nsubj	Gloss=AUG-9.road|MSeg=e-nzira
+8	teri	li	AUX	COP	NounClass=Bantu9|Person=3|Polarity=Neg|Tense=Pres	9	cop	9:cop	Gloss=NEG-9S-COP|MSeg=ti-e-li
+9	bwereere	bwereere	ADV	_	_	12	advcl	12:advcl	Gloss=for_no_reason|MSeg=bwereere|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+11	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	12	nsubj	12:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+12	taizire	iza	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=NEG-1S-come:PFV|MSeg=ti-a-izire|SpaceAfter=No
+13	!	!	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_35
+# text = namukoba, “Nyakite we wekweke.
+# english = and told her, “Cow, you hide!
+1	namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	6:punct	_
+3	“	“	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+4	Nyakite	nyakite	NOUN	_	NounClass=Bantu1	6	vocative	6:vocative	Gloss=1.cow|MSeg=nyakite
+5	we	we	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Gloss=2sg|MSeg=we
+6	wekweke	kweka	VERB	_	Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Rfl	1	ccomp	1:ccomp	Gloss=2sgS-REFL-hide-SBJV|MSeg=o-ee-kwek-e|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_36
+# text = obusye buni bw'okubona mu mutwe gwange guni, ti katambaala, wabula bunu busye.
+# english = It is this grey hair you see on my head, it's not a veil. (Lit. This flour you see on my head is not a veil.) but this is flour.
+1	obusye	busye	NOUN	_	NounClass=Bantu14|Referent=Yes	11	nsubj	4:obj|11:nsubj	Gloss=AUG-14.millet_flour|MSeg=o-busye
+2	buni	ni	DET	_	Deixis=Prox|NounClass=Bantu14|PronType=Dem	1	det	1:det	Gloss=14.PROX|MSeg=buni
+3-4	bw'okubona	_	_	_	_	_	_	_	_
+3	bw'	e	PRON	_	NounClass=Bantu14|PronType=Rel	4	obj	1:ref	Gloss=14.REL|MSeg=bwe
+4	okubona	bona	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu14|Number=Sing|Person=2|Person[obj]=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Gloss=2sgS-14O-PROG-see-FV|MSeg=o-bu-ku-bon-a
+5	mu	mu	ADP	LOC	NounClass=Bantu18	6	case	6:case	Gloss=18.LOC|MSeg=mu
+6	mutwe	mutwe	NOUN	_	NounClass=Bantu3	4	obl	4:obl	Gloss=3.head|MSeg=mutwe
+7	gwange	ange	PRON	ASSOC	NounClass=Bantu3|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=3-1sgPOSS|MSeg=gu-ange
+8	guni	ni	DET	_	Deixis=Prox|NounClass=Bantu3|PronType=Dem	6	det	6:det	Gloss=3.PROX|MSeg=guni|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	11:punct	_
+10	ti	ti	ADV	_	Polarity=Neg	11	advmod	11:advmod	Gloss=NEG|MSeg=ti
+11	katambaala	katambaala	NOUN	_	NounClass=Bantu12	0	root	0:root	Gloss=12.scarf|MSeg=katambaala|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+13	wabula	wabula	CCONJ	_	_	15	cc	15:cc	Gloss=but|MSeg=wabula
+14	bunu	ni	PRON	_	Deixis=Prox|NounClass=Bantu14|PronType=Dem	15	nsubj	15:nsubj	Gloss=14.PROX|MSeg=bunu
+15	busye	busye	NOUN	_	NounClass=Bantu14	11	conj	11:conj	Gloss=14.millet_flour|MSeg=busye|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	15:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_37
+# text = Ekyo nikyo kisubiiro kyange munywani wa mukago.
+# english = That is my story, my dear friend.
+1	Ekyo	o	PRON	_	Deixis=Med|NounClass=Bantu7|PronType=Dem	3	nsubj	3:nsubj	Gloss=7.MED|MSeg=ekyo
+2	nikyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu7|Person=3|Tense=Pres	3	cop	3:cop	Gloss=COP-7|MSeg=ni-kyo
+3	kisubiiro	kisubiiro	NOUN	_	NounClass=Bantu7	0	root	0:root	Gloss=7.story|MSeg=kisubiiro
+4	kyange	ange	PRON	ASSOC	NounClass=Bantu7|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=7-1sgPOSS|MSeg=ki-ange
+5	munywani	munyiwani	NOUN	_	NounClass=Bantu1	3	vocative	3:vocative	Gloss=1.pal|MSeg=munyiwani
+6	wa	a	PART	GEN	NounClass=Bantu1	7	case	7:case	Gloss=1.GEN|MSeg=wa
+7	mukago	mukago	NOUN	_	NounClass=Bantu3	5	nmod	5:nmod	Gloss=3.blood_friendship|MSeg=mukago|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_38
+# text = namwita.
+# english = and killed him.
+1	namwita	ita	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-kill-FV|MSeg=ni-a-mu-it-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_39
+# text = Onte niyeekweka.
+# english = And the Cow hid.
+1	Onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.cow|MSeg=o-nte
+2	niyeekweka	kweka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=NAR-1S-REFL-hide-FV|MSeg=ni-a-ee-kwek-a|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_40
+# text = Ontale ayaba okwira, yasangire mutumbi.
+# english = On coming back, the lion (Lit. The Lion as it came back), she found a carcass.
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	5	nsubj	5:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	ayaba	aba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	5:advcl	Gloss=1S-go-FV|MSeg=a-ab-a
+3	okwira	ira	VERB	_	Referent=Yes|VerbForm=Inf	2	advcl	2:advcl	Gloss=AUG-INF-come-FV|MSeg=o-ku-ir-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+5	yasangire	sanga	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-find-PFV|MSeg=a-a-sang-ire
+6	mutumbi	mutumbi	NOUN	_	NounClass=Bantu3	5	obj	5:obj	Gloss=3.cadaver|MSeg=mutumbi|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_41
+# text = Nakoba, “Eeh!
+# english = And she said, “Eeh!
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Eeh	eeh	INTJ	_	_	1	ccomp	1:ccomp	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_42
+# text = Onyakite onu oboine ky'ankoore!
+# english = Do you see what this Cow has done to me! (This cow have you see what she has done to me!)
+1	Onyakite	nyakite	NOUN	_	NounClass=Bantu1|Referent=Yes	5	dislocated	5:dislocated	Gloss=AUG-1.cow|MSeg=o-nyakite
+2	onu	ni	DET	_	Deixis=Prox|NounClass=Bantu1|PronType=Dem	1	det	1:det	Gloss=1.PROX|MSeg=onu
+3	oboine	bona	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-see:PFV|MSeg=o-boine
+4-5	ky'ankoore	_	_	_	_	_	_	_	SpaceAfter=No
+4	ky'	e	PRON	_	NounClass=Bantu7|PronType=Rel	3	obj	3:obj|5:obj	Gloss=7.REL|MSeg=kye
+5	ankoore	kola	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Gloss=1S-1sgO-do:PFV|MSeg=a-n-koore
+6	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_43
+# text = emitumbi genkainenkaine.
+# english = we've reached the equillibrium of carcasses."
+1	emitumbi	mutumbi	NOUN	_	NounClass=Bantu4|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-4.cadaver|MSeg=e-mitumbi
+2	genkainenkaine	enkainea	VERB	_	Mood=Ind|NounClass=Bantu4|Person=3|Red=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=4S-be_equal~be_equal|MSeg=gi-enkaine~enkaine|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_44
+# text = Eeh!
+# english = Eeh!
+1	Eeh	Eeh	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = spokenTale_Gweero_45
+# text = Yeena yamwirukiryembe,
+# english = He also chased her away.
+1-2	Yeena	_	_	_	_	_	_	_	_
+1	Yee	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	3	nsubj	3:nsubj	Gloss=1|MSeg=ye
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3-4	yamwirukiryembe	_	_	_	_	_	_	_	SpaceAfter=No
+3	yamwirukirye	irukya	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-chase:PFV|MSeg=a-mu-irukirye
+4	mbe	mbe	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=mbe
+5	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_46
+# text = nakoba "gani maano".
+# english = and he said [claps] "This is terrible."
+1	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpacesAfter=\n
+2	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	gani	ni	PRON	_	Deixis=Prox|NounClass=Bantu6|PronType=Dem	4	nsubj	4:nsubj	Gloss=6.PROX|MSeg=gani
+4	maano	maano	NOUN	_	NounClass=Bantu6	1	ccomp	1:ccomp	Gloss=6.misfortune|MSeg=maano|SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_47
+# text = Abba alaawo,
+# english = As she was there,
+1	Abba	bba	AUX	_	NounClass=Bantu1|Person=3|Tense=Pres	2	aux	2:aux	Gloss=1S-AUX|MSeg=a-bba
+2-3	alaawo	_	_	_	_	_	_	_	SpaceAfter=No
+2	alaa	li	AUX	COP	NounClass=Bantu1|Person=3|Tense=Pres	0	root	0:root	Gloss=1S-COP|MSeg=a-li
+3	wo	wo	ADV	LOC	NounClass=Bantu16	2	advmod:loc	2:advmod:loc	Gloss=16.LOC|MSeg=wo
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_48
+# text = yasangire... wakaima.
+# english = she met... the hare.
+1	yasangire	sanga	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-meet-PFV|MSeg=a-sang-ire|SpaceAfter=No
+2	...	...	PUNCT	_	_	1	punct	1:punct	_
+3	wakaima	wakaima	NOUN	_	NounClass=Bantu1	1	obj	1:obj	Gloss=1.hare|MSeg=wakaima|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_49
+# text = Ontale enzala niyamulumire,
+# english = When the Lion felt hungry
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	4	obj	4:obj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	enzala	nzala	NOUN	_	NounClass=Bantu9|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-9.hunger|MSeg=e-nzala
+3	ni	ni	SCONJ	_	_	4	mark	4:mark	Gloss=when|MSeg=ni|SpaceAfter=No
+4	yamulumire	luma	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu9|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=9S-PST-1O-hurt-PFV|MSeg=e-a-mu-lum-ire|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_50
+# text = Nakwata omwana wa munywi wa mukago waamwei, omwana wa nte,
+# english = He caught the child of her best friend, the child of the Cow,
+1	Nakwata	kwata	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-catch-FV|MSeg=ni-a-kwat-a
+2	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.child|MSeg=o-mwana
+3	wa	a	PART	GEN	NounClass=Bantu1	4	case	4:case	Gloss=1.GEN|MSeg=wa
+4	munywi	munywi	NOUN	_	NounClass=Bantu1	2	nmod	2:nmod	Gloss=1.friend|MSeg=munywi
+5	wa	a	PART	GEN	NounClass=Bantu1	6	case	6:case	Gloss=1.GEN|MSeg=wa
+6	mukago	mukago	NOUN	_	NounClass=Bantu3	4	nmod	4:nmod	Gloss=3.blood_friendship|MSeg=mukago
+7	waamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=1-1.POSS|MSeg=wa-amwei|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	9:punct	_
+9	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	2	appos	2:appos	Gloss=AUG-1.child|MSeg=o-mwana
+10	wa	a	PART	GEN	NounClass=Bantu1	11	case	11:case	Gloss=1.GEN|MSeg=wa
+11	nte	nte	NOUN	_	NounClass=Bantu1	9	nmod	9:nmod	Gloss=1.cow|MSeg=nte|SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_51
+# text = namulya.
+# english = and ate him.
+1	namulya	lya	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-eat-FV|MSeg=ni-a-mu-ly-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_52
+# text = Onte naira,
+# english = The Cow came back
+1	Onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.cow|MSeg=o-nte
+2	naira	ira	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-come-FV|MSeg=ni-a-ir-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_53
+# text = akutoolerya omwana wamwei,
+# english = searching for her child
+1	akutoolerya	toolerya	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-search-FV|MSeg=a-ku-toolery-a
+2	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	1	obj	1:obj	Gloss=AUG-1.child|MSeg=o-mwana
+3	wamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Gloss=1-1.POSS|MSeg=wa-amwei|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_54
+# text = takumubonaku.
+# english = and she couldn’t see him.
+1-2	takumubonaku	_	_	_	_	_	_	_	SpaceAfter=No
+1	takumubona	bona	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=NEG-1S-PROG-1O-see-FV|MSeg=ti-a-ku-mu-bon-a
+2	ku	ku	ADV	LOC	NounClass=Bantu17	1	advmod:loc	1:advmod:loc	Gloss=17.LOC|MSeg=ku
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_55
+# text = Nabuulyaku ontale, munywi wa mukago, “omuboneireku omwana wange?”
+# english = And asked the lion, her best friend, [cow] “have you seen my child?”
+1-2	Nabuulyaku	_	_	_	_	_	_	_	_
+1	Nabuulya	buulya	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-ask-FV|MSeg=ni-a-buuly-a
+2	ku	ku	ADV	LOC	NounClass=Bantu17	1	advmod:loc	1:advmod:loc	Gloss=17.LOC|MSeg=ku
+3	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	1	iobj	1:iobj	Gloss=AUG-1.lion|MSeg=o-ntale|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	munywi	munywi	NOUN	_	NounClass=Bantu1	3	appos	3:appos	Gloss=1.friend|MSeg=munywi
+6	wa	a	PART	GEN	NounClass=Bantu1	7	case	7:case	Gloss=1.GEN|MSeg=wa
+7	mukago	mukago	NOUN	_	NounClass=Bantu3	5	nmod	5:nmod	Gloss=3.blood_friendship|MSeg=mukago|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+9	“	“	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+10-11	omuboneireku	_	_	_	_	_	_	_	_
+10	omuboneire	bona	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=2|Person[obj]=3|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=2sgS-1O-see-PFV|MSeg=o-mu-bon-eire
+11	ku	ku	ADV	LOC	NounClass=Bantu17	10	advmod:loc	10:advmod:loc	Gloss=17.LOC|MSeg=ku
+12	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	10	obj	10:obj	Gloss=AUG-1.child|MSeg=o-mwana
+13	wange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Gloss=1-1sgPOSS|MSeg=wa-ange|SpaceAfter=No
+14	?	?	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+15	”	”	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_56
+# text = akaita owange,
+# english = she killed mine
+1	akaita	ita	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu12|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-12O-kill-FV|MSeg=a-ka-it-a
+2	owange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-1-1sgPOSS|MSeg=o-wa-ange|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_57
+# text = nkaita
+# english = and I killed her’s,
+1	nkaita	ita	VERB	_	Mood=Ind|NounClass=Bantu12|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-12O-kill-FV|MSeg=n-ka-it-a|SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_58
+# text = emitumbi genkainenkaine.”
+# english = we have reached an equallebrium of carcass
+1	emitumbi	mutumbi	NOUN	_	NounClass=Bantu4|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-4.cadaver|MSeg=e-mitumbi
+2	genkainenkaine	enkana	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu4|Person=3|Red=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=4S-be_equal:PFV~be_equal:PFV|MSeg=gi-enkaine~enkaine|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_59
+# text = “Eeh!
+# english = “Oh!
+1	“	“	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Eeh	Eeh	INTJ	_	_	0	root	0:root	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = spokenTale_Gweero_60
+# text = Leka leka leka, oyo omusaiza ata mwandi,
+# english = Dare not, that man is fierce,
+1	Leka	Leka	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=leave-FV|MSeg=lek-a
+2	leka	leka	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	Gloss=leave-FV|MSeg=lek-a
+3	leka	leka	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	Gloss=leave-FV|MSeg=lek-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	8:punct	_
+5	oyo	o	DET	_	Deixis=Med|NounClass=Bantu1|PronType=Dem	6	det	6:det	Gloss=1.MED|MSeg=oyo
+6	omusaiza	musaiza	NOUN	_	NounClass=Bantu1|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-1.man|MSeg=o-musaiza
+7	ata	ta	AUX	COP	NounClass=Bantu1|Person=3|Tense=Pres	8	cop	8:cop	Gloss=1S-COP|MSeg=a-ta
+8	mwandi	andi	ADJ	_	NounClass=Bantu1	1	parataxis	1:parataxis	Gloss=1-cruel|MSeg=mu-andi|SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_61
+# text = nje nyiruka!"
+# english = I run!”
+1	nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Gloss=1sg|MSeg=nje
+2	nyiruka	iruka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-run-FV|MSeg=n-iruk-a|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_62
+# text = Nabinia.
+# english = And she deficated.
+1	Nabinia	binya	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-defecate-FV|MSeg=ni-a-biny-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_63
+# text = Namukoba, "atibuni leka nkukame amatai,"
+# english = And he told her, "that now, let me milk you,"
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+3	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	atibuni	atibuni	ADV	_	_	5	advmod	5:advmod	Gloss=right_now|MSeg=atibuni
+5	leka	leka	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=let-FV|MSeg=lek-a
+6	nkukame	kama	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|VerbForm=Fin	5	ccomp	5:ccomp	Gloss=1sgS-2sgO-milk-SBJV|MSeg=n-ku-kam-e
+7	amatai	matai	NOUN	_	NounClass=Bantu6|Referent=Yes	6	obj	6:obj	Gloss=AUG-6.milk|MSeg=a-matai|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+9	"	"	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_64
+# text = namukama amatai,
+# english = and he milked her
+1	namukama	kama	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-milk-FV|MSeg=ni-a-mu-kam-a
+2	amatai	matai	NOUN	_	NounClass=Bantu6|Referent=Yes	1	obj	1:obj	Gloss=AUG-6.milk|MSeg=a-matai|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_65
+# text = goona nateeka awo.
+# english = and also put it there.
+1-2	goona	_	_	_	_	_	_	_	_
+1	goo	go	PRON	_	NounClass=Bantu3|Person=3|PronType=Prs	3	nsubj	3:nsubj	Gloss=3|MSeg=go
+2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=na
+3	nateeka	teeka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-put-FV|MSeg=ni-a-teek-a
+4	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	3	advmod	3:advmod	Gloss=16.MED|MSeg=awo|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_66
+# text = Nakoba “atibuni leka nkusaame n’omusaayi.”
+# english = And said, now let me also draw blood from you.
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=n-a-kob-a
+2	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	atibuni	atibuni	ADV	_	_	4	advmod	4:advmod	Gloss=right_now|MSeg=atibuni
+4	leka	leka	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=leave-FV|MSeg=lek-a
+5	nkusaame	saama	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|VerbForm=Fin	4	ccomp	4:ccomp	Gloss=1sgS-2sgO-pierce-SBJV|MSeg=n-ku-saam-e
+6-7	n’omusaayi	_	_	_	_	_	_	_	SpaceAfter=No
+6	n’	na	ADP	COM	_	7	case	7:case	Gloss=COM|MSeg=na
+7	omusaayi	musaayi	NOUN	_	NounClass=Bantu3|Referent=Yes	5	obl	5:obl	Gloss=AUG-3.blood|MSeg=o-musaayi
+8	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+9	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_67
+# text = njete tindya.
+# english = but I don’t eat.
+1-2	njete	_	_	_	_	_	_	_	_
+1	nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1sg|MSeg=nje
+2	te	te	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=te
+3	tindya	lya	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=NEG-1sgS-eat-FV|MSeg=ti-n-ly-a|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_68
+# text = Owaamwei mwitirembe."
+# english = I just killed/murdred her’s.
+1	Owaamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs|Referent=Yes	2	nmod:poss	2:nmod:poss	Gloss=AUG-1-ASSOC-1|MSeg=o-wa-a-mwei
+2-3	mwitirembe	_	_	_	_	_	_	_	SpaceAfter=No
+2	mwitire	ita	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-1O-kill-PFV|MSeg=n-mu-it-ire
+3	mbe	mbe	PART	FOC	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=FOC|MSeg=mbe
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_69
+# text = oNgabi yakobere ntai,
+# english = The Bushbuck said, "No way,
+1	oNgabi	ngabi	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.bushbuck|MSeg=o-ngabi
+2	yakobere	koba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-say-PFV|MSeg=a-a-kob-ere
+3	ntai	ntai	INTJ	_	_	2	ccomp	2:ccomp	Gloss=never|MSeg=ntai|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_70
+# text = kola ki?
+# english = do what?
+1	kola	kola	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=do-FV|MSeg=kol-a
+2	ki	ki	PRON	_	PronType=Int	1	obj	1:obj	Gloss=what|MSeg=ki|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_71
+# text = Yaba!"
+# english = Go!"
+1	Yaba	aba	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=go-FV|MSeg=ab-a|SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+3	"	"	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_72
+# text = Nakoba, “Bbee mwojo
+# english = And she said, “No, my dear
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=n-a-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+4	Bbee	bbe	INTJ	_	Polarity=Neg	5	discourse	5:discourse	Gloss=no|MSeg=bbe
+5	mwojo	mwojo	NOUN	_	NounClass=Bantu1	1	ccomp	1:ccomp	Gloss=1.my_dear|MSeg=mwojo|SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_73
+# text = nkuuma!”
+# english = keep me!”
+1	nkuuma	kuuma	VERB	_	Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|VerbForm=Fin	0	root	0:root	Gloss=1sgO-protect-FV|MSeg=n-kuum-a|SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+3	”	”	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_74
+# text = Awo azwirewo.
+# english = She left the place (lit. there she left).
+1	Awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	2	advmod	2:advmod	Gloss=16.MED|MSeg=awo
+2-3	azwirewo	_	_	_	_	_	_	_	SpaceAfter=No
+2	azwire	zwa	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-come_from-PFV|MSeg=a-zw-ire
+3	wo	wo	ADV	LOC	NounClass=Bantu16	2	advmod:emph	2:advmod:emph	Gloss=16.LOC|MSeg=wo
+4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_75
+# text = Yamukubbire mu mutwe.
+# english = He hit it around her [Cow's] head.
+1	Yamukubbire	kubba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-hit-PFV|MSeg=a-mu-kubb-ire
+2	mu	mu	ADP	LOC	NounClass=Bantu18	3	case	3:case	Gloss=18.LOC|MSeg=mu
+3	mutwe	mutwe	NOUN	_	NounClass=Bantu3	1	obl	1:obl	Gloss=3.head|MSeg=mutwe|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_76
+# text = Namukoba obwongo mbwatirye.
+# english = And he told him, "I have destroyed your brain". (pronounced as obwongo nkwatire)
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a
+2	obwongo	bwongo	NOUN	_	NounClass=Bantu14|Referent=Yes	3	obj	3:obj	Gloss=AUG-14.brain|MSeg=o-bwongo
+3	mbwatirye	atya	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu14|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	Gloss=1sgS-14O-break:PFV|MSeg=n-bu-atirye|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_77
+# text = Ontale nakoba, "anu wafiira muloge,"
+# english = The Lion then said, "I must run for my life" (lit. "it's the the bewitched one who dies from here")
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+4	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+5	anu	ni	PRON	_	Deixis=Prox|NounClass=Bantu1|PronType=Dem	7	nsubj	7:nsubj	Gloss=1.PROX|MSeg=anu
+6	wafiira	fa	VERB	REL	Mood=Ind|NounClass=Bantu1|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin|Voice=Appl	7	acl:relcl	7:acl:relcl	Gloss=S.REL-1S-die:APPL-FV|MSeg=o-a-fiir-a
+7	muloge	muloge	NOUN	_	NounClass=Bantu1	2	ccomp	2:ccomp|6:nsubj	Gloss=1.bewitched|MSeg=muloge|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+9	"	"	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_78
+# text = yatemere kikumi.
+# english = and he dashed off (an idiom).
+1	yatemere	tema	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-cut-PFV|MSeg=a-tem-ere
+2	kikumi	kikumi	NUM	_	NumForm=Word|NumType=Card	1	obj	1:obj	Gloss=one_hundred|MSeg=kikumi|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_79
+# text = Onanka Owakaima nawangula olutalo,
+# english = The Hare won the war
+1	Onanka	nanka	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nmod:desc	2:nmod:desc	Gloss=AUG-1.whats_his_name|MSeg=o-nanka
+2	Owakaima	wakaima	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.hare|MSeg=o-wakaima
+3	nawangula	wangula	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-win-FV|MSeg=ni-a-wangul-a
+4	olutalo	lutalo	NOUN	_	NounClass=Bantu11|Referent=Yes	3	obj	3:obj	Gloss=AUG-11.war|MSeg=o-lutalo|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_80
+# text = Munywi wa mukago nkusubiira ekisubiiro kyange.
+# english = My friends I am narrating to you my story
+1	Munywi	munywi	NOUN	_	NounClass=Bantu1	4	vocative	4:vocative	Gloss=1.friend|MSeg=munywi
+2	wa	a	PART	GEN	NounClass=Bantu1	3	case	3:case	Gloss=1.GEN|MSeg=wa
+3	mukago	mukago	NOUN	_	NounClass=Bantu3	1	nmod	1:nmod	Gloss=3.blood_friendship|MSeg=mukago
+4	nkusubiira	subiira	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-narrate-FV|MSeg=n-ku-subiir-a
+5	ekisubiiro	kisubiiro	NOUN	_	NounClass=Bantu7|Referent=Yes	4	obj	4:obj	Gloss=AUG-7.story|MSeg=e-kisubiiro
+6	kyange	ange	PRON	ASSOC	NounClass=Bantu7|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	Gloss=7-1sgPOSS|MSeg=kya-ange|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_81
+# text = Olwaikire
+# english = Once upon a time,
+1	Olwaikire	lwaikire	ADV	_	Referent=Yes	0	root	0:root	Gloss=AUG-once|MSeg=o-lwaikire|SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_82
+# text = Niwabbaawo onte n'ontale.
+# english = There lived a Cow and a Lion.
+1-2	Niwabbaawo	_	_	_	_	_	_	_	_
+1	Niwabbaa	bba	AUX	COP	NounClass=Bantu16|Person=3|Tense=Nar	0	root	0:root	Gloss=NAR-16S-COP-FV|MSeg=ni-wa-bba-a
+2	wo	wo	ADV	LOC	NounClass=Bantu16	1	advmod:loc	1:advmod:loc	Gloss=16.LOC|MSeg=wo
+3	onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	1	nsubj	1:nsubj	Gloss=AUG-1.cow|MSeg=o-nte
+4-5	n'ontale	_	_	_	_	_	_	_	SpaceAfter=No
+4	n'	na	CCONJ	COM	_	5	cc	5:cc	Gloss=COM|MSeg=na
+5	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	3	conj	1:nsubj|3:conj	Gloss=AUG-1.lion|MSeg=o-ntale
+6	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_83
+# text = Buli muntu nabyala omwana wamwei nga bamunywi ba mukago muno muno muno.
+# english = Every one gave birth to her child and they were very great friends.
+1	Buli	buli	DET	_	PronType=Tot	2	det	2:det	Gloss=every|MSeg=buli
+2	muntu	muntu	NOUN	_	NounClass=Bantu1	3	nsubj	3:nsubj	Gloss=1.person|MSeg=muntu
+3	nabyala	byala	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-give_birth-FV|MSeg=n-a-byal-a
+4	omwana	mwana	NOUN	_	NounClass=Bantu1|Referent=Yes	3	obj	3:obj	Gloss=AUG-1.child|MSeg=o-mwana
+5	wamwei	amwei	PRON	ASSOC	NounClass[psed]=Bantu1|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Gloss=1-1.POSS|MSeg=wa-amwei|SpacesAfter=\n
+6	nga	nga	SCONJ	_	_	9	mark	9:mark	Gloss=while|MSeg=nga
+7	bamunywi	munywi	NOUN	_	NounClass=Bantu2	3	advcl	3:advcl	Gloss=2.friend|MSeg=bamunywi
+8	ba	a	PART	GEN	NounClass=Bantu2	9	case	9:case	Gloss=2.GEN|MSeg=ba
+9	mukago	mukago	NOUN	_	NounClass=Bantu3	7	nmod	7:nmod	Gloss=3.blood_friendship|MSeg=mukago
+10	muno	muno	ADV	_	_	7	advmod	7:advmod	Gloss=much|MSeg=muno
+11	muno	muno	ADV	_	_	7	advmod	7:advmod	Gloss=much|MSeg=muno
+12	muno	muno	ADV	_	_	7	advmod	7:advmod	Gloss=much|MSeg=muno|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_84
+# text = “Nyakite oiruka ki.”
+# english = “Cow, why are you running?”
+1	“	“	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+2	Nyakite	nyakite	NOUN	_	NounClass=Bantu1	3	vocative	3:vocative	Gloss=1.cow|MSeg=nyakite
+3	oiruka	iruka	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-run-FV|MSeg=o-iruk-a
+4	ki	ki	PRON	_	PronType=Int	3	obl	3:obl	Gloss=what|MSeg=ki|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_85
+# text = akaita owange,
+# english = she killed mine
+1	akaita	ita	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu12|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-12O-kill-FV|MSeg=a-ka-it-a
+2	owange	ange	PRON	ASSOC	NounClass=Bantu1|Number=Sing|Person[psed]=3|Person[psor]=1|Poss=Yes|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-1-1sgPOSS|MSeg=o-wa-ange|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_86
+# text = nkaita owe,
+# english = and I killed her's,
+1	nkaita	ita	VERB	_	Mood=Ind|NounClass=Bantu12|Number=Sing|Person=1|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-12O-kill-FV|MSeg=n-ka-it-a
+2	owe	we	PRON	_	Number=Sing|Person=2|PronType=Prs|Referent=Yes	1	obj	1:obj	Gloss=AUG-2sg|MSeg=o-we|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_87
+# text = emitumbi genkainenkaine.”
+# english = The carcasses are equal
+1	emitumbi	mutumbi	NOUN	_	NounClass=Bantu4|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-4.cadaver|MSeg=e-mitumbi
+2	genkainenkaine	enkainea	VERB	_	Mood=Ind|NounClass=Bantu4|Person=3|Red=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=4S-be_equal~be_equal|MSeg=gi-enkaine~enkaine|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_88
+# text = Namukoba, “Eeh!
+# english = And told her, “Eeh!
+1	Namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Eeh	eeh	INTJ	_	_	1	ccomp	1:ccomp	Gloss=INTERJ|MSeg=eeh|SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_89
+# text = Ontale nka musaiza mwandi?,
+# english = The Lion is such an angry/fierce man,
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	nka	nka	ADP	_	_	3	case	3:case	Gloss=like|MSeg=nka
+3	musaiza	musaiza	NOUN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.man|MSeg=musaiza
+4	mwandi	andi	ADJ	_	NounClass=Bantu1	3	amod	3:amod	Gloss=1-cruel|MSeg=mu-andi|SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_90
+# text = nawangula owa ntale,
+# english = and defeated the Lion,
+1	nawangula	wangula	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-win-FV|MSeg=ni-a-wangul-a
+2	owa	a	PART	GEN	NounClass=Bantu1|Referent=Yes	3	case	3:case	Gloss=AUG-1.GEN|MSeg=o-wa
+3	ntale	ntale	NOUN	_	NounClass=Bantu1	1	obj	1:obj	Gloss=1.lion|MSeg=ntale|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_91
+# text = nairuka.
+# english = and ran away.
+1	nairuka	iruka	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-run-FV|MSeg=ni-a-iruk-a|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_92
+# text = Owakaima n'oNyakite nebasigala ba mukwano.
+# english = The Hare and the Cow remained friends.
+1	Owakaima	wakaima	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.hare|MSeg=o-wakaima
+2-3	n'oNyakite	_	_	_	_	_	_	_	_
+2	n'	na	CCONJ	COM	_	3	cc	3:cc	Gloss=COM|MSeg=na
+3	oNyakite	nyakite	NOUN	_	NounClass=Bantu1|Referent=Yes	1	conj	1:conj|4:nsubj	Gloss=AUG-1.cow|MSeg=o-nyakite
+4	nebasigala	sigala	VERB	_	Mood=Ind|NounClass=Bantu2|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-remain-FV|MSeg=ni-ba-sigal-a
+5	ba	a	PART	GEN	NounClass=Bantu2	6	case	6:case	Gloss=2.GEN|MSeg=ba
+6	mukwano	mukwano	NOUN	_	NounClass=Bantu3	4	obl	4:obl	Gloss=3.friendship|MSeg=mukwano|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_93
+# text = Nikyo ozwa obona, ente zibba omu mutala eyo, amawakame gazonka.
+# english = That’s why you see, when the cows are in the wilderness, the hares get breast-fed/sack milk from them.
+1	Nikyo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu7|Person=3|Tense=Pres	2	cop	2:cop	Gloss=COP-7|MSeg=ni-kyo
+2	ozwa	zwa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-come_from-FV|MSeg=o-zw-a
+3	obona	bona	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	compound	2:compound	Gloss=2sgS-see-FV|MSeg=o-bon-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+5	ente	nte	NOUN	_	NounClass=Bantu10|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-10.cow|MSeg=e-nte
+6	zibba	bba	VERB	COP	Mood=Ind|NounClass=Bantu10|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	Gloss=10S-COP|MSeg=zi-bba
+7	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	8	case	8:case	Gloss=AUG-18.LOC|MSeg=o-mu
+8	mutala	mutala	NOUN	_	NounClass=Bantu3	6	obl	6:obl	Gloss=3.village|MSeg=mutala
+9	eyo	eyo	ADV	_	Deixis=Med|NounClass=Bantu23|PronType=Dem	6	advmod	6:advmod	Gloss=23.MED|MSeg=eyo|SpaceAfter=No
+10	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+11	amawakame	wakame	NOUN	_	NounClass=Bantu6|Referent=Yes	12	nsubj	12:nsubj	Gloss=AUG-6.hare|MSeg=a-mawakame
+12	gazonka	onka	VERB	_	Mood=Ind|NounClass=Bantu6|NounClass[obj]=Bantu10|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	Gloss=6S-10O-suck-FV|MSeg=ga-zi-onk-a|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_94
+# text = Era baayemangamu kumwei.
+# english = They always moved together (lit. and stepped in the same).
+1	Era	era	CCONJ	_	_	2	cc	2:cc	Gloss=and|MSeg=era
+2-3	baayemangamu	_	_	_	_	_	_	_	_
+2	baayemanga	ema	VERB	_	Aspect=Hab|Mood=Ind|NounClass=Bantu2|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=2S-PST-step-HAB-FV|MSeg=ba-a-em-ang-a
+3	mu	mu	ADV	LOC	NounClass=Bantu18	2	advmod:loc	2:advmod:loc	Gloss=18.LOC|MSeg=mu
+4	kumwei	kumwei	ADV	_	_	2	advmod	2:advmod	Gloss=close_together|MSeg=kumwei|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_95
+# text = Ontale wa akwira, n’onte niwo akwema,
+# english = Wherever the Lion went, (wherever the lion would move to) it's also where the cow steps.
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	wa	e	PRON	_	NounClass=Bantu16|PronType=Rel	8	obl	8:obl	Gloss=16.REL|MSeg=wa
+3	akwira	ira	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=1S-PROG-go-FV|MSeg=a-ku-ir-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+5-6	n’onte	_	_	_	_	_	_	_	_
+5	n’	na	PART	ADD.FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=ADD.FOC|MSeg=na
+6	onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-1.cow|MSeg=o-nte
+7	niwo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu16|Person=3|Tense=Pres	8	cop	8:cop	Gloss=COP-16|MSeg=ni-wo
+8	akwema	ema	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-step-FV|MSeg=a-ku-em-a|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_96
+# text = Ontale wa akwema, n’onte niwo akwema.
+# english = Where the lion steps, this is where the cow steps.
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	wa	e	PRON	_	NounClass=Bantu16|PronType=Rel	8	nsubj:outer	8:nsubj:outer	Gloss=16.REL|MSeg=wa
+3	akwema	ema	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Gloss=1S-PROG-step-FV|MSeg=a-ku-em-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+5-6	n’onte	_	_	_	_	_	_	_	_
+5	n’	na	PART	ADD.FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=ADD.FOC|MSeg=na
+6	onte	nte	NOUN	_	NounClass=Bantu1|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-1.cow|MSeg=o-nte
+7	niwo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu16|Person=3|Tense=Pres	8	cop	8:cop	Gloss=COP-16|MSeg=ni-wo
+8	akwema	ema	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-step-FV|MSeg=a-ku-em-a|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_97
+# text = Mwinange ontale enzala nemuluma,
+# english = My dear, the Lion felt hungry (lit. hunger hurt him),
+1	Mwinange	mwinange	NOUN	_	NounClass=Bantu1	4	vocative	4:vocative	Gloss=1.my_friend|MSeg=mwinange
+2	ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	4	obj	4:obj	Gloss=AUG-1.lion|MSeg=o-ntale
+3	enzala	nzala	NOUN	_	NounClass=Bantu9|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-9.hunger|MSeg=e-nzala
+4	nemuluma	luma	VERB	_	Mood=Ind|NounClass=Bantu9|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-9S-1O-hurt-FV|MSeg=ni-e-mu-lum-a|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_98
+# text = Ayabire owa nkembo,
+# english = She went to the monkey,
+1	Ayabire	aba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-go-PFV|MSeg=a-a-ab-ire
+2	owa	wa	ADP	LOC	NounClass=Bantu16	3	case	3:case	Gloss=AUG-16.LOC|MSeg=o-wa
+3	nkembo	nkembo	NOUN	_	NounClass=Bantu1	1	obl	1:obl	Gloss=1.monkey|MSeg=nkembo|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_99
+# text = amusangire,
+# english = and she met him
+1	amusangire	sanga	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-meet-PFV|MSeg=a-mu-sang-ire|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_100
+# text = amukobere "nkembo,
+# english = and told him, monkey
+1	amukobere	koba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-1O-say-PFV|MSeg=a-mu-kob-ere
+2	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+3	nkembo	nkembo	NOUN	_	NounClass=Bantu1	1	ccomp	1:ccomp	Gloss=1.monkey|MSeg=nkembo|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_101
+# text = akwiruka misinde.
+# english = while running.
+1	akwiruka	iruka	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1S-PROG-run-FV|MSeg=a-ku-iruk-a
+2	misinde	musinde	NOUN	_	NounClass=Bantu4	1	obj	1:obj	Gloss=4.running|MSeg=misinde|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_102
+# text = Onkembo namukoba, “mwala we okwiruka ki?”
+# english = The monkey asked her, (Lit. The monkey told her) “you girl, why are you running?”
+1	Onkembo	nkembo	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.monkey|MSeg=o-nkembo
+2	namukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+4	“	“	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+5	mwala	mwala	NOUN	_	NounClass=Bantu1	7	vocative	7:vocative	Gloss=1.girl|MSeg=mwala
+6	we	we	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	Gloss=2sg|MSeg=we
+7	okwiruka	iruka	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Gloss=2sgS-PROG-run-FV|MSeg=o-ku-iruk-a
+8	ki	ki	PRON	_	PronType=Int	7	obl	7:obl	Gloss=what|MSeg=ki|SpaceAfter=No
+9	?	?	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+10	”	”	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_103
+# text = Nti, “Bbe.”
+# english = [Lion] “No”, she answered. (Lit. That, ''No'')
+1	Nti	nti	SCONJ	QUOT	_	4	mark	4:mark	Gloss=QUOT|MSeg=nti|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	“	“	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+4	Bbe	bbe	INTJ	_	Polarity=Neg	0	root	0:root	Gloss=no|MSeg=bbe|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_104
+# text = Oba ayabire na bandi.”
+# english = Maybe he went with others.
+1	Oba	oba	ADV	_	_	2	advmod	2:advmod	Gloss=maybe|MSeg=oba
+2	ayabire	aba	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=1S-PST-go-PFV|MSeg=a-a-ab-ire
+3	na	na	ADP	COM	_	4	case	4:case	Gloss=COM|MSeg=na
+4	bandi	ndi	PRON	_	NounClass=Bantu2|PronType=Ind	2	obl	2:obl	Gloss=2-other|MSeg=ba-ndi|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+6	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_105
+# text = “Timaite.”
+# english = I don’t know.”
+1	“	“	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Timaite	manya	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=NEG-1sgS-know:PFV|MSeg=ti-n-maite|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+4	”	”	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_106
+# text = Ontale nakoba, “Eeh hmm”
+# english = The Lion [it should be the Cow] said, ‘‘Eeh! Hhhmh.”
+1	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	2	nsubj	2:nsubj	Gloss=AUG-1.lion|MSeg=o-ntale
+2	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	5:punct	_
+4	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+5	Eeh	eeh	INTJ	_	_	2	ccomp	2:ccomp	Gloss=INTERJ|MSeg=eeh
+6	hmm	hmm	INTJ	_	_	5	discourse	5:discourse	Gloss=INTERJ|MSeg=hmm|SpaceAfter=No
+7	”	”	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_107
+# text = Natoolerya,
+# english = She searched
+1	Natoolerya	toolerya	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-search-FV|MSeg=ni-a-toolery-a|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_108
+# text = nabona omusaayi.
+# english = and saw the blood.
+1	nabona	bona	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-see-FV|MSeg=ni-a-bon-a
+2	omusaayi	musaayi	NOUN	_	NounClass=Bantu3|Referent=Yes	1	obj	1:obj	Gloss=AUG-3.blood|MSeg=o-musaayi|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = spokenTale_Gweero_109
+# text = Nakoba "Ontale onu ataamu akantu,
+# english = And she said "this lion has a suspicion (Lit. this lion has a little thing in him),
+1	Nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a|SpacesAfter=\n
+2	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+3	Ontale	ntale	NOUN	_	NounClass=Bantu1|Referent=Yes	6	obl	6:obl	Gloss=AUG-1.lion|MSeg=o-ntale
+4	onu	ni	DET	_	Deixis=Prox|NounClass=Bantu1|PronType=Dem	3	det	3:det	Gloss=1.PROX|MSeg=onu
+5-6	ataamu	_	_	_	_	_	_	_	_
+5	ataa	ta	AUX	COP	NounClass=Bantu1|Person=3|Tense=Pres	6	cop	6:cop	Gloss=1S-COP|MSeg=a-taa
+6	mu	mu	ADV	LOC	NounClass=Bantu18	1	ccomp	1:ccomp	Gloss=18.LOC|MSeg=mu
+7	akantu	kantu	NOUN	_	NounClass=Bantu12|Referent=Yes	6	nsubj	6:nsubj	Gloss=AUG-12.thing|MSeg=a-kantu|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+

@@ -1,0 +1,318 @@
+# newdoc id = grammar_Introduction
+# sent_id = grammar_Introduction_1a
+# text = Huŋgo haniwahum koptubidaʔ.
+# english = Pick up that calabash of yours for him.
+1-2	Huŋgo	_	_	_	_	_	_	_	_
+1	Huŋ	hun	DET	_	Deixis=Med|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=MED|MSeg=hun
+2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
+3	haniwahum	wahum	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person=2	4	obj	4:obj	Gloss=2PL.POSS-calabash|MSeg=hani-wahum
+4	koptubidaʔ	kopt-pid	VERB	BEN1	Aspect=Perfv|Mood=Imp|Number=Sing|Number[p]=Sing|Person=2|Person[p]=3|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=pick_up_for-3[SG].P-BEN-IMP[.2SG.A]|MSeg=kopt-u-pid-a|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_1b
+# text = Achetta pati garikana, soloĩwa-lamloĩwa khukmari garikana...
+# english = Having [here before me] sacred rice, having calabashes and a trident...
+1	Achetta	acheta	NOUN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=sacrificial_rice|MSeg=ʌchet̪a
+2	pati	pat	NOUN	_	Case=Abs|Number=Sing	1	conj	1:conj|3:obj	Gloss=leaf|MSeg=pat̪i
+3	garikana	gar	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	0	root	0:root	Gloss=do-CVB|MSeg=gʌr-ikʌnʌ|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	7:punct	_
+5	soloĩwa-lamloĩwa	soloĩwa-lamloĩwa	NOUN	_	Case=Abs|Number=Sing	7	obj	7:obj	Gloss=calabash|MSeg=soloĩwalamloĩwa
+6	khukmari	khukmari	NOUN	_	Case=Abs|Number=Sing	5	conj	5:conj|7:obj	Gloss=trident|MSeg=khukmari
+7	garikana	gar	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	3	parataxis	3:parataxis	Gloss=do-CVB|MSeg=gʌr-ikʌnʌ|SpaceAfter=No
+8	...	...	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_2a
+# text = Imaŋkhapchɨkce asuk yuŋno?
+# english = How many sacred garlands do you have?
+1	Imaŋkhapchɨkce	maŋkhapchɨk	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person=2	3	nsubj	3:nsubj	Gloss=2SG.POSS-god-clay_bead_garland-NSG|MSeg=i-maŋkhapchɨk-ce
+2	asuk	asuk	DET	_	PronType=Int	1	det	1:det	Gloss=how_many|MSeg=asuk
+3	yuŋno	yug	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=be_there-IND.NPST[.3SG.S]|MSeg=yug-nok|SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_2b
+# text = He parmesor, cikhimtaŋma-puwaŋtaŋma alise, khapcuri-peĩmaritaŋma alise, wahila-mɨksɨlataŋma alise!
+# english = Oh Lord, you are the goddess of the house and the home, you are the goddess of clay bead garlands, you are the goddess of holy leaves!
+1	He	hei	INTJ	_	_	2	discourse	2:discourse	Gloss=hey|MSeg=he
+2	parmesor	parameswar	NOUN	_	Case=Abs|Number=Sing	5	vocative	5:vocative	Gloss=lord|MSeg=pʌrmeswʌr|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
+4	cikhimtaŋma-puwaŋtaŋma	cikhim-taŋma-puwaŋ-taŋma	NOUN	_	Case=Abs|Number=Sing	5	nsubj	5:nsubj	Gloss=house-goddess-house-goddess|MSeg=cikhim-taŋma-puwaŋ-taŋma
+5	alise	lis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].S-become-IND.PST|MSeg=a-lis-e|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	8:punct	_
+7	khapcuri-peĩmaritaŋma	khapcuripeĩmari-taŋma	NOUN	_	Case=Abs|Number=Sing	8	nsubj	8:nsubj	Gloss=clay_bead_garland-goddess|MSeg=khapcuripeĩmari-taŋma
+8	alise	lis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	Gloss=2[SG].S-become-IND.PST|MSeg=a-lis-e|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	11:punct	_
+10	wahila-mɨksɨlataŋma	wahila-mɨksɨla-taŋma	NOUN	_	Case=Abs|Number=Sing	11	obj	11:obj	Gloss=sacred_leaf-goddess|MSeg=wahilamɨksɨla-taŋma
+11	alise	lis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	8:parataxis	Gloss=2[SG].S-become-IND.PST|MSeg=a-lis-e|SpaceAfter=No
+12	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_3_1
+# text = Sattekha gone, o baba!
+# english = It is the truth indeed, oh Father!
+1-2	Sattekha	_	_	_	_	_	_	_	_
+1	Satte	satya	NOUN	_	Case=Abs|Number=Sing	2	nmod:nmlz	2:nmod:nmlz	Gloss=truth|MSeg=sʌt̪t̪e
+2	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
+3	gone	gonei	PART	ATTN	_	2	discourse	2:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	_
+5	o	oi	INTJ	_	_	6	discourse	6:discourse	Gloss=oh|MSeg=o
+6	baba	buwa	NOUN	_	Case=Abs|Number=Sing	2	vocative	2:vocative	Gloss=father|MSeg=baba|SpaceAfter=No
+7	!	!	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = grammar_Introduction_3_2
+# text = Lu, abo tupla basaiʔko ubheĩbe.
+# english = Okay, now [put] the banana leaf below this thing here.
+1	Lu	lo	INTJ	_	_	7	discourse	7:discourse	Gloss=okay|MSeg=lʌ|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	abo	abo	ADV	_	_	7	advmod	7:advmod	Gloss=now|MSeg=abo
+4	tupla	tupla	NOUN	_	Case=Abs|Number=Sing	7	nsubj	7:nsubj	Gloss=banana_leaf|MSeg=tupla
+5-6	basaiʔko	_	_	_	_	_	_	_	_
+5	basaiʔ	ba	ADV	OBL-LOC1	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	7	advmod:nmlz	7:advmod:nmlz	Gloss=PROX-OBL-LOC1|MSeg=ba-sa-iʔ
+6	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	7	nmod:poss	7:nmod:poss	Gloss=NMLZ1|MSeg=go
+7	ubheĩbe	bheĩ	NOUN	LOC2	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3	0	root	0:root	Gloss=3SG.POSS-place_below-LOC2|MSeg=u-bheĩ-beʔ|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_4
+# text = Haniko samae salbeʔko, baisathi salbeʔko; baisakhi dhulesewa yupuŋsewa; “Jasko sakti, usko bhakti” garikana...
+# english = [This worship] is of your time and year, of the year [20]62 [of the time of] the dhule worship [and] the yupuŋ worship in the month of Vaiśakha, and stating “To whom the power belongs, the devotion belongs...”
+1	Haniko	hani	PRON	GEN	Case=Abs,Erg|Number=Plur|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss|4:nmod:poss	Gloss=2PL-GEN|MSeg=hani-ko
+2	samae	samae	NOUN	_	Case=Abs|Number=Sing	4	nmod:nmlz	4:nmod:nmlz	Gloss=time|MSeg=sʌmʌe
+3-4	salbeʔko	_	_	_	_	_	_	_	SpaceAfter=No
+3	salbeʔ	sal	NOUN	LOC2	Case=Loc|Number=Sing	2	conj	2:conj	Gloss=year-LOC2|MSeg=sal-beʔ
+4	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ1|MSeg=go
+5	,	,	PUNCT	_	_	8	punct	8:punct	_
+6	baisathi	baisathi	NUM	_	NumType=Card	7	nummod	7:nummod	Gloss=62|MSeg=bʌisaʈhi
+7-8	salbeʔko	_	_	_	_	_	_	_	SpaceAfter=No
+7	salbeʔ	sal	NOUN	LOC2	Case=Loc|Number=Sing	8	nmod:nmlz	8:nmod:nmlz	Gloss=year-LOC2|MSeg=sal-beʔ
+8	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	conj	4:conj	Gloss=NMLZ1|MSeg=go
+9	;	;	PUNCT	_	_	4	punct	4:punct	_
+10	baisakhi	baisak	ADJ	ADJZ	_	11	amod	11:amod|12:amod	Gloss=a_month-ADJZ|MSeg=bʌisakh-i
+11	dhulesewa	dhule-sewak	NOUN	_	Case=Abs|Number=Sing	4	parataxis	4:parataxis	Gloss=a_ritual-service|MSeg=dhule-sewa
+12	yupuŋsewa	Yupuŋ-sewak	PROPN	_	Case=Abs|Number=Sing	11	conj	11:conj	Gloss=a_ritual-service|MSeg=yupuŋ-sewa|SpaceAfter=No
+13	;	;	PUNCT	_	_	11	punct	11:punct	_
+14	“	“	PUNCT	_	_	21	punct	21:punct	SpaceAfter=No
+15	Jasko	j	PRON	GEN	Case=Abs|Number=Sing|Poss=Yes|PronType=Ind	16	nmod:poss	16:nmod:poss	Gloss=whoever-GEN|MSeg=jo-ko
+16	sakti	sakti	NOUN	_	Case=Abs|Number=Sing	21	ccomp	21:ccomp	Gloss=power|MSeg=sʌkt̪i|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	19:punct	_
+18	usko	u	PRON	GEN	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Gloss=3SG-GEN|MSeg=u-ko
+19	bhakti	bhakti	NOUN	_	Case=Abs|Number=Sing	16	parataxis	16:parataxis	Gloss=devotion|MSeg=bhʌkt̪i|SpaceAfter=No
+20	”	”	PUNCT	_	_	16	punct	16:punct	_
+21	garikana	gar	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	11	parataxis	11:parataxis	Gloss=do-CVB|MSeg=gʌr-ikʌn̪ʌ|SpaceAfter=No
+22	...	...	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_5
+# text = Hanikko sabai kuro bolbinti numde gonei, hanikko agadikha gonei, sattekha gone, o baba!
+# english = [The worshipper] has made all requests to you, it [has been done] in front of you, it is the truth, oh Father!
+1-2	Hanikko	_	_	_	_	_	_	_	_
+1	Hanik	hani	PRON	LOC1	Case=Loc|Number=Plur|Person=2|PronType=Prs	2	nmod:nmlz	2:nmod:nmlz	Gloss=2PL-LOC1|MSeg=hani-iʔ
+2	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	obl	6:obl	Gloss=NMLZ1|MSeg=go
+3	sabai	sabai	DET	_	PronType=Tot	5	det	5:det	Gloss=all|MSeg=sʌbʌi
+4	kuro	kura	NOUN	_	Case=Abs|Number=Sing	5	reparandum	5:reparandum	Gloss=thing|MSeg=kuro
+5	bolbinti	boli-binti	NOUN	_	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=speech-supplication|MSeg=boli-bin̪t̪i
+6	numde	numd	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do-IND.PST[.3SG.S/A]|MSeg=numd-e
+7	gonei	gonei	PART	ATTN	_	6	discourse	6:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	12:punct	_
+9-10	hanikko	_	_	_	_	_	_	_	_
+9	hanik	hani	PRON	LOC1	Case=Loc|Number=Plur|Person=2|PronType=Prs	10	nmod:nmlz	10:nmod:nmlz	Gloss=2PL-LOC1|MSeg=hani-iʔ
+10	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	11	nmod	11:nmod	Gloss=NMLZ1|MSeg=go
+11-12	agadikha	_	_	_	_	_	_	_	_
+11	agadi	agadi	ADV	_	_	12	nmod:nmlz	12:nmod:nmlz	Gloss=front|MSeg=ʌgaɖi
+12	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	6	parataxis	6:parataxis	Gloss=NMLZ1|MSeg=kha
+13	gonei	gonei	PART	ATTN	_	12	discourse	12:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	16:punct	_
+15-16	sattekha	_	_	_	_	_	_	_	_
+15	satte	satya	NOUN	_	Case=Abs|Number=Sing	16	acl:nmlz	16:acl:nmlz	Gloss=truth|MSeg=sʌt̪t̪e
+16	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	12	parataxis	12:parataxis	Gloss=NMLZ2|MSeg=kha
+17	gone	gonei	PART	ATTN	_	16	discourse	16:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	20:punct	_
+19	o	oi	INTJ	_	_	20	discourse	20:discourse	Gloss=oh|MSeg=o
+20	baba	buwa	NOUN	_	Case=Abs|Number=Sing	6	vocative	6:vocative	Gloss=father|MSeg=baba|SpaceAfter=No
+21	!	!	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_6a
+# text = Bata hanako thembeʔko sewata mahaʔ bhonikana, bata tuplachoŋ-berichoŋ garikana, khamawa-maciya soloĩwa-saŋmaʔmi garikana, baraji-iswostibeʔ muthe lise.
+# english = Saying that this, yours, is not a service of any kind; having [here before me] this, a banana leaf and a leaf-covered calabash, having bear and yeast, calabashes and all utensils, it all comes together in the prayer to the forefathers.
+1-2	Bata	_	_	_	_	_	_	_	_
+1	Ba	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Sing|PronType=Dem	3	reparandum	3:reparandum	Gloss=PROX|MSeg=ba
+2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
+3	hanako	hana	PRON	GEN	Case=Abs|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	6:nsubj	Gloss=2SG|MSeg=hana-ko
+4-5	thembeʔko	_	_	_	_	_	_	_	_
+4	thembeʔ	them	PRON	LOC2	Case=Loc|Number=Sing|PronType=Int	5	nmod:nmlz	5:nmod:nmlz	Gloss=what-LOC2|MSeg=them-beʔ
+5	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	nmod	6:nmod	Gloss=NMLZ1|MSeg=go
+6-7	sewata	_	_	_	_	_	_	_	_
+6	sewa	sewak	NOUN	_	Case=Abs|Number=Sing	9	ccomp	9:ccomp	Gloss=service|MSeg=sewa
+7	ta	ta	PART	FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=FOC|MSeg=ta
+8	mahaʔ	maha	PART	NEG.IDENT	Polarity=Neg	6	advmod:cop	6:advmod:cop	Gloss=NEG.IDENT|MSeg=mahãʔ
+9	bhonikana	bhan	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	22	advcl	22:advcl	Gloss=say-CVB|MSeg=bhʌn-ikʌn̪ʌ,|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	_
+11-12	bata	_	_	_	_	_	_	_	_
+11	ba	ba	DET	_	Deixis=Prox|PronType=Dem	13	reparandum	13:reparandum	Gloss=PROX|MSeg=ba
+12	ta	ta	PART	FOC	InfStruct=Foc	11	advmod:emph	11:advmod:emph	Gloss=FOC|MSeg=ta
+13	tuplachoŋ-berichoŋ	tuplachoŋ-berichoŋ	NOUN	_	Case=Abs|Number=Sing	14	obj	14:obj	Gloss=banana_leaf-leaf_covered_calabash|MSeg=tuplachoŋ-berichoŋ
+14	garikana	gar	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	22	advcl	22:advcl	Gloss=do-CVB|MSeg=gʌr-ikʌn̪ʌ|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	14:punct	_
+16	khamawa-maciya	khamawa-maciya	NOUN	_	Case=Abs|Number=Sing	18	obj	18:obj	Gloss=beer-yeast|MSeg=khamawa-maciya
+17	soloĩwa-saŋmaʔmi	soloĩwa-saŋmaʔmi	NOUN	_	Case=Abs|Number=Sing	16	conj	16:conj|18:obj	Gloss=calabash-ritual_utensils|MSeg=soloĩwa-saŋmaʔmi
+18	garikana	gar	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	22	advcl	22:advcl	Gloss=do-CVB|MSeg=gʌr-ikʌn̪ʌ|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	18:punct	_
+20	baraji-iswostibeʔ	baraju-swasti	NOUN	HON-LOC2	Case=Loc|Number=Sing	22	obl	22:obl	Gloss=father's_father-HON-prayer-LOC2|MSeg=bʌra-ji-swʌsti-beʔ
+21	muthe	mutha	NOUN	_	Case=Abs|Number=Sing	22	obj	22:obj	Gloss=bundle|MSeg=muʈhe
+22	lise	lis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=become-IND.PST[.3SG.S]|MSeg=lis-e|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	22:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_6b
+# text = Khatta cokkhaune thaŋe kina, thurum-harum sube kina, wahuʔluŋ-wateluŋlo!
+# english = The stain-purifying [ritual] having been performed, the mouth having been cleaned, [this is] the ancient home!
+1	Khatta	khat	NOUN	NTVZ	Case=Abs|Number=Sing	2	obj	2:obj	Gloss=stain-NTVZ|MSeg=khʌt-a
+2	cokkhaune	cokhi	VERB	ACT.PTCP	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part|Voice=Cau	3	obj	3:obj	Gloss=become_pure-CAUS-PTCP|MSeg=cokhi-au-ne
+3	thaŋe	thaŋ	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=be_performed-IND.PST[.3SG.S]|MSeg=thaŋ-e
+4	kina	kina	CCONJ	SEQ	_	3	cc	3:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	3:punct	_
+6	thurum-harum	thurum-harum	NOUN	_	Case=Abs|Number=Sing	7	obj	7:obj	Gloss=mouth|MSeg=thurumharum
+7	sube	sup	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	Gloss=clean-IND.PST[.3SG.S]|MSeg=sup-e
+8	kina	kina	CCONJ	SEQ	_	7	cc	7:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	7:punct	_
+10-11	wahuʔluŋ-wateluŋlo	_	_	_	_	_	_	_	SpaceAfter=No
+10	wahuʔluŋ-wateluŋ	wahuʔluŋ-wateluŋ	NOUN	_	Case=Abs|Number=Sing	3	conj	3:conj	Gloss=ancestral_territory|MSeg=wahuʔluŋwateluŋ
+11	lo	lo	PART	SURP	InfStruct=Foc	10	advmod:emph	10:advmod:emph	Gloss=SURP|MSeg=lo
+12	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_6c
+# text = Basaŋata wahuʔluŋ-wateluŋbeʔ yuwade thiadetamo nusayaŋ, damchama-epchamalo!
+# english = Even assuming that with this, he settled down in the ancient home, that he fell down, [this is your] worshipper!
+1-2	Basaŋata	_	_	_	_	_	_	_	_
+1	Basaŋa	ba	PRON	OBL	Case=Erg|Deixis=Prox|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Gloss=PROX-OBL-ERG|MSeg=ba-sa-ŋa
+2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
+3	wahuʔluŋ-wateluŋbeʔ	wahuʔluŋ-wateluŋ	NOUN	LOC2	Case=Loc|Number=Sing	4	obl	4:obl	Gloss=ancestral_territory-LOC2|MSeg=wahuʔluŋwateluŋ-beʔ
+4	yuwade	yug	VERB	COMPL3.ITR	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=sit-PST-COMPL3.ITR-IND.PST[.3SG.S]|MSeg=yug-a-hat-e
+5-7	thiadetamo	_	_	_	_	_	_	_	_
+5	thiade	tha	VERB	COMPL3.ITR	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=fall-PST-COMPL3.ITR-IND.PST[.3SG.S]|MSeg=tha-a-hat-e
+6	ta	ta	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ta
+7	mo	mo	SCONJ	CIT	_	5	mark	5:mark	Gloss=CIT|MSeg=mo
+8	nusayaŋ	nusayaŋ	ADP	CONCS	_	5	mark	5:mark	Gloss=CONCS|MSeg=nusayaŋ|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	10:punct	_
+10-11	damchama-epchamalo	_	_	_	_	_	_	_	SpaceAfter=No
+10	damchama-epchama	damchamaepchama	NOUN	_	Case=Abs|Number=Sing	4	parataxis	4:parataxis	Gloss=worshipper|MSeg=damchamaepchama
+11	lo	lo	PART	SURP	InfStruct=Foc	10	advmod:emph	10:advmod:emph	Gloss=SURP|MSeg=lo
+12	!	!	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_6d
+# text = Wahuʔluŋ-wateluŋbeʔ nalonnokha nei, sattekha ne, o baba parmeswora!
+# english = He brings you out from the ancient home, it is the truth, oh Lord Father!
+1	Wahuʔluŋ-wateluŋbeʔ	wahuʔluŋ-wateluŋ	NOUN	LOC2	Case=Loc|Number=Sing	2	obl	2:obl	Gloss=ancestral_territory-LOC2|MSeg=wahuʔluŋwateluŋ-beʔ
+2-3	nalonnokha	_	_	_	_	_	_	_	_
+2	nalonno	loĩs	VERB	_	Aspect=Imp|Mood=Ind|Number[p]=Sing|Person=3|Person[p]=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=3>2[SG]-bring_out-IND.NPST|MSeg=na-loĩs-nok
+3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
+4	nei	gonei	PART	ATTN	_	3	discourse	3:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	7:punct	_
+6-7	sattekha	_	_	_	_	_	_	_	_
+6	satte	satya	NOUN	_	Case=Abs|Number=Sing	7	acl:nmlz	7:acl:nmlz	Gloss=truth|MSeg=sʌt̪t̪e
+7	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	3	parataxis	3:parataxis	Gloss=NMLZ2|MSeg=kha
+8	ne	gonei	PART	ATTN	_	7	discourse	7:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	11:punct	_
+10	o	oi	INTJ	_	_	11	discourse	11:discourse	Gloss=oh|MSeg=o
+11	baba	buwa	NOUN	_	Case=Abs|Number=Sing	3	vocative	3:vocative	Gloss=father|MSeg=baba
+12	parmeswora	parmeswari	NOUN	NTVZ	Case=Abs|Number=Sing	11	flat	11:flat	Gloss=lord-NTVZ|MSeg=pʌrmeswʌr-a|SpaceAfter=No
+13	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_7
+# text = Hanaiʔko idamchama-epchamaŋa basaŋata abo hunlamta yuŋmeiʔmasewalo hanaiʔko hunlamta joda oktoŋwa-seleĩwa-kharɨwa-rɨmchɨmwaŋata yuŋnameʔnokha.
+# english = Now your worshipper, with this and by that, makes you stay; [he performs] the yuŋmeiʔma worship by that very pair of roosters and cockerels.
+1-2	Hanaiʔko	_	_	_	_	_	_	_	_
+1	Hanaiʔ	hana	PRON	LOC1	Case=Loc|Number=Sing|Person=2|PronType=Prs	2	nmod:nmlz	2:nmod:nmlz	Gloss=2SG-LOC1|MSeg=hana-iʔ
+2	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
+3	idamchama-epchamaŋa	damchamaepchama	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person=2	0	root	0:root	Gloss=2SG.POSS-worshipper-ERG|MSeg=i-damchamaepchama-ŋa
+4-5	basaŋata	_	_	_	_	_	_	_	_
+4	basaŋa	ba	PRON	OBL	Case=Erg|Deixis=Prox|Number=Sing|PronType=Dem	3	iobj	3:iobj	Gloss=PROX-OBL-ERG|MSeg=ba-sa-ŋa
+5	ta	ta	PART	FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=FOC|MSeg=ta
+6	abo	abo	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=abo
+7-8	hunlamta	_	_	_	_	_	_	_	_
+7	hunlam	hun	PRON	_	Case=Per|Deixis=Med|Number=Sing|PronType=Dem	3	obl	3:obl	Gloss=MED-PERL|MSeg=hun-lam
+8	ta	ta	PART	FOC	InfStruct=Foc	7	advmod:emph	7:advmod:emph	Gloss=FOC|MSeg=ta
+9-10	yuŋmeiʔmasewalo	_	_	_	_	_	_	_	_
+9	yuŋmeiʔmasewa	Yuŋmeiʔma-sewak	PROPN	_	Case=Abs|Number=Sing	3	parataxis	3:parataxis	Gloss=a_ritual-service|MSeg=yuŋmeiʔma-sewa
+10	lo	lo	PART	SURP	InfStruct=Foc	9	advmod:emph	9:advmod:emph	Gloss=SURP|MSeg=lo
+11-12	hanaiʔko	_	_	_	_	_	_	_	_
+11	hanaiʔ	hana	PRON	LOC1	Case=Loc|Number=Sing|Person=2|PronType=Prs	12	nmod:nmlz	12:nmod:nmlz	Gloss=2SG-LOC1|MSeg=hana-iʔ
+12	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	13	nmod	13:nmod	Gloss=NMLZ1|MSeg=go
+13-14	hunlamta	_	_	_	_	_	_	_	_
+13	hunlam	hun	PRON	_	Case=Per|Deixis=Med|Number=Sing|PronType=Dem	19	obl	19:obl	Gloss=MED-PERL|MSeg=hun-lam
+14	ta	ta	PART	FOC	InfStruct=Foc	13	advmod:emph	13:advmod:emph	Gloss=FOC|MSeg=ta
+15	joda	joda	NOUN	_	Case=Abs|Number=Sing	16	nmod	16:nmod	Gloss=pair|MSeg=joɖa
+16-17	oktoŋwa-seleĩwa-kharɨwa-rɨmchɨmwaŋata	_	_	_	_	_	_	_	_
+16	oktoŋwa-seleĩwa-kharɨwa-rɨmchɨmwaŋa	oktoŋwa-seleĩwa-kharɨwa-rɨmchɨmwa	NOUN	_	Case=Erg|Number=Sing	19	iobj	19:iobj	Gloss=rooster-ERG|MSeg=oktoŋwaseleĩwakharɨwarɨmchɨmwa-ŋa
+17	ta	ta	PART	FOC	InfStruct=Foc	16	advmod:emph	16:advmod:emph	Gloss=FOC|MSeg=ta
+18-19	yuŋnameʔnokha	_	_	_	_	_	_	_	SpaceAfter=No
+18	yuŋnameʔno	yug	VERB	_	Aspect=Imp|Mood=Ind|Number[p]=Sing|Person=3|Person[p]=2|Tense=Pres|VerbForm=Fin|Voice=Cau	19	acl:nmlz	19:acl:nmlz	Gloss=stay-3>2[SG]-CAUS-IND.NPST|MSeg=yug-na-mett-nok
+19	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	3	parataxis	3:parataxis	Gloss=NMLZ2|MSeg=kha
+20	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_8_1
+# text = Bakha ciŋga-cala, paubasi sir, baliyo khaŋmusokha nai baba!
+# english = This is it, the sign and the way; down bowed the head, you showed it to be strong, Father!
+1-2	Bakha	_	_	_	_	_	_	_	_
+1	Ba	ba	DET	_	Deixis=Prox|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=PROX|MSeg=ba
+2	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ2|MSeg=kha
+3	ciŋga-cala	ciŋga-cal	NOUN	NTVZ	Case=Abs|Number=Sing	0	root	0:root	Gloss=sign-method-NTVZ|MSeg=ciŋga-cal-a|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	paubasi	paubas	X	_	Foreign=Yes	3	parataxis	3:parataxis	Gloss=bow_down-PST.3SG|MSeg=paubʌs-yo|OrigLang=ne
+6	sir	sir	X	_	Foreign=Yes	5	flat:foreign	5:flat:foreign	Gloss=head|MSeg=sir|OrigLang=ne|SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	10:punct	_
+8	baliyo	baliyo	ADJ	_	_	9	xcomp	9:xcomp	Gloss=strong|MSeg=bʌliyo
+9-10	khaŋmusokha	_	_	_	_	_	_	_	_
+9	khaŋmuso	khag-mus	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:nmlz	10:acl:nmlz	Gloss=show-STEM-[SUBJ.3SG>]3[SG]|MSeg=khag-mus-u
+10	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	5	parataxis	5:parataxis	Gloss=NMLZ2|MSeg=kha
+11	nai	gonei	PART	ATTN	_	3	discourse	3:discourse	Gloss=ATTN|MSeg=gonei
+12	baba	buwa	NOUN	_	Case=Abs|Number=Sing	3	vocative	3:vocative	Gloss=father|MSeg=baba|SpaceAfter=No
+13	!	!	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = grammar_Introduction_8_2
+# text = Satte parmeswora, ba phaĩma caĩne ke bhanedekhi.
+# english = It is the truth, Lord, if one asks what [this is].
+1	Satte	satya	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=truth|MSeg=sʌt̪t̪e
+2	parmeswora	parmeswari	NOUN	NTVZ	Case=Abs|Number=Sing	1	vocative	1:vocative	Gloss=lord-NTVZ|MSeg=pʌrmeswʌr-a|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	7:punct	_
+4	ba	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	Gloss=PROX|MSeg=ba
+5	phaĩma	phaĩma	ADV	_	_	7	advmod	7:advmod	Gloss=near|MSeg=phaĩma
+6	caĩne	caĩ	PART	CTOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=CTOP|MSeg=caine
+7	ke	ke	X	_	Foreign=Yes	1	advcl	1:advcl	Gloss=what|MSeg=ke|OrigLang=ne
+8	bhanedekhi	bhan	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	Gloss=say-COND|MSeg=bhʌn̪-ed̪ekhi|OrigLang=ne|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_9
+# text = Bata hanako, thembeʔko binti-sewata mahaʔ bhanikana...
+# english = Saying that this is not yours, not a request or service of any kind...
+1-2	Bata	_	_	_	_	_	_	_	_
+1	Ba	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Gloss=PROX|MSeg=ba
+2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
+3	hanako	hana	PRON	GEN	Case=Abs,Erg|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	ccomp	10:ccomp	Gloss=2SG-GEN|MSeg=hana-ko|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	_
+5-6	thembeʔko	_	_	_	_	_	_	_	_
+5	thembeʔ	them	PRON	LOC2	Case=Loc|Number=Sing|PronType=Int	6	nmod:nmlz	6:nmod:nmlz	Gloss=what-LOC2|MSeg=them-beʔ
+6	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	7	nmod	7:nmod	Gloss=NMLZ1|MSeg=go
+7-8	binti-sewata	_	_	_	_	_	_	_	_
+7	binti-sewa	binti-sewak	NOUN	_	Case=Abs|Number=Sing	3	conj	3:conj|10:ccomp	Gloss=request-service|MSeg=bin̪t̪i-sewa
+8	ta	ta	PART	FOC	InfStruct=Foc	7	advmod:emph	7:advmod:emph	Gloss=FOC|MSeg=ta
+9	mahaʔ	maha	PART	NEG.IDENT	Polarity=Neg	3	advmod:cop	3:advmod:cop|7:advmod:cop	Gloss=NEG.IDENT|MSeg=mahãʔ
+10	bhanikana	bhan	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	0	root	0:root	Gloss=say-CVB|MSeg=bhʌn̪-ikʌn̪ʌ|SpaceAfter=No
+11	...	...	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = grammar_Introduction_10_1
+# text = Thaŋna apuĩsum, meʔna apuĩsum.
+# english = You might create friends, you might create relatives.
+1	Thaŋna	thaŋna	NOUN	_	Case=Abs|Number=Sing	2	obj	2:obj	Gloss=friends|MSeg=thaŋna
+2	apuĩsum	puĩs	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Number[p]=Sing|Person=2|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2.A-create-3[SG].P-[SUBJ.NPST.]2PL.A|MSeg=a-puĩs-u-m|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	5:punct	_
+4	meʔna	meʔna	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=relatives|MSeg=meʔna
+5	apuĩsum	puĩs	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Number[p]=Sing|Person=2|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=2.A-create-3[SG].P-[SUBJ.NPST.]2PL.A|MSeg=a-puĩs-u-m|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = grammar_Introduction_10_2
+# text = Wahuʔluŋ-wateluŋbeʔŋa thamahaiʔma, yumahaiʔma mahãʔ!
+# english = There should be no falling from the ancient home, no falling into disarray!
+1	Wahuʔluŋ-wateluŋbeʔŋa	wahuʔluŋ-wateluŋ	NOUN	LOC2	Case=LocErg|Number=Sing	2	obl	2:obl	Gloss=ancestral_territory-LOC2-ERG|MSeg=wahuʔluŋwateluŋ-beʔ-ŋa
+2	thamahaiʔma	tha	VERB	COMPL3.ITR	Aspect=ComplImp|Case=Abs|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=fall-INF-COMPL3.ITR-INF|MSeg=tha-ma-hat-ma|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	yumahaiʔma	yu	VERB	COMPL3.ITR	Aspect=ComplImp|Case=Abs|VerbForm=Inf|Voice=Act	2	conj	2:conj	Gloss=be_in_disarray-INF-COMPL3.ITR-INF|MSeg=yu-ma-hat-ma
+5	mahãʔ	maha	PART	NEG.IDENT	Polarity=Neg	2	advmod:cop	2:advmod:cop|4:advmod:cop	Gloss=NEG.IDENT|MSeg=mahãʔ|SpaceAfter=No
+6	!	!	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+
+
