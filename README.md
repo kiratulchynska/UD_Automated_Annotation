@@ -1,7 +1,7 @@
 ﻿# UD Automated Annotation
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-MPL%202.0-green)](https://mozilla.org/MPL/2.0/)
 
 ## Description
 
